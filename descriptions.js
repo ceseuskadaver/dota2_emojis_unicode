@@ -50,4 +50,5 @@ export const DESCRIPTIONS = [
   {
     code: 2010,
     description: ":top1:"
-  }]
+  }
+]

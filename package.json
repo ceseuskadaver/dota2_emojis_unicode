@@ -1,0 +1,9 @@
+{
+  "name": "dota2_emojis_unicode",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/s3rbug/dota2_emojis_unicode.git",
+  "author": "s3rbug <bugaychuk.sergiy@gmail.com>",
+  "license": "MIT"
+}
