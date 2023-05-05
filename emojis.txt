@@ -1,308 +1,308 @@
-1 (%ue001): bind <your_key> "say " - :wink:
-2 (%ue002): bind <your_key> "say " - :blush:
-3 (%ue003): bind <your_key> "say " - :cheeky:
-4 (%ue004): bind <your_key> "say " - :cool:
-5 (%ue005): bind <your_key> "say " - :crazy:
-6 (%ue006): bind <your_key> "say " - :cry:
-7 (%ue007): bind <your_key> "say " - :disapprove:
-8 (%ue008): bind <your_key> "say " - :doubledamage:
-9 (%ue009): bind <your_key> "say " - :facepalm:
-10 (%ue00a): bind <your_key> "say " - :happytears:
-11 (%ue00b): bind <your_key> "say " - :haste:
-12 (%ue00c): bind <your_key> "say " - :hex:
-13 (%ue00d): bind <your_key> "say " - :highfive:
-14 (%ue00e): bind <your_key> "say " - :huh:
-15 (%ue00f): bind <your_key> "say " - :hush:
-16 (%ue010): bind <your_key> "say " - :illusion:
-17 (%ue011): bind <your_key> "say " - :invisibility:
-18 (%ue012): bind <your_key> "say " - :laugh:
-19 (%ue013): bind <your_key> "say " - :rage:
-20 (%ue014): bind <your_key> "say " - :regeneration:
-21 (%ue015): bind <your_key> "say " - :sad:
-22 (%ue016): bind <your_key> "say " - :sick:
-23 (%ue017): bind <your_key> "say " - :sleeping:
-24 (%ue018): bind <your_key> "say " - :smile:
-25 (%ue019): bind <your_key> "say " - :surprise:
-26 (%ue01a): bind <your_key> "say " - :aaaah:
-27 (%ue01b): bind <your_key> "say " - :burn:
-28 (%ue01c): bind <your_key> "say " - :hide:
-29 (%ue01d): bind <your_key> "say " - :iceburn:
-30 (%ue01e): bind <your_key> "say " - :tears:
-31 (%ue01f): bind <your_key> "say " - :techies:
-32 (%ue020): bind <your_key> "say " - :fail:
-33 (%ue021): bind <your_key> "say " - :goodjob:
-34 (%ue022): bind <your_key> "say " - :headshot:
-35 (%ue023): bind <your_key> "say " - :heart:
-36 (%ue024): bind <your_key> "say " - :horse:
-37 (%ue025): bind <your_key> "say " - :grave:
-38 (%ue026): bind <your_key> "say " - :ti4copper:
-39 (%ue027): bind <your_key> "say " - :ti4bronze:
-40 (%ue028): bind <your_key> "say " - :ti4silver:
-41 (%ue029): bind <your_key> "say " - :ti4gold:
-42 (%ue02a): bind <your_key> "say " - :ti4platinum:
-43 (%ue02b): bind <your_key> "say " - :ti4diamond:
-44 (%ue02c): bind <your_key> "say " - :dac15_blush:
-45 (%ue02d): bind <your_key> "say " - :dac15_surprise:
-46 (%ue02e): bind <your_key> "say " - :dac15_cool:
-47 (%ue02f): bind <your_key> "say " - :dac15_duel:
-48 (%ue030): bind <your_key> "say " - :dac15_frog:
-49 (%ue031): bind <your_key> "say " - :dac15_face:
-50 (%ue032): bind <your_key> "say " - :dac15_nosewipe:
-51 (%ue033): bind <your_key> "say " - :dac15_stab:
-52 (%ue034): bind <your_key> "say " - :dac15_transform:
-53 (%ue035): bind <your_key> "say " - :pup:
-54 (%ue036): bind <your_key> "say " - :bts_bristle:
-55 (%ue037): bind <your_key> "say " - :bts_godz:
-56 (%ue038): bind <your_key> "say " - :bts_lina:
-57 (%ue039): bind <your_key> "say " - :bts_merlini:
-58 (%ue03a): bind <your_key> "say " - :bts_rosh:
-59 (%ue03b): bind <your_key> "say " - :cocky:
-60 (%ue03c): bind <your_key> "say " - :devil:
-61 (%ue03d): bind <your_key> "say " - :happy:
-62 (%ue03e): bind <your_key> "say " - :thinking:
-63 (%ue03f): bind <your_key> "say " - :tp:
-64 (%ue040): bind <your_key> "say " - :salty:
-65 (%ue041): bind <your_key> "say " - :angel:
-66 (%ue042): bind <your_key> "say " - :blink:
-67 (%ue043): bind <your_key> "say " - :snot:
-68 (%ue044): bind <your_key> "say " - :stunned:
-69 (%ue045): bind <your_key> "say " - :disappear:
-70 (%ue046): bind <your_key> "say " - :fire:
-71 (%ue047): bind <your_key> "say " - :bountyrune:
-72 (%ue048): bind <your_key> "say " - :troll:
-73 (%ue049): bind <your_key> "say " - :gross:
-74 (%ue04a): bind <your_key> "say " - :ggdire:
-75 (%ue04b): bind <your_key> "say " - :ggradiant:
-76 (%ue04c): bind <your_key> "say " - :yolo:
-77 (%ue04d): bind <your_key> "say " - :throwgame:
-78 (%ue04e): bind <your_key> "say " - :aegis2015:
-79 (%ue04f): bind <your_key> "say " - :eyeroll:
-80 (%ue050): bind <your_key> "say " - :charm_blush:
-81 (%ue051): bind <your_key> "say " - :charm_cheeky:
-82 (%ue052): bind <your_key> "say " - :charm_cool:
-83 (%ue053): bind <your_key> "say " - :charm_crazy:
-84 (%ue054): bind <your_key> "say " - :charm_cry:
-85 (%ue055): bind <your_key> "say " - :charm_disapprove:
-86 (%ue056): bind <your_key> "say " - :charm_facepalm:
-87 (%ue057): bind <your_key> "say " - :charm_happytears:
-88 (%ue058): bind <your_key> "say " - :charm_highfive:
-89 (%ue059): bind <your_key> "say " - :charm_huh:
-90 (%ue05a): bind <your_key> "say " - :charm_hush:
-91 (%ue05b): bind <your_key> "say " - :charm_laugh:
-92 (%ue05c): bind <your_key> "say " - :charm_rage:
-93 (%ue05d): bind <your_key> "say " - :charm_sad:
-94 (%ue05e): bind <your_key> "say " - :charm_sick:
-95 (%ue05f): bind <your_key> "say " - :charm_sleeping:
-96 (%ue060): bind <your_key> "say " - :charm_surprise:
-97 (%ue061): bind <your_key> "say " - :charm_wink:
-98 (%ue062): bind <your_key> "say " - :charm_smile:
-99 (%ue063): bind <your_key> "say " - :charm_onlooker:
-100 (%ue064): bind <your_key> "say " - :eaglesong_2015:
-101 (%ue065): bind <your_key> "say " - :wrath:
-102 (%ue066): bind <your_key> "say " - :snowman:
-103 (%ue067): bind <your_key> "say " - :healed:
-104 (%ue068): bind <your_key> "say " - :drunk:
-105 (%ue069): bind <your_key> "say " - :trophy_2016:
-106 (%ue06a): bind <your_key> "say " - :pa_kiss:
-107 (%ue06b): bind <your_key> "say " - :arcane_rune:
-108 (%ue06c): bind <your_key> "say " - :fuming:
-109 (%ue06d): bind <your_key> "say " - :axe_laugh:
-110 (%ue06e): bind <your_key> "say " - :dizzy:
-111 (%ue06f): bind <your_key> "say " - :zipper:
-112 (%ue070): bind <your_key> "say " - :blush_smile:
-113 (%ue071): bind <your_key> "say " - :nervous:
-114 (%ue072): bind <your_key> "say " - :surprise_blush:
-115 (%ue073): bind <your_key> "say " - :luna_love:
-116 (%ue074): bind <your_key> "say " - :dead_eyes:
-117 (%ue075): bind <your_key> "say " - :giff:
-118 (%ue076): bind <your_key> "say " - :thumbs_up:
-119 (%ue077): bind <your_key> "say " - :thumbs_down:
-120 (%ue078): bind <your_key> "say " - :money:
-121 (%ue079): bind <your_key> "say " - :unicorn:
-122 (%ue07a): bind <your_key> "say " - :naga_song:
-123 (%ue07b): bind <your_key> "say " - :poop:
-124 (%ue07c): bind <your_key> "say " - :aegis_2016:
-125 (%ue07d): bind <your_key> "say " - :tear:
-126 (%ue07e): bind <your_key> "say " - :reaver_2016:
-127 (%ue07f): bind <your_key> "say " - :bc_100:
-128 (%ue080): bind <your_key> "say " - :bc_fire:
-129 (%ue081): bind <your_key> "say " - :bc_ok:
-130 (%ue082): bind <your_key> "say " - :bc_check:
-131 (%ue083): bind <your_key> "say " - :bc_eyes:
-132 (%ue084): bind <your_key> "say " - :bc_frog:
-133 (%ue085): bind <your_key> "say " - :bc_flex:
-134 (%ue086): bind <your_key> "say " - :cocky_ti6_charm:
-135 (%ue087): bind <your_key> "say " - :devil_ti6_charm:
-136 (%ue088): bind <your_key> "say " - :happy_ti6_charm:
-137 (%ue089): bind <your_key> "say " - :thinking_ti6_charm:
-138 (%ue08a): bind <your_key> "say " - :tp_ti6_charm:
-139 (%ue08b): bind <your_key> "say " - :angel_ti6_charm:
-140 (%ue08c): bind <your_key> "say " - :hex_ti6_charm:
-141 (%ue08d): bind <your_key> "say " - :snot_ti6_charm:
-142 (%ue08e): bind <your_key> "say " - :stunned_ti6_charm:
-143 (%ue08f): bind <your_key> "say " - :disappear_ti6_charm:
-144 (%ue090): bind <your_key> "say " - :fire_ti6_charm:
-145 (%ue091): bind <your_key> "say " - :gross_ti6_charm:
-146 (%ue092): bind <your_key> "say " - :yolo_ti6_charm:
-147 (%ue093): bind <your_key> "say " - :throwgame_ti6_charm:
-148 (%ue094): bind <your_key> "say " - :eyeroll_ti6_charm:
-149 (%ue095): bind <your_key> "say " - :lifestealer_ti6_charm:
-150 (%ue096): bind <your_key> "say " - :heal_ti6_charm:
-151 (%ue097): bind <your_key> "say " - :drunk_ti6_charm:
-152 (%ue098): bind <your_key> "say " - :salty_ti6_charm:
-153 (%ue099): bind <your_key> "say " - :chicken_ti6_charm:
-154 (%ue09a): bind <your_key> "say " - :legion_commander_t16_charm:
-155 (%ue09b): bind <your_key> "say " - :underlord_ti6_charm:
-156 (%ue09c): bind <your_key> "say " - :monkey_king_ti6_charm:
-157 (%ue09d): bind <your_key> "say " - :fall_2016_trophy:
-158 (%ue09e): bind <your_key> "say " - :jugg:
-159 (%ue09f): bind <your_key> "say " - :no:
-160 (%ue0a0): bind <your_key> "say " - :recharge:
-161 (%ue0a1): bind <your_key> "say " - :dunno:
-162 (%ue0a2): bind <your_key> "say " - :exclamation:
-163 (%ue0a3): bind <your_key> "say " - :venom:
-164 (%ue0a4): bind <your_key> "say " - :brood_love:
-165 (%ue0a5): bind <your_key> "say " - :darkmoon_chicken:
-166 (%ue0a6): bind <your_key> "say " - :bladeform_legacy:
-167 (%ue0a7): bind <your_key> "say " - :grimace:
-168 (%ue0a8): bind <your_key> "say " - :aegis_2017:
-169 (%ue0a9): bind <your_key> "say " - :gem:
-170 (%ue0aa): bind <your_key> "say " - :plant:
-171 (%ue0ab): bind <your_key> "say " - :relieved:
-172 (%ue0ac): bind <your_key> "say " - :foggy:
-173 (%ue0ad): bind <your_key> "say " - :eh:
-174 (%ue0ae): bind <your_key> "say " - :flex:
-175 (%ue0af): bind <your_key> "say " - :gg:
-176 (%ue0b0): bind <your_key> "say " - :donkey:
-177 (%ue0b1): bind <your_key> "say " - :kiss2:
-178 (%ue0b2): bind <your_key> "say " - :observer_ward:
-179 (%ue0b3): bind <your_key> "say " - :lick:
-180 (%ue0b4): bind <your_key> "say " - :laugh2:
-181 (%ue0b5): bind <your_key> "say " - :sentry_ward:
-182 (%ue0b6): bind <your_key> "say " - :whew:
-183 (%ue0b7): bind <your_key> "say " - :gyro:
-184 (%ue0b8): bind <your_key> "say " - :nerd:
-185 (%ue0b9): bind <your_key> "say " - :confounded:
-186 (%ue0ba): bind <your_key> "say " - :joke:
-187 (%ue0bb): bind <your_key> "say " - :siltbreaker:
-188 (%ue0bc): bind <your_key> "say " - :mischief:
-189 (%ue0bd): bind <your_key> "say " - :heykid:
-190 (%ue0be): bind <your_key> "say " - :huff:
-191 (%ue0bf): bind <your_key> "say " - :beg:
-192 (%ue0c0): bind <your_key> "say " - :kisskiss:
-193 (%ue0c1): bind <your_key> "say " - :snort:
-194 (%ue0c2): bind <your_key> "say " - :sweat:
-195 (%ue0c3): bind <your_key> "say " - :chuckle:
-196 (%ue0c4): bind <your_key> "say " - :stars:
+1 (%ue001): bind <your_key> "say " QOP blinking
+2 (%ue002): bind <your_key> "say " Slark embarrased
+3 (%ue003): bind <your_key> "say " Puck :P
+4 (%ue004): bind <your_key> "say " NP too cool
+5 (%ue005): bind <your_key> "say " dizzy Timber
+6 (%ue006): bind <your_key> "say " crying undying
+7 (%ue007): bind <your_key> "say " ES cant believe it
+8 (%ue008): bind <your_key> "say " double damage rune
+9 (%ue009): bind <your_key> "say " wind ranger shaking head
+10 (%ue00a): bind <your_key> "say " lich tears of joy
+11 (%ue00b): bind <your_key> "say " haste rune
+12 (%ue00c): bind <your_key> "say " spirit breaker chicken
+13 (%ue00d): bind <your_key> "say " sniper high five
+14 (%ue00e): bind <your_key> "say " invoker raised eyebrows
+15 (%ue00f): bind <your_key> "say " drow shhhh
+16 (%ue010): bind <your_key> "say " illusion rune
+17 (%ue011): bind <your_key> "say " invisibility rune
+18 (%ue012): bind <your_key> "say " AM laughing
+19 (%ue013): bind <your_key> "say " axe arrhhghhhh
+20 (%ue014): bind <your_key> "say " regeneration rune
+21 (%ue015): bind <your_key> "say " death prophet sad
+22 (%ue016): bind <your_key> "say " pudge vomit
+23 (%ue017): bind <your_key> "say " kotl zzzZZzz
+24 (%ue018): bind <your_key> "say " CM :)))
+25 (%ue019): bind <your_key> "say " meepo shocked
+26 (%ue01a): bind <your_key> "say " lich scream
+27 (%ue01b): bind <your_key> "say " kunkka burning beard
+28 (%ue01c): bind <your_key> "say " alchemist hiding
+29 (%ue01d): bind <your_key> "say " enchantress freezing
+30 (%ue01e): bind <your_key> "say " axe very sad
+31 (%ue01f): bind <your_key> "say " techies exploding cigar
+32 (%ue020): bind <your_key> "say " storm spirit
+33 (%ue021): bind <your_key> "say " sven storm thumbs up
+34 (%ue022): bind <your_key> "say " sniper ghillie shot
+35 (%ue023): bind <your_key> "say " heart
+36 (%ue024): bind <your_key> "say " horse shiny eye
+37 (%ue025): bind <your_key> "say " tombstone rose
+38 (%ue026): bind <your_key> "say " bronze bounty rune
+39 (%ue027): bind <your_key> "say " two bronze bounty runes
+40 (%ue028): bind <your_key> "say " three silver runes?
+41 (%ue029): bind <your_key> "say " gold runes?
+42 (%ue02a): bind <your_key> "say " platinum rune ranks?
+43 (%ue02b): bind <your_key> "say " diamond runes
+44 (%ue02c): bind <your_key> "say " AA blush
+45 (%ue02d): bind <your_key> "say " bane insane
+46 (%ue02e): bind <your_key> "say " 2 cool SK
+47 (%ue02f): bind <your_key> "say " legion challenge duel
+48 (%ue030): bind <your_key> "say " AM sheep
+49 (%ue031): bind <your_key> "say " faceless backtrack
+50 (%ue032): bind <your_key> "say " nasal goo alch 
+51 (%ue033): bind <your_key> "say " riki smoke kill
+52 (%ue034): bind <your_key> "say " LD transform kawaii
+53 (%ue035): bind <your_key> "say " CM puppy
+54 (%ue036): bind <your_key> "say " bristle nasal goo
+55 (%ue037): bind <your_key> "say " enchantress golem get ye away
+56 (%ue038): bind <your_key> "say " lina blow kiss
+57 (%ue039): bind <your_key> "say " merlini zeus
+58 (%ue03a): bind <your_key> "say " roshan timer
+59 (%ue03b): bind <your_key> "say " storm eyebrows
+60 (%ue03c): bind <your_key> "say " spooky NS
+61 (%ue03d): bind <your_key> "say " enchantress :)))
+62 (%ue03e): bind <your_key> "say " ember thinking hmm
+63 (%ue03f): bind <your_key> "say " TP scroll
+64 (%ue040): bind <your_key> "say " salt shaker
+65 (%ue041): bind <your_key> "say " omni angel
+66 (%ue042): bind <your_key> "say " AM blink
+67 (%ue043): bind <your_key> "say " bristle achooo
+68 (%ue044): bind <your_key> "say " WD shock
+69 (%ue045): bind <your_key> "say " riki waving
+70 (%ue046): bind <your_key> "say " lina burn
+71 (%ue047): bind <your_key> "say " real bounty rune
+72 (%ue048): bind <your_key> "say " pudge troll
+73 (%ue049): bind <your_key> "say " lycan tounge
+74 (%ue04a): bind <your_key> "say " dire ancient gg
+75 (%ue04b): bind <your_key> "say " radiant ancient gg
+76 (%ue04c): bind <your_key> "say " techies haha bang
+77 (%ue04d): bind <your_key> "say " kunkka booo
+78 (%ue04e): bind <your_key> "say " aegis
+79 (%ue04f): bind <your_key> "say " chen internal contemplation
+80 (%ue050): bind <your_key> "say " gold shiny shy slark
+81 (%ue051): bind <your_key> "say " gold puck :P
+82 (%ue052): bind <your_key> "say " gold cool NP
+83 (%ue053): bind <your_key> "say " gold dizzy timbersaw
+84 (%ue054): bind <your_key> "say " gold crying undying
+85 (%ue055): bind <your_key> "say " gold earth spirit cant believe it
+86 (%ue056): bind <your_key> "say " gold wind ranger disbelief
+87 (%ue057): bind <your_key> "say " gold lich tears of joy
+88 (%ue058): bind <your_key> "say " gold sniper high five
+89 (%ue059): bind <your_key> "say " gold invoker raised eyebrow
+90 (%ue05a): bind <your_key> "say " gold drow shhh
+91 (%ue05b): bind <your_key> "say " gold AM haha
+92 (%ue05c): bind <your_key> "say " gold axe arghhhh
+93 (%ue05d): bind <your_key> "say " gold DP sad
+94 (%ue05e): bind <your_key> "say " gold pudge vomit
+95 (%ue05f): bind <your_key> "say " gold kotl zzZZzz
+96 (%ue060): bind <your_key> "say " gold meepo cant believe it
+97 (%ue061): bind <your_key> "say " gold qop ;)
+98 (%ue062): bind <your_key> "say " gold CM :)))
+99 (%ue063): bind <your_key> "say " gold enigma bad ass
+100 (%ue064): bind <your_key> "say " eaglesong
+101 (%ue065): bind <your_key> "say " zeus lightning bang
+102 (%ue066): bind <your_key> "say " LS snowman
+103 (%ue067): bind <your_key> "say " mirana healed
+104 (%ue068): bind <your_key> "say " brewmaster drunk
+105 (%ue069): bind <your_key> "say " radiant ancient
+106 (%ue06a): bind <your_key> "say "
+107 (%ue06b): bind <your_key> "say "
+108 (%ue06c): bind <your_key> "say "
+109 (%ue06d): bind <your_key> "say "
+110 (%ue06e): bind <your_key> "say "
+111 (%ue06f): bind <your_key> "say "
+112 (%ue070): bind <your_key> "say "
+113 (%ue071): bind <your_key> "say "
+114 (%ue072): bind <your_key> "say "
+115 (%ue073): bind <your_key> "say "
+116 (%ue074): bind <your_key> "say "
+117 (%ue075): bind <your_key> "say "
+118 (%ue076): bind <your_key> "say "
+119 (%ue077): bind <your_key> "say "
+120 (%ue078): bind <your_key> "say "
+121 (%ue079): bind <your_key> "say "
+122 (%ue07a): bind <your_key> "say "
+123 (%ue07b): bind <your_key> "say "
+124 (%ue07c): bind <your_key> "say "
+125 (%ue07d): bind <your_key> "say "
+126 (%ue07e): bind <your_key> "say "
+127 (%ue07f): bind <your_key> "say "
+128 (%ue080): bind <your_key> "say "
+129 (%ue081): bind <your_key> "say "
+130 (%ue082): bind <your_key> "say "
+131 (%ue083): bind <your_key> "say "
+132 (%ue084): bind <your_key> "say "
+133 (%ue085): bind <your_key> "say "
+134 (%ue086): bind <your_key> "say "
+135 (%ue087): bind <your_key> "say "
+136 (%ue088): bind <your_key> "say "
+137 (%ue089): bind <your_key> "say "
+138 (%ue08a): bind <your_key> "say "
+139 (%ue08b): bind <your_key> "say "
+140 (%ue08c): bind <your_key> "say "
+141 (%ue08d): bind <your_key> "say "
+142 (%ue08e): bind <your_key> "say "
+143 (%ue08f): bind <your_key> "say "
+144 (%ue090): bind <your_key> "say "
+145 (%ue091): bind <your_key> "say "
+146 (%ue092): bind <your_key> "say "
+147 (%ue093): bind <your_key> "say "
+148 (%ue094): bind <your_key> "say "
+149 (%ue095): bind <your_key> "say "
+150 (%ue096): bind <your_key> "say "
+151 (%ue097): bind <your_key> "say "
+152 (%ue098): bind <your_key> "say "
+153 (%ue099): bind <your_key> "say "
+154 (%ue09a): bind <your_key> "say "
+155 (%ue09b): bind <your_key> "say "
+156 (%ue09c): bind <your_key> "say "
+157 (%ue09d): bind <your_key> "say "
+158 (%ue09e): bind <your_key> "say "
+159 (%ue09f): bind <your_key> "say "
+160 (%ue0a0): bind <your_key> "say "
+161 (%ue0a1): bind <your_key> "say "
+162 (%ue0a2): bind <your_key> "say "
+163 (%ue0a3): bind <your_key> "say "
+164 (%ue0a4): bind <your_key> "say "
+165 (%ue0a5): bind <your_key> "say "
+166 (%ue0a6): bind <your_key> "say "
+167 (%ue0a7): bind <your_key> "say "
+168 (%ue0a8): bind <your_key> "say "
+169 (%ue0a9): bind <your_key> "say "
+170 (%ue0aa): bind <your_key> "say "
+171 (%ue0ab): bind <your_key> "say "
+172 (%ue0ac): bind <your_key> "say "
+173 (%ue0ad): bind <your_key> "say "
+174 (%ue0ae): bind <your_key> "say "
+175 (%ue0af): bind <your_key> "say "
+176 (%ue0b0): bind <your_key> "say "
+177 (%ue0b1): bind <your_key> "say "
+178 (%ue0b2): bind <your_key> "say "
+179 (%ue0b3): bind <your_key> "say "
+180 (%ue0b4): bind <your_key> "say "
+181 (%ue0b5): bind <your_key> "say "
+182 (%ue0b6): bind <your_key> "say "
+183 (%ue0b7): bind <your_key> "say "
+184 (%ue0b8): bind <your_key> "say "
+185 (%ue0b9): bind <your_key> "say "
+186 (%ue0ba): bind <your_key> "say "
+187 (%ue0bb): bind <your_key> "say "
+188 (%ue0bc): bind <your_key> "say "
+189 (%ue0bd): bind <your_key> "say "
+190 (%ue0be): bind <your_key> "say "
+191 (%ue0bf): bind <your_key> "say "
+192 (%ue0c0): bind <your_key> "say "
+193 (%ue0c1): bind <your_key> "say "
+194 (%ue0c2): bind <your_key> "say "
+195 (%ue0c3): bind <your_key> "say "
+196 (%ue0c4): bind <your_key> "say "
 197 (%ue0c5): bind <your_key> "say "
-198 (%ue0c6): bind <your_key> "say " - :sleep:
-199 (%ue0c7): bind <your_key> "say " - :bawl:
-200 (%ue0c8): bind <your_key> "say " - :siltbreaker2:
-201 (%ue0c9): bind <your_key> "say " - :brow:
-202 (%ue0ca): bind <your_key> "say " - :dealwithit:
-203 (%ue0cb): bind <your_key> "say " - :four:
-204 (%ue0cc): bind <your_key> "say " - :ggzeus:
-205 (%ue0cd): bind <your_key> "say " - :hahano:
-206 (%ue0ce): bind <your_key> "say " - :nuh_uh:
-207 (%ue0cf): bind <your_key> "say " - :snicker:
-208 (%ue0d0): bind <your_key> "say " - :welluhh:
-209 (%ue0d1): bind <your_key> "say " - :wplina:
-210 (%ue0d2): bind <your_key> "say " - :pudgesteal:
-211 (%ue0d3): bind <your_key> "say " - :pudgestop:
-212 (%ue0d4): bind <your_key> "say " - :aegis_2018:
-213 (%ue0d5): bind <your_key> "say " - :under_win:
-214 (%ue0d6): bind <your_key> "say " - :under_champ:
-215 (%ue0d7): bind <your_key> "say " - :under_king:
-216 (%ue0d8): bind <your_key> "say " - :frostivus_2018:
-217 (%ue0d9): bind <your_key> "say " - :magus_cypher:
-218 (%ue0da): bind <your_key> "say " - :aegis_2019:
-219 (%ue0db): bind <your_key> "say " - :morokai_woof:
-220 (%ue0dc): bind <your_key> "say " - :cny_rat:
-221 (%ue0dd): bind <your_key> "say " - :doot:
-222 (%ue0de): bind <your_key> "say " - :eyebrows:
-223 (%ue0df): bind <your_key> "say " - :glare:
-224 (%ue0e0): bind <your_key> "say " - :grindteeth:
-225 (%ue0e1): bind <your_key> "say " - :midas:
-226 (%ue0e2): bind <your_key> "say " - :puckchamp:
-227 (%ue0e3): bind <your_key> "say " - :skynervous:
-228 (%ue0e4): bind <your_key> "say " - :tide_drink:
-229 (%ue0e5): bind <your_key> "say " - :oracleburn:
-230 (%ue0e6): bind <your_key> "say " - :mortimer_tongue:
-231 (%ue0e7): bind <your_key> "say " - :iostress:
-232 (%ue0e8): bind <your_key> "say " - :leisure_lion:
-233 (%ue0e9): bind <your_key> "say " - :creepdance:
-234 (%ue0ea): bind <your_key> "say " - :cm_wig:
-235 (%ue0eb): bind <your_key> "say " - :techywheeze:
-236 (%ue0ec): bind <your_key> "say " - :icefrog_giggle:
-237 (%ue0ed): bind <your_key> "say " - :high_five:
-238 (%ue0ee): bind <your_key> "say " - :guildbanner:
-239 (%ue0ef): bind <your_key> "say " - :dazzle_shrug:
-240 (%ue0f0): bind <your_key> "say " - :aegis_2020:
-241 (%ue0f1): bind <your_key> "say " - :scepter:
-242 (%ue0f2): bind <your_key> "say " - :big_brain:
-243 (%ue0f3): bind <your_key> "say " - :chew:
-244 (%ue0f4): bind <your_key> "say " - :creep_complain:
-245 (%ue0f5): bind <your_key> "say " - :doom_rip:
-246 (%ue0f6): bind <your_key> "say " - :giff_diretide:
-247 (%ue0f7): bind <your_key> "say " - :in_the_bag:
-248 (%ue0f8): bind <your_key> "say " - :lucky_cat:
-249 (%ue0f9): bind <your_key> "say " - :pugna_sip:
-250 (%ue0fa): bind <your_key> "say " - :unlucky_cat:
-251 (%ue0fb): bind <your_key> "say " - :pump_mad:
-252 (%ue0fc): bind <your_key> "say " - :pump_sad:
-253 (%ue0fd): bind <your_key> "say " - :pump_glad:
-254 (%ue0fe): bind <your_key> "say " - :omgomni:
-255 (%ue0ff): bind <your_key> "say " - :diredance:
-256 (%ue100): bind <your_key> "say " - :swiz:
-257 (%ue101): bind <your_key> "say " - :wiz_wow:
-258 (%ue102): bind <your_key> "say " - :wiz_bringit:
-259 (%ue103): bind <your_key> "say " - :wiz_glhf:
-260 (%ue104): bind <your_key> "say " - :wiz_help:
-261 (%ue105): bind <your_key> "say " - :wiz_wat:
-262 (%ue106): bind <your_key> "say " - :water_rune:
-263 (%ue107): bind <your_key> "say " - :mango:
-264 (%ue108): bind <your_key> "say " - :earth_perfect:
-265 (%ue109): bind <your_key> "say " - :earth_grin:
-266 (%ue10a): bind <your_key> "say " - :abaddon_depressed:
-267 (%ue10b): bind <your_key> "say " - :bkb:
-268 (%ue10c): bind <your_key> "say " - :bloodthirsty:
-269 (%ue10d): bind <your_key> "say " - :dagon:
+198 (%ue0c6): bind <your_key> "say "
+199 (%ue0c7): bind <your_key> "say "
+200 (%ue0c8): bind <your_key> "say "
+201 (%ue0c9): bind <your_key> "say "
+202 (%ue0ca): bind <your_key> "say "
+203 (%ue0cb): bind <your_key> "say "
+204 (%ue0cc): bind <your_key> "say "
+205 (%ue0cd): bind <your_key> "say "
+206 (%ue0ce): bind <your_key> "say "
+207 (%ue0cf): bind <your_key> "say "
+208 (%ue0d0): bind <your_key> "say "
+209 (%ue0d1): bind <your_key> "say "
+210 (%ue0d2): bind <your_key> "say "
+211 (%ue0d3): bind <your_key> "say "
+212 (%ue0d4): bind <your_key> "say "
+213 (%ue0d5): bind <your_key> "say "
+214 (%ue0d6): bind <your_key> "say "
+215 (%ue0d7): bind <your_key> "say "
+216 (%ue0d8): bind <your_key> "say "
+217 (%ue0d9): bind <your_key> "say "
+218 (%ue0da): bind <your_key> "say "
+219 (%ue0db): bind <your_key> "say "
+220 (%ue0dc): bind <your_key> "say "
+221 (%ue0dd): bind <your_key> "say "
+222 (%ue0de): bind <your_key> "say "
+223 (%ue0df): bind <your_key> "say "
+224 (%ue0e0): bind <your_key> "say "
+225 (%ue0e1): bind <your_key> "say "
+226 (%ue0e2): bind <your_key> "say "
+227 (%ue0e3): bind <your_key> "say "
+228 (%ue0e4): bind <your_key> "say "
+229 (%ue0e5): bind <your_key> "say "
+230 (%ue0e6): bind <your_key> "say "
+231 (%ue0e7): bind <your_key> "say "
+232 (%ue0e8): bind <your_key> "say "
+233 (%ue0e9): bind <your_key> "say "
+234 (%ue0ea): bind <your_key> "say "
+235 (%ue0eb): bind <your_key> "say "
+236 (%ue0ec): bind <your_key> "say "
+237 (%ue0ed): bind <your_key> "say "
+238 (%ue0ee): bind <your_key> "say "
+239 (%ue0ef): bind <your_key> "say "
+240 (%ue0f0): bind <your_key> "say "
+241 (%ue0f1): bind <your_key> "say "
+242 (%ue0f2): bind <your_key> "say "
+243 (%ue0f3): bind <your_key> "say "
+244 (%ue0f4): bind <your_key> "say "
+245 (%ue0f5): bind <your_key> "say " doom shifty eyes
+246 (%ue0f6): bind <your_key> "say "
+247 (%ue0f7): bind <your_key> "say "
+248 (%ue0f8): bind <your_key> "say "
+249 (%ue0f9): bind <your_key> "say "
+250 (%ue0fa): bind <your_key> "say "
+251 (%ue0fb): bind <your_key> "say "
+252 (%ue0fc): bind <your_key> "say "
+253 (%ue0fd): bind <your_key> "say "
+254 (%ue0fe): bind <your_key> "say "
+255 (%ue0ff): bind <your_key> "say "
+256 (%ue100): bind <your_key> "say "
+257 (%ue101): bind <your_key> "say "
+258 (%ue102): bind <your_key> "say "
+259 (%ue103): bind <your_key> "say "
+260 (%ue104): bind <your_key> "say "
+261 (%ue105): bind <your_key> "say "
+262 (%ue106): bind <your_key> "say "
+263 (%ue107): bind <your_key> "say "
+264 (%ue108): bind <your_key> "say "
+265 (%ue109): bind <your_key> "say "
+266 (%ue10a): bind <your_key> "say "
+267 (%ue10b): bind <your_key> "say "
+268 (%ue10c): bind <your_key> "say "
+269 (%ue10d): bind <your_key> "say "
 270 (%ue10e): bind <your_key> "say " - :davion_sexy:
-271 (%ue10f): bind <your_key> "say " - :ember_angry:
-272 (%ue110): bind <your_key> "say " - :ember_shakefist:
-273 (%ue111): bind <your_key> "say " - :euls:
-274 (%ue112): bind <your_key> "say " - :fasta:
-275 (%ue113): bind <your_key> "say " - :hoodwink_sad:
-276 (%ue114): bind <your_key> "say " - :hookless:
-277 (%ue115): bind <your_key> "say " - :invoker_dry:
-278 (%ue116): bind <your_key> "say " - :luna_rage:
-279 (%ue117): bind <your_key> "say " - :manta:
-280 (%ue118): bind <your_key> "say " - :marci_whistle:
-281 (%ue119): bind <your_key> "say " - :mirana_drink:
-282 (%ue11a): bind <your_key> "say " - :profit:
-283 (%ue11b): bind <your_key> "say " - :radiance:
-284 (%ue11c): bind <your_key> "say " - :rapier:
+271 (%ue10f): bind <your_key> "say "
+272 (%ue110): bind <your_key> "say "
+273 (%ue111): bind <your_key> "say "
+274 (%ue112): bind <your_key> "say "
+275 (%ue113): bind <your_key> "say "
+276 (%ue114): bind <your_key> "say "
+277 (%ue115): bind <your_key> "say "
+278 (%ue116): bind <your_key> "say "
+279 (%ue117): bind <your_key> "say "
+280 (%ue118): bind <your_key> "say "
+281 (%ue119): bind <your_key> "say "
+282 (%ue11a): bind <your_key> "say "
+283 (%ue11b): bind <your_key> "say "
+284 (%ue11c): bind <your_key> "say "
 285 (%ue11d): bind <your_key> "say "
-286 (%ue11e): bind <your_key> "say " - :shadowdemon_sus:
-287 (%ue11f): bind <your_key> "say " - :slardar_sleepy:
-288 (%ue120): bind <your_key> "say " - :spin:
-289 (%ue121): bind <your_key> "say " - :spotted:
-290 (%ue122): bind <your_key> "say " - :storm_clap:
+286 (%ue11e): bind <your_key> "say "
+287 (%ue11f): bind <your_key> "say "
+288 (%ue120): bind <your_key> "say "
+289 (%ue121): bind <your_key> "say "
+290 (%ue122): bind <your_key> "say "
 291 (%ue123): bind <your_key> "say "
-292 (%ue124): bind <your_key> "say " - :tango:
-293 (%ue125): bind <your_key> "say " - :tb_laugh:
+292 (%ue124): bind <your_key> "say "
+293 (%ue125): bind <your_key> "say "
 294 (%ue126): bind <your_key> "say "
 295 (%ue127): bind <your_key> "say "
-296 (%ue128): bind <your_key> "say " - :whoahahah:
-297 (%ue129): bind <your_key> "say " - :ti10_compendium:
-298 (%ue12a): bind <your_key> "say " - :aghawooga:
-299 (%ue12b): bind <your_key> "say " - :awwghanim:
-300 (%ue12c): bind <your_key> "say " - :fraghanim:
-301 (%ue12d): bind <your_key> "say " - :poghanim:
-302 (%ue12e): bind <your_key> "say " - :smughanim:
-303 (%ue12f): bind <your_key> "say " - :swaghanim:
+296 (%ue128): bind <your_key> "say "
+297 (%ue129): bind <your_key> "say "
+298 (%ue12a): bind <your_key> "say "
+299 (%ue12b): bind <your_key> "say "
+300 (%ue12c): bind <your_key> "say "
+301 (%ue12d): bind <your_key> "say "
+302 (%ue12e): bind <your_key> "say "
+303 (%ue12f): bind <your_key> "say "
 304 (%ue130): bind <your_key> "say "
-305 (%ue131): bind <your_key> "say " - :come_here:
+305 (%ue131): bind <your_key> "say "
 306 (%ue132): bind <your_key> "say "
 307 (%ue133): bind <your_key> "say "
 308 (%ue134): bind <your_key> "say "
@@ -312,36 +312,36 @@
 312 (%ue138): bind <your_key> "say "
 313 (%ue139): bind <your_key> "say "
 314 (%ue13a): bind <your_key> "say "
-315 (%ue13b): bind <your_key> "say " - :giggle:
-316 (%ue13c): bind <your_key> "say " - :hot_cocoa:
+315 (%ue13b): bind <your_key> "say "
+316 (%ue13c): bind <your_key> "say "
 317 (%ue13d): bind <your_key> "say "
-318 (%ue13e): bind <your_key> "say " - :marci_omnom:
-319 (%ue13f): bind <your_key> "say " - :not_like_this:
+318 (%ue13e): bind <your_key> "say "
+319 (%ue13f): bind <your_key> "say "
 320 (%ue140): bind <your_key> "say "
-321 (%ue141): bind <your_key> "say " - :smoked_ya:
+321 (%ue141): bind <your_key> "say "
 322 (%ue142): bind <your_key> "say "
-323 (%ue143): bind <your_key> "say " - :power_runes:
-324 (%ue144): bind <your_key> "say " - :bucket:
-325 (%ue145): bind <your_key> "say " - :itsatrap:
-326 (%ue146): bind <your_key> "say " - :itsfromprimal:
-327 (%ue147): bind <your_key> "say " - :flamescepter:
-328 (%ue148): bind <your_key> "say " - :apexmage:
-329 (%ue149): bind <your_key> "say " - :sagan_sad:
-330 (%ue14a): bind <your_key> "say " - :flaming_mad:
-331 (%ue14b): bind <your_key> "say " - :shut_up:
-332 (%ue14c): bind <your_key> "say " - :wait_for_it:
-333 (%ue14d): bind <your_key> "say " - :surprised_meepo:
-334 (%ue14e): bind <your_key> "say " - :stupid_bruiser:
-335 (%ue14f): bind <your_key> "say " - :snowballing:
-336 (%ue150): bind <your_key> "say " - :smugstroke:
-337 (%ue151): bind <your_key> "say " - :shivers:
-338 (%ue152): bind <your_key> "say " - :hungry_hellbear:
-339 (%ue153): bind <your_key> "say " - :furious:
+323 (%ue143): bind <your_key> "say "
+324 (%ue144): bind <your_key> "say "
+325 (%ue145): bind <your_key> "say "
+326 (%ue146): bind <your_key> "say "
+327 (%ue147): bind <your_key> "say "
+328 (%ue148): bind <your_key> "say "
+329 (%ue149): bind <your_key> "say "
+330 (%ue14a): bind <your_key> "say "
+331 (%ue14b): bind <your_key> "say "
+332 (%ue14c): bind <your_key> "say "
+333 (%ue14d): bind <your_key> "say "
+334 (%ue14e): bind <your_key> "say "
+335 (%ue14f): bind <your_key> "say "
+336 (%ue150): bind <your_key> "say "
+337 (%ue151): bind <your_key> "say "
+338 (%ue152): bind <your_key> "say "
+339 (%ue153): bind <your_key> "say "
 340 (%ue154): bind <your_key> "say " - :eyebrow:
-341 (%ue155): bind <your_key> "say " - :closecall:
-342 (%ue156): bind <your_key> "say " - :aegis_2022:
-343 (%ue157): bind <your_key> "say " - :shield_rune:
-344 (%ue158): bind <your_key> "say " - :xp_rune:
+341 (%ue155): bind <your_key> "say "
+342 (%ue156): bind <your_key> "say "
+343 (%ue157): bind <your_key> "say "
+344 (%ue158): bind <your_key> "say "
 345 (%ue159): bind <your_key> "say "
 346 (%ue15a): bind <your_key> "say "
 347 (%ue15b): bind <your_key> "say "
@@ -997,79 +997,79 @@
 997 (%ue3e5): bind <your_key> "say "
 998 (%ue3e6): bind <your_key> "say "
 999 (%ue3e7): bind <your_key> "say "
-1000 (%ue3e8): bind <your_key> "say " - :pro_team: team_eg
-1001 (%ue3e9): bind <your_key> "say " - :pro_team: team_alliance
-1002 (%ue3ea): bind <your_key> "say " - :pro_team: team_keen
-1003 (%ue3eb): bind <your_key> "say " - :pro_team: team_dc
-1004 (%ue3ec): bind <your_key> "say " - :pro_team: team_nip
-1005 (%ue3ed): bind <your_key> "say " - :pro_team: team_mineski
-1006 (%ue3ee): bind <your_key> "say " - :pro_team: team_ehome
-1007 (%ue3ef): bind <your_key> "say " - :pro_team: team_chaos
-1008 (%ue3f0): bind <your_key> "say " - :pro_team: team_royal
-1009 (%ue3f1): bind <your_key> "say " - :pro_team: team_exe
-1010 (%ue3f2): bind <your_key> "say " - :pro_team: team_nb
-1011 (%ue3f3): bind <your_key> "say " - :pro_team: team_navi
-1012 (%ue3f4): bind <your_key> "say " - :pro_team: team_mvp
-1013 (%ue3f5): bind <your_key> "say " - :pro_team: team_vici
+1000 (%ue3e8): bind <your_key> "say "
+1001 (%ue3e9): bind <your_key> "say "
+1002 (%ue3ea): bind <your_key> "say "
+1003 (%ue3eb): bind <your_key> "say "
+1004 (%ue3ec): bind <your_key> "say "
+1005 (%ue3ed): bind <your_key> "say "
+1006 (%ue3ee): bind <your_key> "say "
+1007 (%ue3ef): bind <your_key> "say "
+1008 (%ue3f0): bind <your_key> "say "
+1009 (%ue3f1): bind <your_key> "say "
+1010 (%ue3f2): bind <your_key> "say "
+1011 (%ue3f3): bind <your_key> "say "
+1012 (%ue3f4): bind <your_key> "say "
+1013 (%ue3f5): bind <your_key> "say "
 1014 (%ue3f6): bind <your_key> "say "
-1015 (%ue3f7): bind <your_key> "say " - :pro_team: team_nb
+1015 (%ue3f7): bind <your_key> "say "
 1016 (%ue3f8): bind <your_key> "say "
 1017 (%ue3f9): bind <your_key> "say "
-1018 (%ue3fa): bind <your_key> "say " - :pro_team: team_og
+1018 (%ue3fa): bind <your_key> "say "
 1019 (%ue3fb): bind <your_key> "say "
 1020 (%ue3fc): bind <your_key> "say "
-1021 (%ue3fd): bind <your_key> "say " - :pro_team: team_wings
+1021 (%ue3fd): bind <your_key> "say "
 1022 (%ue3fe): bind <your_key> "say "
 1023 (%ue3ff): bind <your_key> "say "
-1024 (%ue400): bind <your_key> "say " - :pro_team: team_af
+1024 (%ue400): bind <your_key> "say "
 1025 (%ue401): bind <your_key> "say "
 1026 (%ue402): bind <your_key> "say "
-1027 (%ue403): bind <your_key> "say " - :pro_team: team_complexity
+1027 (%ue403): bind <your_key> "say "
 1028 (%ue404): bind <your_key> "say "
 1029 (%ue405): bind <your_key> "say "
-1030 (%ue406): bind <your_key> "say " - :pro_team: team_faceless
+1030 (%ue406): bind <your_key> "say "
 1031 (%ue407): bind <your_key> "say "
 1032 (%ue408): bind <your_key> "say "
-1033 (%ue409): bind <your_key> "say " - :pro_team: team_igv
+1033 (%ue409): bind <your_key> "say "
 1034 (%ue40a): bind <your_key> "say "
 1035 (%ue40b): bind <your_key> "say "
-1036 (%ue40c): bind <your_key> "say " - :pro_team: team_lfy
+1036 (%ue40c): bind <your_key> "say "
 1037 (%ue40d): bind <your_key> "say "
 1038 (%ue40e): bind <your_key> "say "
-1039 (%ue40f): bind <your_key> "say " - :pro_team: team_cloud9
+1039 (%ue40f): bind <your_key> "say "
 1040 (%ue410): bind <your_key> "say "
 1041 (%ue411): bind <your_key> "say "
-1042 (%ue412): bind <your_key> "say " - :pro_team: team_vp
+1042 (%ue412): bind <your_key> "say "
 1043 (%ue413): bind <your_key> "say "
 1044 (%ue414): bind <your_key> "say "
-1045 (%ue415): bind <your_key> "say " - :pro_team: team_wg
+1045 (%ue415): bind <your_key> "say "
 1046 (%ue416): bind <your_key> "say "
 1047 (%ue417): bind <your_key> "say "
-1048 (%ue418): bind <your_key> "say " - :pro_team: team_lgd
+1048 (%ue418): bind <your_key> "say "
 1049 (%ue419): bind <your_key> "say "
 1050 (%ue41a): bind <your_key> "say "
-1051 (%ue41b): bind <your_key> "say " - :pro_team: team_liquid
+1051 (%ue41b): bind <your_key> "say "
 1052 (%ue41c): bind <your_key> "say "
 1053 (%ue41d): bind <your_key> "say "
-1054 (%ue41e): bind <your_key> "say " - :pro_team: team_ig
+1054 (%ue41e): bind <your_key> "say "
 1055 (%ue41f): bind <your_key> "say "
 1056 (%ue420): bind <your_key> "say "
-1057 (%ue421): bind <your_key> "say " - :pro_team: team_infamous
+1057 (%ue421): bind <your_key> "say "
 1058 (%ue422): bind <your_key> "say "
 1059 (%ue423): bind <your_key> "say "
-1060 (%ue424): bind <your_key> "say " - :pro_team: team_tnc
+1060 (%ue424): bind <your_key> "say "
 1061 (%ue425): bind <your_key> "say "
 1062 (%ue426): bind <your_key> "say "
-1063 (%ue427): bind <your_key> "say " - :pro_team: team_fnatic
+1063 (%ue427): bind <your_key> "say "
 1064 (%ue428): bind <your_key> "say "
 1065 (%ue429): bind <your_key> "say "
-1066 (%ue42a): bind <your_key> "say " - :pro_team: team_secret
+1066 (%ue42a): bind <your_key> "say "
 1067 (%ue42b): bind <your_key> "say "
 1068 (%ue42c): bind <your_key> "say "
-1069 (%ue42d): bind <your_key> "say " - :pro_team: team_hellraisers
+1069 (%ue42d): bind <your_key> "say "
 1070 (%ue42e): bind <your_key> "say "
 1071 (%ue42f): bind <your_key> "say "
-1072 (%ue430): bind <your_key> "say " - :pro_team: team_empire
+1072 (%ue430): bind <your_key> "say "
 1073 (%ue431): bind <your_key> "say "
 1074 (%ue432): bind <your_key> "say "
 1075 (%ue433): bind <your_key> "say "
@@ -1997,17 +1997,17 @@
 1997 (%ue7cd): bind <your_key> "say "
 1998 (%ue7ce): bind <your_key> "say "
 1999 (%ue7cf): bind <your_key> "say "
-2000 (%ue7d0): bind <your_key> "say " - :uncalibrated: ranked_icons_emoticon_0
-2001 (%ue7d1): bind <your_key> "say " - :herald: ranked_icons_emoticon_1
-2002 (%ue7d2): bind <your_key> "say " - :guardian: ranked_icons_emoticon_2
-2003 (%ue7d3): bind <your_key> "say " - :crusader: ranked_icons_emoticon_3
-2004 (%ue7d4): bind <your_key> "say " - :archon: ranked_icons_emoticon_4
-2005 (%ue7d5): bind <your_key> "say " - :legend: ranked_icons_emoticon_5
-2006 (%ue7d6): bind <your_key> "say " - :ancient: ranked_icons_emoticon_6
-2007 (%ue7d7): bind <your_key> "say " - :divine: ranked_icons_emoticon_7
-2008 (%ue7d8): bind <your_key> "say " - :immortal: ranked_icons_emoticon_8
-2009 (%ue7d9): bind <your_key> "say " - :top1000: ranked_icons_emoticon_9
-2010 (%ue7da): bind <your_key> "say " - :top100: ranked_icons_emoticon_10
+2000 (%ue7d0): bind <your_key> "say " - :uncalibrated:
+2001 (%ue7d1): bind <your_key> "say " - :herald:
+2002 (%ue7d2): bind <your_key> "say " - :guardian:
+2003 (%ue7d3): bind <your_key> "say " - :crusader:
+2004 (%ue7d4): bind <your_key> "say " - :archon:
+2005 (%ue7d5): bind <your_key> "say " - :legend:
+2006 (%ue7d6): bind <your_key> "say " - :ancient:
+2007 (%ue7d7): bind <your_key> "say " - :divine:
+2008 (%ue7d8): bind <your_key> "say " - :immortal:
+2009 (%ue7d9): bind <your_key> "say " - :top100:
+2010 (%ue7da): bind <your_key> "say " - :top1:
 2011 (%ue7db): bind <your_key> "say "
 2012 (%ue7dc): bind <your_key> "say "
 2013 (%ue7dd): bind <your_key> "say "
@@ -2998,1126 +2998,1126 @@
 2998 (%uebb6): bind <your_key> "say "
 2999 (%uebb7): bind <your_key> "say "
 3000 (%uebb8): bind <your_key> "say "
-3001 (%uebb9): bind <your_key> "say " - :fandom_SEC_2_0: teamfancontent/season_2/1838315/emoticon0
-3002 (%uebba): bind <your_key> "say " - :fandom_SEC_2_2: teamfancontent/season_2/1838315/emoticon2
-3003 (%uebbb): bind <your_key> "say " - :fandom_ALL_2_0: teamfancontent/season_2/111474/emoticon0
-3004 (%uebbc): bind <your_key> "say " - :fandom_ALL_2_1: teamfancontent/season_2/111474/emoticon1
-3005 (%uebbd): bind <your_key> "say " - :fandom_ALL_2_3: teamfancontent/season_2/111474/emoticon3
-3006 (%uebbe): bind <your_key> "say " - :fandom_LIQ_2_2: teamfancontent/season_2/2163/emoticon2
-3007 (%uebbf): bind <your_key> "say " - :fandom_BC_2_3: teamfancontent/season_2/8254400/emoticon3
-3008 (%uebc0): bind <your_key> "say " - :fandom_BC_2_5: teamfancontent/season_2/8254400/emoticon5
-3009 (%uebc1): bind <your_key> "say " - :fandom_DEF_2_1: teamfancontent/season_2/8186683/emoticon1
-3010 (%uebc2): bind <your_key> "say " - :fandom_DEF_2_3: teamfancontent/season_2/8186683/emoticon3
-3011 (%uebc3): bind <your_key> "say " - :fandom_DEF_2_4: teamfancontent/season_2/8186683/emoticon4
-3012 (%uebc4): bind <your_key> "say " - :fandom_AST_2_1: teamfancontent/season_2/6209166/emoticon1
-3013 (%uebc5): bind <your_key> "say " - :fandom_ARK_2_0: teamfancontent/season_2/8180753/emoticon0
-3014 (%uebc6): bind <your_key> "say " - :fandom_ARK_2_3: teamfancontent/season_2/8180753/emoticon3
-3015 (%uebc7): bind <your_key> "say " - :fandom_ARK_2_4: teamfancontent/season_2/8180753/emoticon4
-3016 (%uebc8): bind <your_key> "say " - :fandom_EMP_2_0: teamfancontent/season_2/46/emoticon0
-3017 (%uebc9): bind <your_key> "say " - :fandom_EMP_2_6: teamfancontent/season_2/46/emoticon6
-3018 (%uebca): bind <your_key> "say " - :fandom_HR_2_3: teamfancontent/season_2/7422789/emoticon3
-3019 (%uebcb): bind <your_key> "say " - :fandom_VP_2_3: teamfancontent/season_2/1883502/emoticon3
-3020 (%uebcc): bind <your_key> "say " - :fandom_VP_2_4: teamfancontent/season_2/1883502/emoticon4
-3021 (%uebcd): bind <your_key> "say " - :fandom_NT_2_1: teamfancontent/season_2/8255842/emoticon1
-3022 (%uebce): bind <your_key> "say " - :fandom_NT_2_2: teamfancontent/season_2/8255842/emoticon2
-3023 (%uebcf): bind <your_key> "say " - :fandom_NMA_2_1: teamfancontent/season_2/7554697/emoticon1
-3024 (%uebd0): bind <your_key> "say " - :fandom_NMA_2_3: teamfancontent/season_2/7554697/emoticon3
-3025 (%uebd1): bind <your_key> "say " - :fandom_2B_2_1: teamfancontent/season_2/8272699/emoticon1
-3026 (%uebd2): bind <your_key> "say " - :fandom_2B_2_2: teamfancontent/season_2/8272699/emoticon2
-3027 (%uebd3): bind <your_key> "say " - :fandom_2B_2_3: teamfancontent/season_2/8272699/emoticon3
-3028 (%uebd4): bind <your_key> "say " - :fandom_TS_2_2: teamfancontent/season_2/7119388/emoticon2
-3029 (%uebd5): bind <your_key> "say " - :fandom_TS_2_4: teamfancontent/season_2/7119388/emoticon4
-3030 (%uebd6): bind <your_key> "say " - :fandom_UNI_2_1: teamfancontent/season_2/8255888/emoticon1
-3031 (%uebd7): bind <your_key> "say " - :fandom_UNI_2_0: teamfancontent/season_2/8255888/emoticon0
-3032 (%uebd8): bind <your_key> "say " - :fandom_SEC_2_8: teamfancontent/season_2/1838315/emoticon8
-3033 (%uebd9): bind <your_key> "say " - :fandom_EMP_2_7: teamfancontent/season_2/46/emoticon7
-3034 (%uebda): bind <your_key> "say " - :fandom_TS_2_0: teamfancontent/season_2/7119388/emoticon0
-3035 (%uebdb): bind <your_key> "say " - :fandom_AST_2_0: teamfancontent/season_2/6209166/emoticon0
-3036 (%uebdc): bind <your_key> "say " - :fandom_AST_2_2: teamfancontent/season_2/6209166/emoticon2
-3037 (%uebdd): bind <your_key> "say " - :fandom_NT_2_5: teamfancontent/season_2/8255842/emoticon5
-3038 (%uebde): bind <your_key> "say " - :fandom_BC_2_6: teamfancontent/season_2/8254400/emoticon6
-3039 (%uebdf): bind <your_key> "say " - :fandom_HR_2_4: teamfancontent/season_2/7422789/emoticon4
-3040 (%uebe0): bind <your_key> "say " - :fandom_VP_2_6: teamfancontent/season_2/1883502/emoticon6
-3041 (%uebe1): bind <your_key> "say " - :fandom_LIQ_2_1: teamfancontent/season_2/2163/emoticon1
-3042 (%uebe2): bind <your_key> "say " - :fandom_LIQ_2_3: teamfancontent/season_2/2163/emoticon3
-3043 (%uebe3): bind <your_key> "say " - :fandom_NMA_2_0: teamfancontent/season_2/7554697/emoticon0
-3044 (%uebe4): bind <your_key> "say " - :fandom_QCY_2_0: teamfancontent/season_2/7390454/emoticon0
-3045 (%uebe5): bind <your_key> "say " - :fandom_QCY_2_1: teamfancontent/season_2/7390454/emoticon1
-3046 (%uebe6): bind <your_key> "say " - :fandom_QCY_2_2: teamfancontent/season_2/7390454/emoticon2
-3047 (%uebe7): bind <your_key> "say " - :fandom_EG_2_0: teamfancontent/season_2/39/emoticon0
-3048 (%uebe8): bind <your_key> "say " - :fandom_EG_2_1: teamfancontent/season_2/39/emoticon1
-3049 (%uebe9): bind <your_key> "say " - :fandom_EG_2_3: teamfancontent/season_2/39/emoticon3
-3050 (%uebea): bind <your_key> "say " - :fandom_EXT_2_1: teamfancontent/season_2/7542148/emoticon1
-3051 (%uebeb): bind <your_key> "say " - :fandom_EXT_2_2: teamfancontent/season_2/7542148/emoticon2
-3052 (%uebec): bind <your_key> "say " - :fandom_NOP_2_4: teamfancontent/season_2/7298091/emoticon4
-3053 (%uebed): bind <your_key> "say " - :fandom_NOP_2_1: teamfancontent/season_2/7298091/emoticon1
-3054 (%uebee): bind <your_key> "say " - :fandom_NOP_2_6: teamfancontent/season_2/7298091/emoticon6
-3055 (%uebef): bind <your_key> "say " - :fandom_NAVI_2_1: teamfancontent/season_2/36/emoticon1
-3056 (%uebf0): bind <your_key> "say " - :fandom_NAVI_2_2: teamfancontent/season_2/36/emoticon2
-3057 (%uebf1): bind <your_key> "say " - :fandom_NAVI_2_3: teamfancontent/season_2/36/emoticon3
-3058 (%uebf2): bind <your_key> "say " - :fandom_OG_2_0: teamfancontent/season_2/2586976/emoticon0
-3059 (%uebf3): bind <your_key> "say " - :fandom_OG_2_1: teamfancontent/season_2/2586976/emoticon1
-3060 (%uebf4): bind <your_key> "say " - :fandom_OG_2_2: teamfancontent/season_2/2586976/emoticon2
-3061 (%uebf5): bind <your_key> "say " - :fandom_INF_2_1: teamfancontent/season_2/2672298/emoticon1
-3062 (%uebf6): bind <your_key> "say " - :fandom_INF_2_2: teamfancontent/season_2/2672298/emoticon2
-3063 (%uebf7): bind <your_key> "say " - :fandom_INF_2_3: teamfancontent/season_2/2672298/emoticon3
-3064 (%uebf8): bind <your_key> "say " - :fandom_TC_2_0: teamfancontent/season_2/8205424/emoticon0
-3065 (%uebf9): bind <your_key> "say " - :fandom_TC_2_1: teamfancontent/season_2/8205424/emoticon1
-3066 (%uebfa): bind <your_key> "say " - :fandom_4ZS_2_0: teamfancontent/season_2/7819028/emoticon0
-3067 (%uebfb): bind <your_key> "say " - :fandom_4ZS_2_1: teamfancontent/season_2/7819028/emoticon1
-3068 (%uebfc): bind <your_key> "say " - :fandom_4ZS_2_2: teamfancontent/season_2/7819028/emoticon2
-3069 (%uebfd): bind <your_key> "say " - :fandom_FNA_2_2: teamfancontent/season_2/350190/emoticon2
-3070 (%uebfe): bind <your_key> "say " - :fandom_FNA_2_3: teamfancontent/season_2/350190/emoticon3
-3071 (%uebff): bind <your_key> "say " - :fandom_FNA_2_1: teamfancontent/season_2/350190/emoticon1
-3072 (%uec00): bind <your_key> "say " - :fandom_B8_2_0: teamfancontent/season_2/8359896/emoticon0
-3073 (%uec01): bind <your_key> "say " - :fandom_B8_2_1: teamfancontent/season_2/8359896/emoticon1
-3074 (%uec02): bind <your_key> "say " - :fandom_B8_2_2: teamfancontent/season_2/8359896/emoticon2
-3075 (%uec03): bind <your_key> "say " - :fandom_SG_2_0: teamfancontent/season_2/8255756/emoticon0
-3076 (%uec04): bind <your_key> "say " - :fandom_SG_2_2: teamfancontent/season_2/8255756/emoticon2
-3077 (%uec05): bind <your_key> "say " - :fandom_SG_2_3: teamfancontent/season_2/8255756/emoticon3
-3078 (%uec06): bind <your_key> "say " - :fandom_EH_2_0: teamfancontent/season_2/4/emoticon0
-3079 (%uec07): bind <your_key> "say " - :fandom_EH_2_1: teamfancontent/season_2/4/emoticon1
-3080 (%uec08): bind <your_key> "say " - :fandom_EH_2_3: teamfancontent/season_2/4/emoticon3
-3081 (%uec09): bind <your_key> "say " - :fandom_VG_2_0: teamfancontent/season_2/726228/emoticon0
-3082 (%uec0a): bind <your_key> "say " - :fandom_VG_2_3: teamfancontent/season_2/726228/emoticon3
-3083 (%uec0b): bind <your_key> "say " - :fandom_VG_2_4: teamfancontent/season_2/726228/emoticon4
-3084 (%uec0c): bind <your_key> "say " - :fandom_SAG_2_1: teamfancontent/season_2/7407260/emoticon1
-3085 (%uec0d): bind <your_key> "say " - :fandom_SAG_2_2: teamfancontent/season_2/7407260/emoticon2
-3086 (%uec0e): bind <your_key> "say " - :fandom_SAG_2_4: teamfancontent/season_2/7407260/emoticon4
-3087 (%uec0f): bind <your_key> "say " - :fandom_TP_2_1: teamfancontent/season_2/7391077/emoticon1
-3088 (%uec10): bind <your_key> "say " - :fandom_TP_2_2: teamfancontent/season_2/7391077/emoticon2
-3089 (%uec11): bind <your_key> "say " - :fandom_TP_2_8: teamfancontent/season_2/7391077/emoticon8
-3090 (%uec12): bind <your_key> "say " - :fandom_CM_2_1: teamfancontent/season_2/8254387/emoticon1
-3091 (%uec13): bind <your_key> "say " - :fandom_CM_2_3: teamfancontent/season_2/8254387/emoticon3
-3092 (%uec14): bind <your_key> "say " - :fandom_BOOM_2_7: teamfancontent/season_2/7732977/emoticon7
-3093 (%uec15): bind <your_key> "say " - :fandom_BOOM_2_8: teamfancontent/season_2/7732977/emoticon8
-3094 (%uec16): bind <your_key> "say " - :fandom_BOOM_2_9: teamfancontent/season_2/7732977/emoticon9
-3095 (%uec17): bind <your_key> "say " - :fandom_PLGD_2_2: teamfancontent/season_2/15/emoticon2
-3096 (%uec18): bind <your_key> "say " - :fandom_PLGD_2_4: teamfancontent/season_2/15/emoticon4
-3097 (%uec19): bind <your_key> "say " - :fandom_PLGD_2_6: teamfancontent/season_2/15/emoticon6
-3098 (%uec1a): bind <your_key> "say " - :fandom_VIK_2_1: teamfancontent/season_2/6685591/emoticon1
-3099 (%uec1b): bind <your_key> "say " - :fandom_VIK_2_4: teamfancontent/season_2/6685591/emoticon4
-3100 (%uec1c): bind <your_key> "say " - :fandom_VIK_2_6: teamfancontent/season_2/6685591/emoticon6
-3101 (%uec1d): bind <your_key> "say " - :fandom_IE_2_1: teamfancontent/season_2/8118197/emoticon1
-3102 (%uec1e): bind <your_key> "say " - :fandom_IE_2_2: teamfancontent/season_2/8118197/emoticon2
-3103 (%uec1f): bind <your_key> "say " - :fandom_IE_2_3: teamfancontent/season_2/8118197/emoticon3
-3104 (%uec20): bind <your_key> "say " - :fandom_496_2_0: teamfancontent/season_2/8261114/emoticon0
-3105 (%uec21): bind <your_key> "say " - :fandom_CDEC_2_0: teamfancontent/season_2/1520578/emoticon0
-3106 (%uec22): bind <your_key> "say " - :fandom_CDEC_2_1: teamfancontent/season_2/1520578/emoticon1
-3107 (%uec23): bind <your_key> "say " - :fandom_CDEC_2_2: teamfancontent/season_2/1520578/emoticon2
-3108 (%uec24): bind <your_key> "say " - :fandom_RNG_2_2: teamfancontent/season_2/6209804/emoticon2
-3109 (%uec25): bind <your_key> "say " - :fandom_RNG_2_3: teamfancontent/season_2/6209804/emoticon3
-3110 (%uec26): bind <your_key> "say " - :fandom_RNG_2_4: teamfancontent/season_2/6209804/emoticon4
-3111 (%uec27): bind <your_key> "say " - :fandom_TNC_2_0: teamfancontent/season_2/2108395/emoticon0
-3112 (%uec28): bind <your_key> "say " - :fandom_TNC_2_1: teamfancontent/season_2/2108395/emoticon1
-3113 (%uec29): bind <your_key> "say " - :fandom_TNC_2_2: teamfancontent/season_2/2108395/emoticon2
-3114 (%uec2a): bind <your_key> "say " - :fandom_ELE_2_1: teamfancontent/season_2/8204512/emoticon1
-3115 (%uec2b): bind <your_key> "say " - :fandom_ELE_2_5: teamfancontent/season_2/8204512/emoticon5
-3116 (%uec2c): bind <your_key> "say " - :fandom_ELE_2_7: teamfancontent/season_2/8204512/emoticon7
-3117 (%uec2d): bind <your_key> "say " - :fandom_T1_2_0: teamfancontent/season_2/8214850/emoticon0
-3118 (%uec2e): bind <your_key> "say " - :fandom_T1_2_1: teamfancontent/season_2/8214850/emoticon1
-3119 (%uec2f): bind <your_key> "say " - :fandom_T1_2_2: teamfancontent/season_2/8214850/emoticon2
-3120 (%uec30): bind <your_key> "say " - :fandom_NEON_2_0: teamfancontent/season_2/8360138/emoticon0
-3121 (%uec31): bind <your_key> "say " - :fandom_NEON_2_3: teamfancontent/season_2/8360138/emoticon3
-3122 (%uec32): bind <your_key> "say " - :fandom_NEON_2_4: teamfancontent/season_2/8360138/emoticon4
-3123 (%uec33): bind <your_key> "say " - :fandom_SMG_2_0: teamfancontent/season_2/8244493/emoticon0
-3124 (%uec34): bind <your_key> "say " - :fandom_SMG_2_2: teamfancontent/season_2/8244493/emoticon2
-3125 (%uec35): bind <your_key> "say " - :fandom_SMG_2_3: teamfancontent/season_2/8244493/emoticon3
-3126 (%uec36): bind <your_key> "say " - :fandom_GXR_2_6: teamfancontent/season_2/8062847/emoticon6
-3127 (%uec37): bind <your_key> "say " - :fandom_GXR_2_2: teamfancontent/season_2/8062847/emoticon2
-3128 (%uec38): bind <your_key> "say " - :fandom_GXR_2_1: teamfancontent/season_2/8062847/emoticon1
-3129 (%uec39): bind <your_key> "say " - :fandom_MTG_2_0: teamfancontent/season_2/8261197/emoticon0
-3130 (%uec3a): bind <your_key> "say " - :fandom_MTG_2_1: teamfancontent/season_2/8261197/emoticon1
-3131 (%uec3b): bind <your_key> "say " - :fandom_MTG_2_2: teamfancontent/season_2/8261197/emoticon2
-3132 (%uec3c): bind <your_key> "say " - :fandom_AG_2_2: teamfancontent/season_2/8261554/emoticon2
-3133 (%uec3d): bind <your_key> "say " - :fandom_AG_2_4: teamfancontent/season_2/8261554/emoticon4
-3134 (%uec3e): bind <your_key> "say " - :fandom_AG_2_5: teamfancontent/season_2/8261554/emoticon5
-3135 (%uec3f): bind <your_key> "say " - :fandom_PC_2_0: teamfancontent/season_2/8261648/emoticon0
-3136 (%uec40): bind <your_key> "say " - :fandom_PC_2_3: teamfancontent/season_2/8261648/emoticon3
-3137 (%uec41): bind <your_key> "say " - :fandom_PC_2_6: teamfancontent/season_2/8261648/emoticon6
-3138 (%uec42): bind <your_key> "say " - :fandom_MGMB_2_0: teamfancontent/season_2/8310936/emoticon0
-3139 (%uec43): bind <your_key> "say " - :fandom_MGMB_2_2: teamfancontent/season_2/8310936/emoticon2
-3140 (%uec44): bind <your_key> "say " - :fandom_MGMB_2_3: teamfancontent/season_2/8310936/emoticon3
-3141 (%uec45): bind <your_key> "say " - :fandom_BINO_2_1: teamfancontent/season_2/8375259/emoticon1
-3142 (%uec46): bind <your_key> "say " - :fandom_NBH_2_0: teamfancontent/season_2/8261397/emoticon0
-3143 (%uec47): bind <your_key> "say " - :fandom_NBH_2_1: teamfancontent/season_2/8261397/emoticon1
-3144 (%uec48): bind <your_key> "say " - :fandom_NBH_2_2: teamfancontent/season_2/8261397/emoticon2
-3145 (%uec49): bind <your_key> "say " - :fandom_ITB_2_0: teamfancontent/season_2/8384158/emoticon0
-3146 (%uec4a): bind <your_key> "say " - :fandom_ITB_2_1: teamfancontent/season_2/8384158/emoticon1
-3147 (%uec4b): bind <your_key> "say " - :fandom_ITB_2_2: teamfancontent/season_2/8384158/emoticon2
-3148 (%uec4c): bind <your_key> "say " - :fandom_MYS_2_0: teamfancontent/season_2/8335015/emoticon0
-3149 (%uec4d): bind <your_key> "say " - :fandom_IG_2_0: teamfancontent/season_2/5/emoticon0
-3150 (%uec4e): bind <your_key> "say " - :fandom_IG_2_1: teamfancontent/season_2/5/emoticon1
-3151 (%uec4f): bind <your_key> "say " - :fandom_IG_2_2: teamfancontent/season_2/5/emoticon2
-3152 (%uec50): bind <your_key> "say " - :fandom_DOG_2_0: teamfancontent/season_2/8271508/emoticon0
-3153 (%uec51): bind <your_key> "say " - :fandom_DOG_2_1: teamfancontent/season_2/8271508/emoticon1
-3154 (%uec52): bind <your_key> "say " - :fandom_DOG_2_2: teamfancontent/season_2/8271508/emoticon2
-3155 (%uec53): bind <your_key> "say " - :fandom_UND_2_0: teamfancontent/season_2/8260983/emoticon0
-3156 (%uec54): bind <your_key> "say " - :fandom_UND_2_1: teamfancontent/season_2/8260983/emoticon1
-3157 (%uec55): bind <your_key> "say " - :fandom_UND_2_2: teamfancontent/season_2/8260983/emoticon2
-3158 (%uec56): bind <your_key> "say " - :fandom_LG_2_0: teamfancontent/season_2/8169775/emoticon0
-3159 (%uec57): bind <your_key> "say " - :fandom_LG_2_4: teamfancontent/season_2/8169775/emoticon4
-3160 (%uec58): bind <your_key> "say " - :fandom_LG_2_5: teamfancontent/season_2/8169775/emoticon5
+3001 (%uebb9): bind <your_key> "say "
+3002 (%uebba): bind <your_key> "say "
+3003 (%uebbb): bind <your_key> "say "
+3004 (%uebbc): bind <your_key> "say "
+3005 (%uebbd): bind <your_key> "say "
+3006 (%uebbe): bind <your_key> "say "
+3007 (%uebbf): bind <your_key> "say "
+3008 (%uebc0): bind <your_key> "say "
+3009 (%uebc1): bind <your_key> "say "
+3010 (%uebc2): bind <your_key> "say "
+3011 (%uebc3): bind <your_key> "say "
+3012 (%uebc4): bind <your_key> "say "
+3013 (%uebc5): bind <your_key> "say "
+3014 (%uebc6): bind <your_key> "say "
+3015 (%uebc7): bind <your_key> "say "
+3016 (%uebc8): bind <your_key> "say "
+3017 (%uebc9): bind <your_key> "say "
+3018 (%uebca): bind <your_key> "say "
+3019 (%uebcb): bind <your_key> "say "
+3020 (%uebcc): bind <your_key> "say "
+3021 (%uebcd): bind <your_key> "say "
+3022 (%uebce): bind <your_key> "say "
+3023 (%uebcf): bind <your_key> "say "
+3024 (%uebd0): bind <your_key> "say "
+3025 (%uebd1): bind <your_key> "say "
+3026 (%uebd2): bind <your_key> "say "
+3027 (%uebd3): bind <your_key> "say "
+3028 (%uebd4): bind <your_key> "say "
+3029 (%uebd5): bind <your_key> "say "
+3030 (%uebd6): bind <your_key> "say "
+3031 (%uebd7): bind <your_key> "say "
+3032 (%uebd8): bind <your_key> "say "
+3033 (%uebd9): bind <your_key> "say "
+3034 (%uebda): bind <your_key> "say "
+3035 (%uebdb): bind <your_key> "say "
+3036 (%uebdc): bind <your_key> "say "
+3037 (%uebdd): bind <your_key> "say "
+3038 (%uebde): bind <your_key> "say "
+3039 (%uebdf): bind <your_key> "say "
+3040 (%uebe0): bind <your_key> "say "
+3041 (%uebe1): bind <your_key> "say "
+3042 (%uebe2): bind <your_key> "say "
+3043 (%uebe3): bind <your_key> "say "
+3044 (%uebe4): bind <your_key> "say "
+3045 (%uebe5): bind <your_key> "say "
+3046 (%uebe6): bind <your_key> "say "
+3047 (%uebe7): bind <your_key> "say "
+3048 (%uebe8): bind <your_key> "say "
+3049 (%uebe9): bind <your_key> "say "
+3050 (%uebea): bind <your_key> "say "
+3051 (%uebeb): bind <your_key> "say "
+3052 (%uebec): bind <your_key> "say "
+3053 (%uebed): bind <your_key> "say "
+3054 (%uebee): bind <your_key> "say "
+3055 (%uebef): bind <your_key> "say "
+3056 (%uebf0): bind <your_key> "say "
+3057 (%uebf1): bind <your_key> "say "
+3058 (%uebf2): bind <your_key> "say "
+3059 (%uebf3): bind <your_key> "say "
+3060 (%uebf4): bind <your_key> "say "
+3061 (%uebf5): bind <your_key> "say "
+3062 (%uebf6): bind <your_key> "say "
+3063 (%uebf7): bind <your_key> "say "
+3064 (%uebf8): bind <your_key> "say "
+3065 (%uebf9): bind <your_key> "say "
+3066 (%uebfa): bind <your_key> "say "
+3067 (%uebfb): bind <your_key> "say "
+3068 (%uebfc): bind <your_key> "say "
+3069 (%uebfd): bind <your_key> "say "
+3070 (%uebfe): bind <your_key> "say "
+3071 (%uebff): bind <your_key> "say "
+3072 (%uec00): bind <your_key> "say "
+3073 (%uec01): bind <your_key> "say "
+3074 (%uec02): bind <your_key> "say "
+3075 (%uec03): bind <your_key> "say "
+3076 (%uec04): bind <your_key> "say "
+3077 (%uec05): bind <your_key> "say "
+3078 (%uec06): bind <your_key> "say "
+3079 (%uec07): bind <your_key> "say "
+3080 (%uec08): bind <your_key> "say "
+3081 (%uec09): bind <your_key> "say "
+3082 (%uec0a): bind <your_key> "say "
+3083 (%uec0b): bind <your_key> "say "
+3084 (%uec0c): bind <your_key> "say "
+3085 (%uec0d): bind <your_key> "say "
+3086 (%uec0e): bind <your_key> "say "
+3087 (%uec0f): bind <your_key> "say "
+3088 (%uec10): bind <your_key> "say "
+3089 (%uec11): bind <your_key> "say "
+3090 (%uec12): bind <your_key> "say "
+3091 (%uec13): bind <your_key> "say "
+3092 (%uec14): bind <your_key> "say "
+3093 (%uec15): bind <your_key> "say "
+3094 (%uec16): bind <your_key> "say "
+3095 (%uec17): bind <your_key> "say "
+3096 (%uec18): bind <your_key> "say "
+3097 (%uec19): bind <your_key> "say "
+3098 (%uec1a): bind <your_key> "say "
+3099 (%uec1b): bind <your_key> "say "
+3100 (%uec1c): bind <your_key> "say "
+3101 (%uec1d): bind <your_key> "say "
+3102 (%uec1e): bind <your_key> "say "
+3103 (%uec1f): bind <your_key> "say "
+3104 (%uec20): bind <your_key> "say "
+3105 (%uec21): bind <your_key> "say "
+3106 (%uec22): bind <your_key> "say "
+3107 (%uec23): bind <your_key> "say "
+3108 (%uec24): bind <your_key> "say "
+3109 (%uec25): bind <your_key> "say "
+3110 (%uec26): bind <your_key> "say "
+3111 (%uec27): bind <your_key> "say "
+3112 (%uec28): bind <your_key> "say "
+3113 (%uec29): bind <your_key> "say "
+3114 (%uec2a): bind <your_key> "say "
+3115 (%uec2b): bind <your_key> "say "
+3116 (%uec2c): bind <your_key> "say "
+3117 (%uec2d): bind <your_key> "say "
+3118 (%uec2e): bind <your_key> "say "
+3119 (%uec2f): bind <your_key> "say "
+3120 (%uec30): bind <your_key> "say "
+3121 (%uec31): bind <your_key> "say "
+3122 (%uec32): bind <your_key> "say "
+3123 (%uec33): bind <your_key> "say "
+3124 (%uec34): bind <your_key> "say "
+3125 (%uec35): bind <your_key> "say "
+3126 (%uec36): bind <your_key> "say "
+3127 (%uec37): bind <your_key> "say "
+3128 (%uec38): bind <your_key> "say "
+3129 (%uec39): bind <your_key> "say "
+3130 (%uec3a): bind <your_key> "say "
+3131 (%uec3b): bind <your_key> "say "
+3132 (%uec3c): bind <your_key> "say "
+3133 (%uec3d): bind <your_key> "say "
+3134 (%uec3e): bind <your_key> "say "
+3135 (%uec3f): bind <your_key> "say "
+3136 (%uec40): bind <your_key> "say "
+3137 (%uec41): bind <your_key> "say "
+3138 (%uec42): bind <your_key> "say "
+3139 (%uec43): bind <your_key> "say "
+3140 (%uec44): bind <your_key> "say "
+3141 (%uec45): bind <your_key> "say "
+3142 (%uec46): bind <your_key> "say "
+3143 (%uec47): bind <your_key> "say "
+3144 (%uec48): bind <your_key> "say "
+3145 (%uec49): bind <your_key> "say "
+3146 (%uec4a): bind <your_key> "say "
+3147 (%uec4b): bind <your_key> "say "
+3148 (%uec4c): bind <your_key> "say "
+3149 (%uec4d): bind <your_key> "say "
+3150 (%uec4e): bind <your_key> "say "
+3151 (%uec4f): bind <your_key> "say "
+3152 (%uec50): bind <your_key> "say "
+3153 (%uec51): bind <your_key> "say "
+3154 (%uec52): bind <your_key> "say "
+3155 (%uec53): bind <your_key> "say "
+3156 (%uec54): bind <your_key> "say "
+3157 (%uec55): bind <your_key> "say "
+3158 (%uec56): bind <your_key> "say "
+3159 (%uec57): bind <your_key> "say "
+3160 (%uec58): bind <your_key> "say "
 3161 (%uec59): bind <your_key> "say "
-3162 (%uec5a): bind <your_key> "say " - :fandom_NEM_2_1: teamfancontent/season_2/5014799/emoticon2
-3163 (%uec5b): bind <your_key> "say " - :fandom_NEM_2_2: teamfancontent/season_2/5014799/emoticon3
-3164 (%uec5c): bind <your_key> "say " - :fandom_NEM_2_3: teamfancontent/season_2/5014799/emoticon4
-3165 (%uec5d): bind <your_key> "say " - :fandom_SP_2_0: teamfancontent/season_2/8204562/emoticon0
-3166 (%uec5e): bind <your_key> "say " - :fandom_SP_2_1: teamfancontent/season_2/8204562/emoticon1
-3167 (%uec5f): bind <your_key> "say " - :fandom_SP_2_2: teamfancontent/season_2/8204562/emoticon2
-3168 (%uec60): bind <your_key> "say " - :fandom_PG_2_0: teamfancontent/season_2/8118983/emoticon0
-3169 (%uec61): bind <your_key> "say " - :fandom_PG_2_2: teamfancontent/season_2/8118983/emoticon2
-3170 (%uec62): bind <your_key> "say " - :fandom_PG_2_3: teamfancontent/season_2/8118983/emoticon3
-3171 (%uec63): bind <your_key> "say " - :fandom_BNY_2_1: teamfancontent/season_2/8260932/emoticon1
-3172 (%uec64): bind <your_key> "say " - :fandom_BNY_2_2: teamfancontent/season_2/8260932/emoticon2
-3173 (%uec65): bind <your_key> "say " - :fandom_D2H_2_0: teamfancontent/season_2/8376426/emoticon0
-3174 (%uec66): bind <your_key> "say " - :fandom_D2H_2_1: teamfancontent/season_2/8376426/emoticon1
-3175 (%uec67): bind <your_key> "say " - :fandom_D2H_2_3: teamfancontent/season_2/8376426/emoticon3
-3176 (%uec68): bind <your_key> "say " - :fandom_5MM_2_1: teamfancontent/season_2/8230115/emoticon1
-3177 (%uec69): bind <your_key> "say " - :fandom_WIN_2_1: teamfancontent/season_2/7118032/emoticon1
-3178 (%uec6a): bind <your_key> "say " - :fandom_WIN_2_3: teamfancontent/season_2/7118032/emoticon3
-3179 (%uec6b): bind <your_key> "say " - :fandom_WIN_2_4: teamfancontent/season_2/7118032/emoticon4
-3180 (%uec6c): bind <your_key> "say " - :fandom_MAG_2_1: teamfancontent/season_2/8126892/emoticon1
-3181 (%uec6d): bind <your_key> "say " - :fandom_MAG_2_2: teamfancontent/season_2/8126892/emoticon2
-3182 (%uec6e): bind <your_key> "say " - :fandom_MAG_2_4: teamfancontent/season_2/8126892/emoticon4
-3183 (%uec6f): bind <your_key> "say " - :fandom_ARI_2_0: teamfancontent/season_2/7453020/emoticon0
-3184 (%uec70): bind <your_key> "say " - :fandom_EBOY_2_1: teamfancontent/season_2/8262639/emoticon1
-3185 (%uec71): bind <your_key> "say " - :fandom_F5_2_4: teamfancontent/season_2/8352473/emoticon4
-3186 (%uec72): bind <your_key> "say " - :fandom_F5_2_6: teamfancontent/season_2/8352473/emoticon6
-3187 (%uec73): bind <your_key> "say " - :fandom_TUN_2_2: teamfancontent/season_2/8291895/emoticon2
-3188 (%uec74): bind <your_key> "say " - :fandom_TUN_2_3: teamfancontent/season_2/8291895/emoticon3
-3189 (%uec75): bind <your_key> "say " - :fandom_TUN_2_6: teamfancontent/season_2/8291895/emoticon6
-3190 (%uec76): bind <your_key> "say " - :fandom_UNK_2_0: teamfancontent/season_2/7121518/emoticon0
-3191 (%uec77): bind <your_key> "say " - :fandom_UNK_2_1: teamfancontent/season_2/7121518/emoticon1
-3192 (%uec78): bind <your_key> "say " - :fandom_UNK_2_3: teamfancontent/season_2/7121518/emoticon3
-3193 (%uec79): bind <your_key> "say " - :fandom_MYS_2_1: teamfancontent/season_2/8335015/emoticon1
-3194 (%uec7a): bind <your_key> "say " - :fandom_HM_2_0: teamfancontent/season_2/8113549/emoticon0
-3195 (%uec7b): bind <your_key> "say " - :fandom_HM_2_1: teamfancontent/season_2/8113549/emoticon1
-3196 (%uec7c): bind <your_key> "say " - :fandom_HM_2_2: teamfancontent/season_2/8113549/emoticon2
-3197 (%uec7d): bind <your_key> "say " - :fandom_INV_2_0: teamfancontent/season_2/6767209/emoticon0
-3198 (%uec7e): bind <your_key> "say " - :fandom_INV_2_1: teamfancontent/season_2/6767209/emoticon1
-3199 (%uec7f): bind <your_key> "say " - :fandom_INV_2_2: teamfancontent/season_2/6767209/emoticon2
-3200 (%uec80): bind <your_key> "say " - :fandom_2B_3_0: teamfancontent/season_3/8272699/emoticon0
-3201 (%uec81): bind <your_key> "say " - :fandom_2B_3_1: teamfancontent/season_3/8272699/emoticon1
-3202 (%uec82): bind <your_key> "say " - :fandom_2B_3_2: teamfancontent/season_3/8272699/emoticon2
-3203 (%uec83): bind <your_key> "say " - :fandom_SEC_3_1: teamfancontent/season_3/1838315/emoticon1
-3204 (%uec84): bind <your_key> "say " - :fandom_SEC_3_2: teamfancontent/season_3/1838315/emoticon2
-3205 (%uec85): bind <your_key> "say " - :fandom_SEC_3_4: teamfancontent/season_3/1838315/emoticon4
-3206 (%uec86): bind <your_key> "say " - :fandom_ALL_3_0: teamfancontent/season_3/111474/emoticon0
-3207 (%uec87): bind <your_key> "say " - :fandom_ALL_3_2: teamfancontent/season_3/111474/emoticon2
-3208 (%uec88): bind <your_key> "say " - :fandom_ALL_3_4: teamfancontent/season_3/111474/emoticon4
-3209 (%uec89): bind <your_key> "say " - :fandom_TP_3_3: teamfancontent/season_3/7391077/emoticon3
-3210 (%uec8a): bind <your_key> "say " - :fandom_TP_3_4: teamfancontent/season_3/7391077/emoticon4
-3211 (%uec8b): bind <your_key> "say " - :fandom_TP_3_5: teamfancontent/season_3/7391077/emoticon5
-3212 (%uec8c): bind <your_key> "say " - :fandom_EG_3_0: teamfancontent/season_3/39/emoticon0
-3213 (%uec8d): bind <your_key> "say " - :fandom_EG_3_2: teamfancontent/season_3/39/emoticon2
-3214 (%uec8e): bind <your_key> "say " - :fandom_EG_3_3: teamfancontent/season_3/39/emoticon3
-3215 (%uec8f): bind <your_key> "say " - :fandom_Dog_3_0: teamfancontent/season_3/8604954/emoticon0
-3216 (%uec90): bind <your_key> "say " - :fandom_Dog_3_1: teamfancontent/season_3/8604954/emoticon1
-3217 (%uec91): bind <your_key> "say " - :fandom_Dog_3_2: teamfancontent/season_3/8604954/emoticon2
-3218 (%uec92): bind <your_key> "say " - :fandom_QCY_3_0: teamfancontent/season_3/7390454/emoticon0
-3219 (%uec93): bind <your_key> "say " - :fandom_QCY_3_1: teamfancontent/season_3/7390454/emoticon1
-3220 (%uec94): bind <your_key> "say " - :fandom_QCY_3_2: teamfancontent/season_3/7390454/emoticon2
-3221 (%uec95): bind <your_key> "say " - :fandom_GMB_3_1: teamfancontent/season_3/8376696/emoticon1
-3222 (%uec96): bind <your_key> "say " - :fandom_GMB_3_2: teamfancontent/season_3/8376696/emoticon2
-3223 (%uec97): bind <your_key> "say " - :fandom_GMB_3_6: teamfancontent/season_3/8376696/emoticon6
-3224 (%uec98): bind <your_key> "say " - :fandom_TT_3_1: teamfancontent/season_3/8599101/emoticon1
-3225 (%uec99): bind <your_key> "say " - :fandom_TT_3_4: teamfancontent/season_3/8599101/emoticon4
-3226 (%uec9a): bind <your_key> "say " - :fandom_TT_3_6: teamfancontent/season_3/8599101/emoticon6
-3227 (%uec9b): bind <your_key> "say " - :fandom_OG_3_0: teamfancontent/season_3/2586976/emoticon0
-3228 (%uec9c): bind <your_key> "say " - :fandom_OG_3_1: teamfancontent/season_3/2586976/emoticon1
-3229 (%uec9d): bind <your_key> "say " - :fandom_OG_3_2: teamfancontent/season_3/2586976/emoticon2
-3230 (%uec9e): bind <your_key> "say " - :fandom_ARK_3_0: teamfancontent/season_3/8180753/emoticon0
-3231 (%uec9f): bind <your_key> "say " - :fandom_ARK_3_1: teamfancontent/season_3/8180753/emoticon1
-3232 (%ueca0): bind <your_key> "say " - :fandom_ARK_3_3: teamfancontent/season_3/8180753/emoticon3
-3233 (%ueca1): bind <your_key> "say " - :fandom_T1_3_0: teamfancontent/season_3/8214850/emoticon0
-3234 (%ueca2): bind <your_key> "say " - :fandom_T1_3_1: teamfancontent/season_3/8214850/emoticon1
-3235 (%ueca3): bind <your_key> "say " - :fandom_T1_3_2: teamfancontent/season_3/8214850/emoticon2
-3236 (%ueca4): bind <your_key> "say " - :fandom_NGS_3_2: teamfancontent/season_3/8572181/emoticon2
-3237 (%ueca5): bind <your_key> "say " - :fandom_NGS_3_3: teamfancontent/season_3/8572181/emoticon3
-3238 (%ueca6): bind <your_key> "say " - :fandom_NGS_3_4: teamfancontent/season_3/8572181/emoticon4
-3239 (%ueca7): bind <your_key> "say " - :fandom_NOP_3_0: teamfancontent/season_3/7298091/emoticon0
-3240 (%ueca8): bind <your_key> "say " - :fandom_NOP_3_1: teamfancontent/season_3/7298091/emoticon1
-3241 (%ueca9): bind <your_key> "say " - :fandom_NOP_3_2: teamfancontent/season_3/7298091/emoticon2
-3242 (%uecaa): bind <your_key> "say " - :fandom_VG_3_0: teamfancontent/season_3/726228/emoticon0
-3243 (%uecab): bind <your_key> "say " - :fandom_VG_3_1: teamfancontent/season_3/726228/emoticon1
-3244 (%uecac): bind <your_key> "say " - :fandom_VG_3_2: teamfancontent/season_3/726228/emoticon2
-3245 (%uecad): bind <your_key> "say " - :fandom_CHF_3_0: teamfancontent/season_3/8390848/emoticon0
-3246 (%uecae): bind <your_key> "say " - :fandom_CHF_3_2: teamfancontent/season_3/8390848/emoticon2
-3247 (%uecaf): bind <your_key> "say " - :fandom_CHF_3_3: teamfancontent/season_3/8390848/emoticon3
-3248 (%uecb0): bind <your_key> "say " - :fandom_VP_3_0: teamfancontent/season_3/1883502/emoticon0
-3249 (%uecb1): bind <your_key> "say " - :fandom_VP_3_3: teamfancontent/season_3/1883502/emoticon3
-3250 (%uecb2): bind <your_key> "say " - :fandom_NEON_3_0: teamfancontent/season_3/8360138/emoticon0
-3251 (%uecb3): bind <your_key> "say " - :fandom_NEON_3_1: teamfancontent/season_3/8360138/emoticon1
-3252 (%uecb4): bind <your_key> "say " - :fandom_NEON_3_2: teamfancontent/season_3/8360138/emoticon2
-3253 (%uecb5): bind <your_key> "say " - :fandom_NGX_3_0: teamfancontent/season_3/7554697/emoticon0
-3254 (%uecb6): bind <your_key> "say " - :fandom_NGX_3_2: teamfancontent/season_3/7554697/emoticon2
-3255 (%uecb7): bind <your_key> "say " - :fandom_NGX_3_4: teamfancontent/season_3/7554697/emoticon4
-3256 (%uecb8): bind <your_key> "say " - :fandom_LIQ_3_0: teamfancontent/season_3/2163/emoticon0
-3257 (%uecb9): bind <your_key> "say " - :fandom_LIQ_3_1: teamfancontent/season_3/2163/emoticon1
-3258 (%uecba): bind <your_key> "say " - :fandom_LIQ_3_2: teamfancontent/season_3/2163/emoticon2
-3259 (%uecbb): bind <your_key> "say " - :fandom_BOOM_3_1: teamfancontent/season_3/7732977/emoticon1
-3260 (%uecbc): bind <your_key> "say " - :fandom_BOOM_3_3: teamfancontent/season_3/7732977/emoticon3
-3261 (%uecbd): bind <your_key> "say " - :fandom_BOOM_3_6: teamfancontent/season_3/7732977/emoticon6
-3262 (%uecbe): bind <your_key> "say " - :fandom_HOK_3_0: teamfancontent/season_3/8131728/emoticon0
-3263 (%uecbf): bind <your_key> "say " - :fandom_HOK_3_1: teamfancontent/season_3/8131728/emoticon1
-3264 (%uecc0): bind <your_key> "say " - :fandom_HOK_3_2: teamfancontent/season_3/8131728/emoticon2
-3265 (%uecc1): bind <your_key> "say " - :fandom_IG_3_0: teamfancontent/season_3/5/emoticon0
-3266 (%uecc2): bind <your_key> "say " - :fandom_IG_3_1: teamfancontent/season_3/5/emoticon1
-3267 (%uecc3): bind <your_key> "say " - :fandom_IG_3_2: teamfancontent/season_3/5/emoticon2
-3268 (%uecc4): bind <your_key> "say " - :fandom_FNA_3_1: teamfancontent/season_3/350190/emoticon1
-3269 (%uecc5): bind <your_key> "say " - :fandom_FNA_3_2: teamfancontent/season_3/350190/emoticon2
-3270 (%uecc6): bind <your_key> "say " - :fandom_PC_3_1: teamfancontent/season_3/8261648/emoticon1
-3271 (%uecc7): bind <your_key> "say " - :fandom_PC_3_2: teamfancontent/season_3/8261648/emoticon2
-3272 (%uecc8): bind <your_key> "say " - :fandom_PC_3_4: teamfancontent/season_3/8261648/emoticon4
-3273 (%uecc9): bind <your_key> "say " - :fandom_UNK_3_1: teamfancontent/season_3/7121518/emoticon1
-3274 (%uecca): bind <your_key> "say " - :fandom_UNK_3_2: teamfancontent/season_3/7121518/emoticon2
-3275 (%ueccb): bind <your_key> "say " - :fandom_NAVI_3_0: teamfancontent/season_3/36/emoticon0
-3276 (%ueccc): bind <your_key> "say " - :fandom_NAVI_3_1: teamfancontent/season_3/36/emoticon1
-3277 (%ueccd): bind <your_key> "say " - :fandom_NAVI_3_2: teamfancontent/season_3/36/emoticon2
-3278 (%uecce): bind <your_key> "say " - :fandom_WIN_3_1: teamfancontent/season_3/7118032/emoticon1
-3279 (%ueccf): bind <your_key> "say " - :fandom_WIN_3_3: teamfancontent/season_3/7118032/emoticon3
-3280 (%uecd0): bind <your_key> "say " - :fandom_WIN_3_4: teamfancontent/season_3/7118032/emoticon4
-3281 (%uecd1): bind <your_key> "say " - :fandom_MGMB_3_0: teamfancontent/season_3/8310936/emoticon0
-3282 (%uecd2): bind <your_key> "say " - :fandom_MGMB_3_1: teamfancontent/season_3/8310936/emoticon1
-3283 (%uecd3): bind <your_key> "say " - :fandom_MGMB_3_3: teamfancontent/season_3/8310936/emoticon3
-3284 (%uecd4): bind <your_key> "say " - :fandom_EMP_3_0: teamfancontent/season_3/46/emoticon0
-3285 (%uecd5): bind <your_key> "say " - :fandom_EMP_3_9: teamfancontent/season_3/46/emoticon9
-3286 (%uecd6): bind <your_key> "say " - :fandom_EMP_3_6: teamfancontent/season_3/46/emoticon6
-3287 (%uecd7): bind <your_key> "say " - :fandom_BC_3_1: teamfancontent/season_3/8254400/emoticon1
-3288 (%uecd8): bind <your_key> "say " - :fandom_BC_3_2: teamfancontent/season_3/8254400/emoticon2
-3289 (%uecd9): bind <your_key> "say " - :fandom_BC_3_6: teamfancontent/season_3/8254400/emoticon6
-3290 (%uecda): bind <your_key> "say " - :fandom_B8_3_0: teamfancontent/season_3/8359896/emoticon0
-3291 (%uecdb): bind <your_key> "say " - :fandom_B8_3_1: teamfancontent/season_3/8359896/emoticon1
-3292 (%uecdc): bind <your_key> "say " - :fandom_B8_3_2: teamfancontent/season_3/8359896/emoticon2
-3293 (%uecdd): bind <your_key> "say " - :fandom_GP_3_0: teamfancontent/season_3/5055770/emoticon0
-3294 (%uecde): bind <your_key> "say " - :fandom_GP_3_1: teamfancontent/season_3/5055770/emoticon1
-3295 (%uecdf): bind <your_key> "say " - :fandom_GP_3_2: teamfancontent/season_3/5055770/emoticon2
-3296 (%uece0): bind <your_key> "say " - :fandom_5MM_3_0: teamfancontent/season_3/8230115/emoticon0
-3297 (%uece1): bind <your_key> "say " - :fandom_5MM_3_1: teamfancontent/season_3/8230115/emoticon1
-3298 (%uece2): bind <your_key> "say " - :fandom_5MM_3_2: teamfancontent/season_3/8230115/emoticon2
-3299 (%uece3): bind <your_key> "say " - :fandom_iS_3_0: teamfancontent/season_3/8442622/emoticon0
-3300 (%uece4): bind <your_key> "say " - :fandom_iS_3_1: teamfancontent/season_3/8442622/emoticon1
-3301 (%uece5): bind <your_key> "say " - :fandom_KNG_3_0: teamfancontent/season_3/8375259/emoticon0
-3302 (%uece6): bind <your_key> "say " - :fandom_KNG_3_2: teamfancontent/season_3/8375259/emoticon2
-3303 (%uece7): bind <your_key> "say " - :fandom_NEP_3_0: teamfancontent/season_3/8204512/emoticon0
-3304 (%uece8): bind <your_key> "say " - :fandom_NEP_3_1: teamfancontent/season_3/8204512/emoticon1
-3305 (%uece9): bind <your_key> "say " - :fandom_NEP_3_2: teamfancontent/season_3/8204512/emoticon2
-3306 (%uecea): bind <your_key> "say " - :fandom_EG_4_0: teamfancontent/season_4/39/emoticon0
-3307 (%ueceb): bind <your_key> "say " - :fandom_EG_4_1: teamfancontent/season_4/39/emoticon1
-3308 (%uecec): bind <your_key> "say " - :fandom_EG_4_2: teamfancontent/season_4/39/emoticon2
-3309 (%ueced): bind <your_key> "say " - :fandom_GG_4_1: teamfancontent/season_4/8599101/emoticon1
-3310 (%uecee): bind <your_key> "say " - :fandom_GG_4_3: teamfancontent/season_4/8599101/emoticon3
-3311 (%uecef): bind <your_key> "say " - :fandom_GG_4_5: teamfancontent/season_4/8599101/emoticon5
-3312 (%uecf0): bind <your_key> "say " - :fandom_NGX_4_0: teamfancontent/season_4/7554697/emoticon0
-3313 (%uecf1): bind <your_key> "say " - :fandom_NGX_4_1: teamfancontent/season_4/7554697/emoticon1
-3314 (%uecf2): bind <your_key> "say " - :fandom_NGX_4_2: teamfancontent/season_4/7554697/emoticon2
-3315 (%uecf3): bind <your_key> "say " - :fandom_TBR_4_0: teamfancontent/season_4/8344760/emoticon0
-3316 (%uecf4): bind <your_key> "say " - :fandom_TBR_4_1: teamfancontent/season_4/8344760/emoticon1
-3317 (%uecf5): bind <your_key> "say " - :fandom_TBR_4_3: teamfancontent/season_4/8344760/emoticon3
-3318 (%uecf6): bind <your_key> "say " - :fandom_NEON_4_0: teamfancontent/season_4/8360138/emoticon0
-3319 (%uecf7): bind <your_key> "say " - :fandom_NEON_4_1: teamfancontent/season_4/8360138/emoticon1
-3320 (%uecf8): bind <your_key> "say " - :fandom_NEON_4_3: teamfancontent/season_4/8360138/emoticon3
-3321 (%uecf9): bind <your_key> "say " - :fandom_TSM_4_0: teamfancontent/season_4/8260983/emoticon0
-3322 (%uecfa): bind <your_key> "say " - :fandom_TSM_4_1: teamfancontent/season_4/8260983/emoticon1
-3323 (%uecfb): bind <your_key> "say " - :fandom_TSM_4_3: teamfancontent/season_4/8260983/emoticon3
-3324 (%uecfc): bind <your_key> "say " - :fandom_2B_4_0: teamfancontent/season_4/8272699/emoticon0
-3325 (%uecfd): bind <your_key> "say " - :fandom_2B_4_1: teamfancontent/season_4/8272699/emoticon1
-3326 (%uecfe): bind <your_key> "say " - :fandom_2B_4_2: teamfancontent/season_4/8272699/emoticon2
-3327 (%uecff): bind <your_key> "say " - :fandom_TC_4_0: teamfancontent/season_4/8205424/emoticon0
-3328 (%ued00): bind <your_key> "say " - :fandom_TC_4_1: teamfancontent/season_4/8205424/emoticon1
-3329 (%ued01): bind <your_key> "say " - :fandom_TC_4_2: teamfancontent/season_4/8205424/emoticon2
-3330 (%ued02): bind <your_key> "say " - :fandom_4ZS_4_0: teamfancontent/season_4/7819028/emoticon0
-3331 (%ued03): bind <your_key> "say " - :fandom_4ZS_4_1: teamfancontent/season_4/7819028/emoticon1
-3332 (%ued04): bind <your_key> "say " - :fandom_4ZS_4_2: teamfancontent/season_4/7819028/emoticon2
-3333 (%ued05): bind <your_key> "say " - :fandom_CHF_4_0: teamfancontent/season_4/8390848/emoticon0
-3334 (%ued06): bind <your_key> "say " - :fandom_CHF_4_2: teamfancontent/season_4/8390848/emoticon2
-3335 (%ued07): bind <your_key> "say " - :fandom_CHF_4_3: teamfancontent/season_4/8390848/emoticon3
-3336 (%ued08): bind <your_key> "say " - :fandom_Dog_4_0: teamfancontent/season_4/8604954/emoticon0
-3337 (%ued09): bind <your_key> "say " - :fandom_Dog_4_1: teamfancontent/season_4/8604954/emoticon1
-3338 (%ued0a): bind <your_key> "say " - :fandom_Dog_4_2: teamfancontent/season_4/8604954/emoticon2
-3339 (%ued0b): bind <your_key> "say " - :fandom_QCY_4_0: teamfancontent/season_4/7390454/emoticon0
-3340 (%ued0c): bind <your_key> "say " - :fandom_QCY_4_1: teamfancontent/season_4/7390454/emoticon1
-3341 (%ued0d): bind <your_key> "say " - :fandom_QCY_4_2: teamfancontent/season_4/7390454/emoticon2
-3342 (%ued0e): bind <your_key> "say " - :fandom_SEC_4_0: teamfancontent/season_4/1838315/emoticon0
-3343 (%ued0f): bind <your_key> "say " - :fandom_SEC_4_3: teamfancontent/season_4/1838315/emoticon3
-3344 (%ued10): bind <your_key> "say " - :fandom_SEC_4_5: teamfancontent/season_4/1838315/emoticon5
-3345 (%ued11): bind <your_key> "say " - :fandom_LIQ_4_0: teamfancontent/season_4/2163/emoticon0
-3346 (%ued12): bind <your_key> "say " - :fandom_LIQ_4_1: teamfancontent/season_4/2163/emoticon1
-3347 (%ued13): bind <your_key> "say " - :fandom_LIQ_4_2: teamfancontent/season_4/2163/emoticon2
-3348 (%ued14): bind <your_key> "say " - :fandom_WC_4_0: teamfancontent/season_4/8376426/emoticon0
-3349 (%ued15): bind <your_key> "say " - :fandom_WC_4_1: teamfancontent/season_4/8376426/emoticon1
-3350 (%ued16): bind <your_key> "say " - :fandom_WC_4_5: teamfancontent/season_4/8376426/emoticon5
-3351 (%ued17): bind <your_key> "say " - :fandom_5RF_4_0: teamfancontent/season_4/8607159/emoticon0
-3352 (%ued18): bind <your_key> "say " - :fandom_5RF_4_1: teamfancontent/season_4/8607159/emoticon1
-3353 (%ued19): bind <your_key> "say " - :fandom_5RF_4_2: teamfancontent/season_4/8607159/emoticon2
-3354 (%ued1a): bind <your_key> "say " - :fandom_ETG_4_0: teamfancontent/season_4/8605863/emoticon0
-3355 (%ued1b): bind <your_key> "say " - :fandom_ETG_4_1: teamfancontent/season_4/8605863/emoticon1
-3356 (%ued1c): bind <your_key> "say " - :fandom_ETG_4_3: teamfancontent/season_4/8605863/emoticon3
-3357 (%ued1d): bind <your_key> "say " - :fandom_T1_4_0: teamfancontent/season_4/8214850/emoticon0
-3358 (%ued1e): bind <your_key> "say " - :fandom_T1_4_1: teamfancontent/season_4/8214850/emoticon1
-3359 (%ued1f): bind <your_key> "say " - :fandom_T1_4_2: teamfancontent/season_4/8214850/emoticon2
-3360 (%ued20): bind <your_key> "say " - :fandom_ARK_4_0: teamfancontent/season_4/8180753/emoticon0
-3361 (%ued21): bind <your_key> "say " - :fandom_ARK_4_1: teamfancontent/season_4/8180753/emoticon1
-3362 (%ued22): bind <your_key> "say " - :fandom_ARK_4_2: teamfancontent/season_4/8180753/emoticon2
-3363 (%ued23): bind <your_key> "say " - :fandom_LAV_4_0: teamfancontent/season_4/7119077/emoticon0
-3364 (%ued24): bind <your_key> "say " - :fandom_LAV_4_1: teamfancontent/season_4/7119077/emoticon1
-3365 (%ued25): bind <your_key> "say " - :fandom_LAV_4_2: teamfancontent/season_4/7119077/emoticon2
+3162 (%uec5a): bind <your_key> "say "
+3163 (%uec5b): bind <your_key> "say "
+3164 (%uec5c): bind <your_key> "say "
+3165 (%uec5d): bind <your_key> "say "
+3166 (%uec5e): bind <your_key> "say "
+3167 (%uec5f): bind <your_key> "say "
+3168 (%uec60): bind <your_key> "say "
+3169 (%uec61): bind <your_key> "say "
+3170 (%uec62): bind <your_key> "say "
+3171 (%uec63): bind <your_key> "say "
+3172 (%uec64): bind <your_key> "say "
+3173 (%uec65): bind <your_key> "say "
+3174 (%uec66): bind <your_key> "say "
+3175 (%uec67): bind <your_key> "say "
+3176 (%uec68): bind <your_key> "say "
+3177 (%uec69): bind <your_key> "say "
+3178 (%uec6a): bind <your_key> "say "
+3179 (%uec6b): bind <your_key> "say "
+3180 (%uec6c): bind <your_key> "say "
+3181 (%uec6d): bind <your_key> "say "
+3182 (%uec6e): bind <your_key> "say "
+3183 (%uec6f): bind <your_key> "say "
+3184 (%uec70): bind <your_key> "say "
+3185 (%uec71): bind <your_key> "say "
+3186 (%uec72): bind <your_key> "say "
+3187 (%uec73): bind <your_key> "say "
+3188 (%uec74): bind <your_key> "say "
+3189 (%uec75): bind <your_key> "say "
+3190 (%uec76): bind <your_key> "say "
+3191 (%uec77): bind <your_key> "say "
+3192 (%uec78): bind <your_key> "say "
+3193 (%uec79): bind <your_key> "say "
+3194 (%uec7a): bind <your_key> "say "
+3195 (%uec7b): bind <your_key> "say "
+3196 (%uec7c): bind <your_key> "say "
+3197 (%uec7d): bind <your_key> "say "
+3198 (%uec7e): bind <your_key> "say "
+3199 (%uec7f): bind <your_key> "say "
+3200 (%uec80): bind <your_key> "say "
+3201 (%uec81): bind <your_key> "say "
+3202 (%uec82): bind <your_key> "say "
+3203 (%uec83): bind <your_key> "say "
+3204 (%uec84): bind <your_key> "say "
+3205 (%uec85): bind <your_key> "say "
+3206 (%uec86): bind <your_key> "say "
+3207 (%uec87): bind <your_key> "say "
+3208 (%uec88): bind <your_key> "say "
+3209 (%uec89): bind <your_key> "say "
+3210 (%uec8a): bind <your_key> "say "
+3211 (%uec8b): bind <your_key> "say "
+3212 (%uec8c): bind <your_key> "say "
+3213 (%uec8d): bind <your_key> "say "
+3214 (%uec8e): bind <your_key> "say "
+3215 (%uec8f): bind <your_key> "say "
+3216 (%uec90): bind <your_key> "say "
+3217 (%uec91): bind <your_key> "say "
+3218 (%uec92): bind <your_key> "say "
+3219 (%uec93): bind <your_key> "say "
+3220 (%uec94): bind <your_key> "say "
+3221 (%uec95): bind <your_key> "say "
+3222 (%uec96): bind <your_key> "say "
+3223 (%uec97): bind <your_key> "say "
+3224 (%uec98): bind <your_key> "say "
+3225 (%uec99): bind <your_key> "say "
+3226 (%uec9a): bind <your_key> "say "
+3227 (%uec9b): bind <your_key> "say "
+3228 (%uec9c): bind <your_key> "say "
+3229 (%uec9d): bind <your_key> "say "
+3230 (%uec9e): bind <your_key> "say "
+3231 (%uec9f): bind <your_key> "say "
+3232 (%ueca0): bind <your_key> "say "
+3233 (%ueca1): bind <your_key> "say "
+3234 (%ueca2): bind <your_key> "say "
+3235 (%ueca3): bind <your_key> "say "
+3236 (%ueca4): bind <your_key> "say "
+3237 (%ueca5): bind <your_key> "say "
+3238 (%ueca6): bind <your_key> "say "
+3239 (%ueca7): bind <your_key> "say "
+3240 (%ueca8): bind <your_key> "say "
+3241 (%ueca9): bind <your_key> "say "
+3242 (%uecaa): bind <your_key> "say "
+3243 (%uecab): bind <your_key> "say "
+3244 (%uecac): bind <your_key> "say "
+3245 (%uecad): bind <your_key> "say "
+3246 (%uecae): bind <your_key> "say "
+3247 (%uecaf): bind <your_key> "say "
+3248 (%uecb0): bind <your_key> "say "
+3249 (%uecb1): bind <your_key> "say "
+3250 (%uecb2): bind <your_key> "say "
+3251 (%uecb3): bind <your_key> "say "
+3252 (%uecb4): bind <your_key> "say "
+3253 (%uecb5): bind <your_key> "say "
+3254 (%uecb6): bind <your_key> "say "
+3255 (%uecb7): bind <your_key> "say "
+3256 (%uecb8): bind <your_key> "say "
+3257 (%uecb9): bind <your_key> "say "
+3258 (%uecba): bind <your_key> "say "
+3259 (%uecbb): bind <your_key> "say "
+3260 (%uecbc): bind <your_key> "say "
+3261 (%uecbd): bind <your_key> "say "
+3262 (%uecbe): bind <your_key> "say "
+3263 (%uecbf): bind <your_key> "say "
+3264 (%uecc0): bind <your_key> "say "
+3265 (%uecc1): bind <your_key> "say "
+3266 (%uecc2): bind <your_key> "say "
+3267 (%uecc3): bind <your_key> "say "
+3268 (%uecc4): bind <your_key> "say "
+3269 (%uecc5): bind <your_key> "say "
+3270 (%uecc6): bind <your_key> "say "
+3271 (%uecc7): bind <your_key> "say "
+3272 (%uecc8): bind <your_key> "say "
+3273 (%uecc9): bind <your_key> "say "
+3274 (%uecca): bind <your_key> "say "
+3275 (%ueccb): bind <your_key> "say "
+3276 (%ueccc): bind <your_key> "say "
+3277 (%ueccd): bind <your_key> "say "
+3278 (%uecce): bind <your_key> "say "
+3279 (%ueccf): bind <your_key> "say "
+3280 (%uecd0): bind <your_key> "say "
+3281 (%uecd1): bind <your_key> "say "
+3282 (%uecd2): bind <your_key> "say "
+3283 (%uecd3): bind <your_key> "say "
+3284 (%uecd4): bind <your_key> "say "
+3285 (%uecd5): bind <your_key> "say "
+3286 (%uecd6): bind <your_key> "say "
+3287 (%uecd7): bind <your_key> "say "
+3288 (%uecd8): bind <your_key> "say "
+3289 (%uecd9): bind <your_key> "say "
+3290 (%uecda): bind <your_key> "say "
+3291 (%uecdb): bind <your_key> "say "
+3292 (%uecdc): bind <your_key> "say "
+3293 (%uecdd): bind <your_key> "say "
+3294 (%uecde): bind <your_key> "say "
+3295 (%uecdf): bind <your_key> "say "
+3296 (%uece0): bind <your_key> "say "
+3297 (%uece1): bind <your_key> "say "
+3298 (%uece2): bind <your_key> "say "
+3299 (%uece3): bind <your_key> "say "
+3300 (%uece4): bind <your_key> "say "
+3301 (%uece5): bind <your_key> "say "
+3302 (%uece6): bind <your_key> "say "
+3303 (%uece7): bind <your_key> "say "
+3304 (%uece8): bind <your_key> "say "
+3305 (%uece9): bind <your_key> "say "
+3306 (%uecea): bind <your_key> "say "
+3307 (%ueceb): bind <your_key> "say "
+3308 (%uecec): bind <your_key> "say "
+3309 (%ueced): bind <your_key> "say "
+3310 (%uecee): bind <your_key> "say "
+3311 (%uecef): bind <your_key> "say "
+3312 (%uecf0): bind <your_key> "say "
+3313 (%uecf1): bind <your_key> "say "
+3314 (%uecf2): bind <your_key> "say "
+3315 (%uecf3): bind <your_key> "say "
+3316 (%uecf4): bind <your_key> "say "
+3317 (%uecf5): bind <your_key> "say "
+3318 (%uecf6): bind <your_key> "say "
+3319 (%uecf7): bind <your_key> "say "
+3320 (%uecf8): bind <your_key> "say "
+3321 (%uecf9): bind <your_key> "say "
+3322 (%uecfa): bind <your_key> "say "
+3323 (%uecfb): bind <your_key> "say "
+3324 (%uecfc): bind <your_key> "say "
+3325 (%uecfd): bind <your_key> "say "
+3326 (%uecfe): bind <your_key> "say "
+3327 (%uecff): bind <your_key> "say "
+3328 (%ued00): bind <your_key> "say "
+3329 (%ued01): bind <your_key> "say "
+3330 (%ued02): bind <your_key> "say "
+3331 (%ued03): bind <your_key> "say "
+3332 (%ued04): bind <your_key> "say "
+3333 (%ued05): bind <your_key> "say "
+3334 (%ued06): bind <your_key> "say "
+3335 (%ued07): bind <your_key> "say "
+3336 (%ued08): bind <your_key> "say "
+3337 (%ued09): bind <your_key> "say "
+3338 (%ued0a): bind <your_key> "say "
+3339 (%ued0b): bind <your_key> "say "
+3340 (%ued0c): bind <your_key> "say "
+3341 (%ued0d): bind <your_key> "say "
+3342 (%ued0e): bind <your_key> "say "
+3343 (%ued0f): bind <your_key> "say "
+3344 (%ued10): bind <your_key> "say "
+3345 (%ued11): bind <your_key> "say "
+3346 (%ued12): bind <your_key> "say "
+3347 (%ued13): bind <your_key> "say "
+3348 (%ued14): bind <your_key> "say "
+3349 (%ued15): bind <your_key> "say "
+3350 (%ued16): bind <your_key> "say "
+3351 (%ued17): bind <your_key> "say "
+3352 (%ued18): bind <your_key> "say "
+3353 (%ued19): bind <your_key> "say "
+3354 (%ued1a): bind <your_key> "say "
+3355 (%ued1b): bind <your_key> "say "
+3356 (%ued1c): bind <your_key> "say "
+3357 (%ued1d): bind <your_key> "say "
+3358 (%ued1e): bind <your_key> "say "
+3359 (%ued1f): bind <your_key> "say "
+3360 (%ued20): bind <your_key> "say "
+3361 (%ued21): bind <your_key> "say "
+3362 (%ued22): bind <your_key> "say "
+3363 (%ued23): bind <your_key> "say "
+3364 (%ued24): bind <your_key> "say "
+3365 (%ued25): bind <your_key> "say "
 3366 (%ued26): bind <your_key> "say "
 3367 (%ued27): bind <your_key> "say "
-3368 (%ued28): bind <your_key> "say " - :fandom_PLGD_4_0: teamfancontent/season_4/15/emoticon0
-3369 (%ued29): bind <your_key> "say " - :fandom_PLGD_4_2: teamfancontent/season_4/15/emoticon2
-3370 (%ued2a): bind <your_key> "say " - :fandom_PLGD_4_9: teamfancontent/season_4/15/emoticon9
-3371 (%ued2b): bind <your_key> "say " - :fandom_EH_4_0: teamfancontent/season_4/4/emoticon0
-3372 (%ued2c): bind <your_key> "say " - :fandom_EH_4_1: teamfancontent/season_4/4/emoticon1
-3373 (%ued2d): bind <your_key> "say " - :fandom_EH_4_2: teamfancontent/season_4/4/emoticon2
-3374 (%ued2e): bind <your_key> "say " - :fandom_SZ_4_0: teamfancontent/season_4/7356881/emoticon0
-3375 (%ued2f): bind <your_key> "say " - :fandom_SZ_4_1: teamfancontent/season_4/7356881/emoticon1
-3376 (%ued30): bind <your_key> "say " - :fandom_SZ_4_2: teamfancontent/season_4/7356881/emoticon2
-3377 (%ued31): bind <your_key> "say " - :fandom_XG_4_0: teamfancontent/season_4/8261500/emoticon0
-3378 (%ued32): bind <your_key> "say " - :fandom_XG_4_1: teamfancontent/season_4/8261500/emoticon1
-3379 (%ued33): bind <your_key> "say " - :fandom_XG_4_3: teamfancontent/season_4/8261500/emoticon3
-3380 (%ued34): bind <your_key> "say " - :fandom_AST_4_0: teamfancontent/season_4/6209166/emoticon0
-3381 (%ued35): bind <your_key> "say " - :fandom_AST_4_1: teamfancontent/season_4/6209166/emoticon1
-3382 (%ued36): bind <your_key> "say " - :fandom_AST_4_2: teamfancontent/season_4/6209166/emoticon2
-3383 (%ued37): bind <your_key> "say " - :fandom_FELT_4_0: teamfancontent/season_4/8261882/emoticon0
-3384 (%ued38): bind <your_key> "say " - :fandom_FELT_4_1: teamfancontent/season_4/8261882/emoticon1
-3385 (%ued39): bind <your_key> "say " - :fandom_FELT_4_3: teamfancontent/season_4/8261882/emoticon3
-3386 (%ued3a): bind <your_key> "say " - :fandom_BNY_4_1: teamfancontent/season_4/8260932/emoticon1
-3387 (%ued3b): bind <your_key> "say " - :fandom_BNY_4_4: teamfancontent/season_4/8260932/emoticon4
-3388 (%ued3c): bind <your_key> "say " - :fandom_BNY_4_5: teamfancontent/season_4/8260932/emoticon5
-3389 (%ued3d): bind <your_key> "say " - :fandom_5MM_4_0: teamfancontent/season_4/8230115/emoticon0
-3390 (%ued3e): bind <your_key> "say " - :fandom_5MM_4_1: teamfancontent/season_4/8230115/emoticon1
-3391 (%ued3f): bind <your_key> "say " - :fandom_5MM_4_2: teamfancontent/season_4/8230115/emoticon2
-3392 (%ued40): bind <your_key> "say " - :fandom_UNK_4_0: teamfancontent/season_4/7121518/emoticon0
-3393 (%ued41): bind <your_key> "say " - :fandom_UNK_4_1: teamfancontent/season_4/7121518/emoticon1
-3394 (%ued42): bind <your_key> "say " - :fandom_UNK_4_2: teamfancontent/season_4/7121518/emoticon2
-3395 (%ued43): bind <your_key> "say " - :fandom_BC_4_1: teamfancontent/season_4/8254400/emoticon1
-3396 (%ued44): bind <your_key> "say " - :fandom_BC_4_6: teamfancontent/season_4/8254400/emoticon6
+3368 (%ued28): bind <your_key> "say "
+3369 (%ued29): bind <your_key> "say "
+3370 (%ued2a): bind <your_key> "say "
+3371 (%ued2b): bind <your_key> "say "
+3372 (%ued2c): bind <your_key> "say "
+3373 (%ued2d): bind <your_key> "say "
+3374 (%ued2e): bind <your_key> "say "
+3375 (%ued2f): bind <your_key> "say "
+3376 (%ued30): bind <your_key> "say "
+3377 (%ued31): bind <your_key> "say "
+3378 (%ued32): bind <your_key> "say "
+3379 (%ued33): bind <your_key> "say "
+3380 (%ued34): bind <your_key> "say "
+3381 (%ued35): bind <your_key> "say "
+3382 (%ued36): bind <your_key> "say "
+3383 (%ued37): bind <your_key> "say "
+3384 (%ued38): bind <your_key> "say "
+3385 (%ued39): bind <your_key> "say "
+3386 (%ued3a): bind <your_key> "say "
+3387 (%ued3b): bind <your_key> "say "
+3388 (%ued3c): bind <your_key> "say "
+3389 (%ued3d): bind <your_key> "say "
+3390 (%ued3e): bind <your_key> "say "
+3391 (%ued3f): bind <your_key> "say "
+3392 (%ued40): bind <your_key> "say "
+3393 (%ued41): bind <your_key> "say "
+3394 (%ued42): bind <your_key> "say "
+3395 (%ued43): bind <your_key> "say "
+3396 (%ued44): bind <your_key> "say "
 3397 (%ued45): bind <your_key> "say "
-3398 (%ued46): bind <your_key> "say " - :fandom_BC_4_8: teamfancontent/season_4/8254400/emoticon8
-3399 (%ued47): bind <your_key> "say " - :fandom_ITB_4_0: teamfancontent/season_4/8598715/emoticon0
-3400 (%ued48): bind <your_key> "say " - :fandom_ITB_4_1: teamfancontent/season_4/8598715/emoticon1
-3401 (%ued49): bind <your_key> "say " - :fandom_ITB_4_2: teamfancontent/season_4/8598715/emoticon2
-3402 (%ued4a): bind <your_key> "say " - :fandom_NGS_4_0: teamfancontent/season_4/8572181/emoticon0
-3403 (%ued4b): bind <your_key> "say " - :fandom_NGS_4_1: teamfancontent/season_4/8572181/emoticon1
-3404 (%ued4c): bind <your_key> "say " - :fandom_NGS_4_2: teamfancontent/season_4/8572181/emoticon2
-3405 (%ued4d): bind <your_key> "say " - :fandom_SMG_4_0: teamfancontent/season_4/8244493/emoticon0
-3406 (%ued4e): bind <your_key> "say " - :fandom_SMG_4_1: teamfancontent/season_4/8244493/emoticon1
-3407 (%ued4f): bind <your_key> "say " - :fandom_SMG_4_2: teamfancontent/season_4/8244493/emoticon2
-3408 (%ued50): bind <your_key> "say " - :fandom_TLN_4_0: teamfancontent/season_4/8597976/emoticon0
-3409 (%ued51): bind <your_key> "say " - :fandom_TLN_4_2: teamfancontent/season_4/8597976/emoticon2
-3410 (%ued52): bind <your_key> "say " - :fandom_TLN_4_3: teamfancontent/season_4/8597976/emoticon3
-3411 (%ued53): bind <your_key> "say " - :fandom_FNA_4_0: teamfancontent/season_4/350190/emoticon0
-3412 (%ued54): bind <your_key> "say " - :fandom_FNA_4_1: teamfancontent/season_4/350190/emoticon1
-3413 (%ued55): bind <your_key> "say " - :fandom_FNA_4_3: teamfancontent/season_4/350190/emoticon3
-3414 (%ued56): bind <your_key> "say " - :fandom_GS_4_0: teamfancontent/season_4/8687717/emoticon0
-3415 (%ued57): bind <your_key> "say " - :fandom_GS_4_1: teamfancontent/season_4/8687717/emoticon1
-3416 (%ued58): bind <your_key> "say " - :fandom_GS_4_2: teamfancontent/season_4/8687717/emoticon2
-3417 (%ued59): bind <your_key> "say " - :fandom_AG_4_0: teamfancontent/season_4/8261554/emoticon0
-3418 (%ued5a): bind <your_key> "say " - :fandom_AG_4_4: teamfancontent/season_4/8261554/emoticon4
-3419 (%ued5b): bind <your_key> "say " - :fandom_AG_4_5: teamfancontent/season_4/8261554/emoticon5
-3420 (%ued5c): bind <your_key> "say " - :fandom_BOOM_4_1: teamfancontent/season_4/7732977/emoticon1
-3421 (%ued5d): bind <your_key> "say " - :fandom_BOOM_4_3: teamfancontent/season_4/7732977/emoticon3
-3422 (%ued5e): bind <your_key> "say " - :fandom_BOOM_4_4: teamfancontent/season_4/7732977/emoticon4
-3423 (%ued5f): bind <your_key> "say " - :fandom_UDV_4_0: teamfancontent/season_4/8168128/emoticon0
-3424 (%ued60): bind <your_key> "say " - :fandom_UDV_4_1: teamfancontent/season_4/8168128/emoticon1
-3425 (%ued61): bind <your_key> "say " - :fandom_UDV_4_2: teamfancontent/season_4/8168128/emoticon2
-3426 (%ued62): bind <your_key> "say " - :fandom_APES_4_0: teamfancontent/season_4/8534805/emoticon0
-3427 (%ued63): bind <your_key> "say " - :fandom_APES_4_2: teamfancontent/season_4/8534805/emoticon2
-3428 (%ued64): bind <your_key> "say " - :fandom_APES_4_3: teamfancontent/season_4/8534805/emoticon3
-3429 (%ued65): bind <your_key> "say " - :fandom_IG.V_4_0: teamfancontent/season_4/2640025/emoticon0
-3430 (%ued66): bind <your_key> "say " - :fandom_IG.V_4_1: teamfancontent/season_4/2640025/emoticon1
-3431 (%ued67): bind <your_key> "say " - :fandom_IG.V_4_2: teamfancontent/season_4/2640025/emoticon2
-3432 (%ued68): bind <your_key> "say " - :fandom_DEC_4_0: teamfancontent/season_4/8582076/emoticon0
-3433 (%ued69): bind <your_key> "say " - :fandom_DEC_4_2: teamfancontent/season_4/8582076/emoticon2
-3434 (%ued6a): bind <your_key> "say " - :fandom_DEC_4_4: teamfancontent/season_4/8582076/emoticon4
-3435 (%ued6b): bind <your_key> "say " - :fandom_WB_4_1: teamfancontent/season_4/8494848/emoticon1
-3436 (%ued6c): bind <your_key> "say " - :fandom_WB_4_3: teamfancontent/season_4/8494848/emoticon3
-3437 (%ued6d): bind <your_key> "say " - :fandom_WB_4_4: teamfancontent/season_4/8494848/emoticon4
-3438 (%ued6e): bind <your_key> "say " - :fandom_TUN_5_0: teamfancontent/season_5/8291895/emoticon0
-3439 (%ued6f): bind <your_key> "say " - :fandom_TUN_5_3: teamfancontent/season_5/8291895/emoticon3
-3440 (%ued70): bind <your_key> "say " - :fandom_TUN_5_4: teamfancontent/season_5/8291895/emoticon4
-3441 (%ued71): bind <your_key> "say " - :fandom_GG_5_0: teamfancontent/season_5/8599101/emoticon0
-3442 (%ued72): bind <your_key> "say " - :fandom_GG_5_1: teamfancontent/season_5/8599101/emoticon1
-3443 (%ued73): bind <your_key> "say " - :fandom_GG_5_3: teamfancontent/season_5/8599101/emoticon3
-3444 (%ued74): bind <your_key> "say " - :fandom_NEON_5_2: teamfancontent/season_5/8360138/emoticon2
-3445 (%ued75): bind <your_key> "say " - :fandom_NEON_5_4: teamfancontent/season_5/8360138/emoticon4
-3446 (%ued76): bind <your_key> "say " - :fandom_NEON_5_5: teamfancontent/season_5/8360138/emoticon5
-3447 (%ued77): bind <your_key> "say " - :fandom_GS_5_0: teamfancontent/season_5/8687717/emoticon0
-3448 (%ued78): bind <your_key> "say " - :fandom_GS_5_1: teamfancontent/season_5/8687717/emoticon1
-3449 (%ued79): bind <your_key> "say " - :fandom_GS_5_2: teamfancontent/season_5/8687717/emoticon2
-3450 (%ued7a): bind <your_key> "say " - :fandom_LIQ_5_0: teamfancontent/season_5/2163/emoticon0
-3451 (%ued7b): bind <your_key> "say " - :fandom_LIQ_5_1: teamfancontent/season_5/2163/emoticon1
-3452 (%ued7c): bind <your_key> "say " - :fandom_LIQ_5_2: teamfancontent/season_5/2163/emoticon2
-3453 (%ued7d): bind <your_key> "say " - :fandom_ENT_5_0: teamfancontent/season_5/8605863/emoticon0
-3454 (%ued7e): bind <your_key> "say " - :fandom_ENT_5_2: teamfancontent/season_5/8605863/emoticon2
-3455 (%ued7f): bind <your_key> "say " - :fandom_ENT_5_3: teamfancontent/season_5/8605863/emoticon3
-3456 (%ued80): bind <your_key> "say " - :fandom_ALL_5_0: teamfancontent/season_5/111474/emoticon0
-3457 (%ued81): bind <your_key> "say " - :fandom_ALL_5_1: teamfancontent/season_5/111474/emoticon1
-3458 (%ued82): bind <your_key> "say " - :fandom_ALL_5_3: teamfancontent/season_5/111474/emoticon3
-3459 (%ued83): bind <your_key> "say " - :fandom_ARK_5_0: teamfancontent/season_5/8180753/emoticon0
-3460 (%ued84): bind <your_key> "say " - :fandom_ARK_5_1: teamfancontent/season_5/8180753/emoticon1
-3461 (%ued85): bind <your_key> "say " - :fandom_ARK_5_2: teamfancontent/season_5/8180753/emoticon2
-3462 (%ued86): bind <your_key> "say " - :fandom_SEC_5_0: teamfancontent/season_5/1838315/emoticon0
-3463 (%ued87): bind <your_key> "say " - :fandom_SEC_5_2: teamfancontent/season_5/1838315/emoticon2
-3464 (%ued88): bind <your_key> "say " - :fandom_SEC_5_3: teamfancontent/season_5/1838315/emoticon3
-3465 (%ued89): bind <your_key> "say " - :fandom_MIPH_5_0: teamfancontent/season_5/8736661/emoticon0
-3466 (%ued8a): bind <your_key> "say " - :fandom_MIPH_5_1: teamfancontent/season_5/8736661/emoticon1
-3467 (%ued8b): bind <your_key> "say " - :fandom_MIPH_5_2: teamfancontent/season_5/8736661/emoticon2
-3468 (%ued8c): bind <your_key> "say " - :fandom_MIPH_5_4: teamfancontent/season_5/8736661/emoticon4
-3469 (%ued8d): bind <your_key> "say " - :fandom_T1_5_0: teamfancontent/season_5/8214850/emoticon0
-3470 (%ued8e): bind <your_key> "say " - :fandom_T1_5_1: teamfancontent/season_5/8214850/emoticon1
-3471 (%ued8f): bind <your_key> "say " - :fandom_T1_5_2: teamfancontent/season_5/8214850/emoticon2
-3472 (%ued90): bind <your_key> "say " - :fandom_TSM_5_1: teamfancontent/season_5/8260983/emoticon1
-3473 (%ued91): bind <your_key> "say " - :fandom_TSM_5_0: teamfancontent/season_5/8260983/emoticon0
-3474 (%ued92): bind <your_key> "say " - :fandom_TSM_5_2: teamfancontent/season_5/8260983/emoticon2
-3475 (%ued93): bind <your_key> "say " - :fandom_ETY_5_0: teamfancontent/season_5/8260932/emoticon0
-3476 (%ued94): bind <your_key> "say " - :fandom_ETY_5_1: teamfancontent/season_5/8260932/emoticon1
-3477 (%ued95): bind <your_key> "say " - :fandom_ETY_5_2: teamfancontent/season_5/8260932/emoticon2
-3478 (%ued96): bind <your_key> "say " - :fandom_FELT_5_0: teamfancontent/season_5/8261882/emoticon0
-3479 (%ued97): bind <your_key> "say " - :fandom_FELT_5_1: teamfancontent/season_5/8261882/emoticon1
-3480 (%ued98): bind <your_key> "say " - :fandom_FELT_5_3: teamfancontent/season_5/8261882/emoticon3
-3481 (%ued99): bind <your_key> "say " - :fandom_PLR_5_2: teamfancontent/season_5/8525778/emoticon2
-3482 (%ued9a): bind <your_key> "say " - :fandom_PLR_5_0: teamfancontent/season_5/8525778/emoticon0
-3483 (%ued9b): bind <your_key> "say " - :fandom_PLR_5_3: teamfancontent/season_5/8525778/emoticon3
-3484 (%ued9c): bind <your_key> "say " - :fandom_OG_5_2: teamfancontent/season_5/2586976/emoticon2
-3485 (%ued9d): bind <your_key> "say " - :fandom_OG_5_0: teamfancontent/season_5/2586976/emoticon0
-3486 (%ued9e): bind <your_key> "say " - :fandom_OG_5_1: teamfancontent/season_5/2586976/emoticon1
-3487 (%ued9f): bind <your_key> "say " - :fandom_CHL_5_1: teamfancontent/season_5/8597391/emoticon1
-3488 (%ueda0): bind <your_key> "say " - :fandom_CHL_5_2: teamfancontent/season_5/8597391/emoticon2
-3489 (%ueda1): bind <your_key> "say " - :fandom_CHL_5_5: teamfancontent/season_5/8597391/emoticon5
-3490 (%ueda2): bind <your_key> "say " - :fandom_SG_5_2: teamfancontent/season_5/8255756/emoticon2
-3491 (%ueda3): bind <your_key> "say " - :fandom_SG_5_4: teamfancontent/season_5/8255756/emoticon4
-3492 (%ueda4): bind <your_key> "say " - :fandom_SG_5_5: teamfancontent/season_5/8255756/emoticon5
-3493 (%ueda5): bind <your_key> "say " - :fandom_2B_5_0: teamfancontent/season_5/8272699/emoticon0
-3494 (%ueda6): bind <your_key> "say " - :fandom_2B_5_1: teamfancontent/season_5/8272699/emoticon1
-3495 (%ueda7): bind <your_key> "say " - :fandom_2B_5_2: teamfancontent/season_5/8272699/emoticon2
-3496 (%ueda8): bind <your_key> "say " - :fandom_WC_5_0: teamfancontent/season_5/8376426/emoticon0
-3497 (%ueda9): bind <your_key> "say " - :fandom_WC_5_1: teamfancontent/season_5/8376426/emoticon1
-3498 (%uedaa): bind <your_key> "say " - :fandom_WC_5_5: teamfancontent/season_5/8376426/emoticon5
-3499 (%uedab): bind <your_key> "say " - :fandom_TS_5_0: teamfancontent/season_5/7119388/emoticon0
-3500 (%uedac): bind <your_key> "say " - :fandom_TS_5_1: teamfancontent/season_5/7119388/emoticon1
-3501 (%uedad): bind <your_key> "say " - :fandom_TS_5_3: teamfancontent/season_5/7119388/emoticon3
-3502 (%uedae): bind <your_key> "say " - :fandom_EMP_5_0: teamfancontent/season_5/46/emoticon0
-3503 (%uedaf): bind <your_key> "say " - :fandom_EMP_5_1: teamfancontent/season_5/46/emoticon1
-3504 (%uedb0): bind <your_key> "say " - :fandom_EMP_5_2: teamfancontent/season_5/46/emoticon2
-3505 (%uedb1): bind <your_key> "say " - :fandom_X3_5_0: teamfancontent/season_5/8421850/emoticon0
-3506 (%uedb2): bind <your_key> "say " - :fandom_X3_5_1: teamfancontent/season_5/8421850/emoticon1
-3507 (%uedb3): bind <your_key> "say " - :fandom_X3_5_3: teamfancontent/season_5/8421850/emoticon3
-3508 (%uedb4): bind <your_key> "say " - :fandom_MG_5_0: teamfancontent/season_5/8255888/emoticon0
-3509 (%uedb5): bind <your_key> "say " - :fandom_MG_5_2: teamfancontent/season_5/8255888/emoticon2
-3510 (%uedb6): bind <your_key> "say " - :fandom_Dog_5_0: teamfancontent/season_5/8604954/emoticon0
-3511 (%uedb7): bind <your_key> "say " - :fandom_Dog_5_1: teamfancontent/season_5/8604954/emoticon1
-3512 (%uedb8): bind <your_key> "say " - :fandom_Dog_5_2: teamfancontent/season_5/8604954/emoticon2
-3513 (%uedb9): bind <your_key> "say " - :fandom_NEM_5_1: teamfancontent/season_5/5014799/emoticon1
-3514 (%uedba): bind <your_key> "say " - :fandom_NEM_5_2: teamfancontent/season_5/5014799/emoticon2
-3515 (%uedbb): bind <your_key> "say " - :fandom_NEM_5_3: teamfancontent/season_5/5014799/emoticon3
-3516 (%uedbc): bind <your_key> "say " - :fandom_BB_5_0: teamfancontent/season_5/8721219/emoticon0
-3517 (%uedbd): bind <your_key> "say " - :fandom_BB_5_4: teamfancontent/season_5/8721219/emoticon4
-3518 (%uedbe): bind <your_key> "say " - :fandom_RE_5_0: teamfancontent/season_5/8724829/emoticon0
-3519 (%uedbf): bind <your_key> "say " - :fandom_RE_5_1: teamfancontent/season_5/8724829/emoticon1
-3520 (%uedc0): bind <your_key> "say " - :fandom_RE_5_2: teamfancontent/season_5/8724829/emoticon2
-3521 (%uedc1): bind <your_key> "say " - :fandom_HYD_5_0: teamfancontent/season_5/8588969/emoticon0
-3522 (%uedc2): bind <your_key> "say " - :fandom_HYD_5_1: teamfancontent/season_5/8588969/emoticon1
-3523 (%uedc3): bind <your_key> "say " - :fandom_CC_5_0: teamfancontent/season_5/8545488/emoticon0
-3524 (%uedc4): bind <your_key> "say " - :fandom_CC_5_1: teamfancontent/season_5/8545488/emoticon1
-3525 (%uedc5): bind <your_key> "say " - :fandom_CC_5_2: teamfancontent/season_5/8545488/emoticon2
-3526 (%uedc6): bind <your_key> "say " - :fandom_MOV_5_1: teamfancontent/season_5/8376696/emoticon1
-3527 (%uedc7): bind <your_key> "say " - :fandom_MOV_5_2: teamfancontent/season_5/8376696/emoticon2
-3528 (%uedc8): bind <your_key> "say " - :fandom_MOV_5_6: teamfancontent/season_5/8376696/emoticon6
-3529 (%uedc9): bind <your_key> "say " - :fandom_QCY_5_0: teamfancontent/season_5/7390454/emoticon0
-3530 (%uedca): bind <your_key> "say " - :fandom_QCY_5_1: teamfancontent/season_5/7390454/emoticon1
-3531 (%uedcb): bind <your_key> "say " - :fandom_QCY_5_2: teamfancontent/season_5/7390454/emoticon2
-3532 (%uedcc): bind <your_key> "say " - :fandom_SEAL_5_0: teamfancontent/season_5/8686313/emoticon0
-3533 (%uedcd): bind <your_key> "say " - :fandom_SEAL_5_2: teamfancontent/season_5/8686313/emoticon2
-3534 (%uedce): bind <your_key> "say " - :fandom_SEAL_5_3: teamfancontent/season_5/8686313/emoticon3
-3535 (%uedcf): bind <your_key> "say " - :fandom_BAL_5_0: teamfancontent/season_5/2289950/emoticon0
-3536 (%uedd0): bind <your_key> "say " - :fandom_BAL_5_1: teamfancontent/season_5/2289950/emoticon1
-3537 (%uedd1): bind <your_key> "say " - :fandom_BAL_5_2: teamfancontent/season_5/2289950/emoticon2
-3538 (%uedd2): bind <your_key> "say " - :fandom_RNG_5_1: teamfancontent/season_5/6209804/emoticon1
-3539 (%uedd3): bind <your_key> "say " - :fandom_RNG_5_2: teamfancontent/season_5/6209804/emoticon2
-3540 (%uedd4): bind <your_key> "say " - :fandom_RNG_5_3: teamfancontent/season_5/6209804/emoticon3
-3541 (%uedd5): bind <your_key> "say " - :fandom_OUT_5_1: teamfancontent/season_5/8724984/emoticon1
-3542 (%uedd6): bind <your_key> "say " - :fandom_OUT_5_2: teamfancontent/season_5/8724984/emoticon2
-3543 (%uedd7): bind <your_key> "say " - :fandom_TLN_5_0: teamfancontent/season_5/8597976/emoticon0
-3544 (%uedd8): bind <your_key> "say " - :fandom_TLN_5_2: teamfancontent/season_5/8597976/emoticon2
-3545 (%uedd9): bind <your_key> "say " - :fandom_TLN_5_6: teamfancontent/season_5/8597976/emoticon6
-3546 (%uedda): bind <your_key> "say " - :fandom_FNA_5_0: teamfancontent/season_5/350190/emoticon0
-3547 (%ueddb): bind <your_key> "say " - :fandom_FNA_5_1: teamfancontent/season_5/350190/emoticon1
-3548 (%ueddc): bind <your_key> "say " - :fandom_FNA_5_3: teamfancontent/season_5/350190/emoticon3
-3549 (%ueddd): bind <your_key> "say " - :fandom_THU_5_0: teamfancontent/season_5/7391077/emoticon0
-3550 (%uedde): bind <your_key> "say " - :fandom_THU_5_1: teamfancontent/season_5/7391077/emoticon1
-3551 (%ueddf): bind <your_key> "say " - :fandom_THU_5_3: teamfancontent/season_5/7391077/emoticon3
-3552 (%uede0): bind <your_key> "say " - :fandom_IVY_5_0: teamfancontent/season_5/8318683/emoticon0
-3553 (%uede1): bind <your_key> "say " - :fandom_IVY_5_2: teamfancontent/season_5/8318683/emoticon2
-3554 (%uede2): bind <your_key> "say " - :fandom_IVY_5_4: teamfancontent/season_5/8318683/emoticon4
-3555 (%uede3): bind <your_key> "say " - :fandom_BOOM_5_0: teamfancontent/season_5/7732977/emoticon0
-3556 (%uede4): bind <your_key> "say " - :fandom_BOOM_5_2: teamfancontent/season_5/7732977/emoticon2
-3557 (%uede5): bind <your_key> "say " - :fandom_BOOM_5_5: teamfancontent/season_5/7732977/emoticon5
-3558 (%uede6): bind <your_key> "say " - :fandom_EH_5_0: teamfancontent/season_5/4/emoticon0
-3559 (%uede7): bind <your_key> "say " - :fandom_EH_5_1: teamfancontent/season_5/4/emoticon1
-3560 (%uede8): bind <your_key> "say " - :fandom_EH_5_2: teamfancontent/season_5/4/emoticon2
-3561 (%uede9): bind <your_key> "say " - :fandom_PC_5_1: teamfancontent/season_5/8261648/emoticon1
-3562 (%uedea): bind <your_key> "say " - :fandom_PC_5_3: teamfancontent/season_5/8261648/emoticon3
-3563 (%uedeb): bind <your_key> "say " - :fandom_PC_5_4: teamfancontent/season_5/8261648/emoticon4
-3564 (%uedec): bind <your_key> "say " - :fandom_BC_5_1: teamfancontent/season_5/8254400/emoticon1
-3565 (%ueded): bind <your_key> "say " - :fandom_BC_5_2: teamfancontent/season_5/8254400/emoticon2
-3566 (%uedee): bind <your_key> "say " - :fandom_DRE_5_0: teamfancontent/season_5/8680612/emoticon0
-3567 (%uedef): bind <your_key> "say " - :fandom_DRE_5_3: teamfancontent/season_5/8680612/emoticon3
-3568 (%uedf0): bind <your_key> "say " - :fandom_DRE_5_4: teamfancontent/season_5/8680612/emoticon4
-3569 (%uedf1): bind <your_key> "say " - :fandom_INF_5_0: teamfancontent/season_5/2672298/emoticon0
-3570 (%uedf2): bind <your_key> "say " - :fandom_INF_5_1: teamfancontent/season_5/2672298/emoticon1
-3571 (%uedf3): bind <your_key> "say " - :fandom_INF_5_3: teamfancontent/season_5/2672298/emoticon3
-3572 (%uedf4): bind <your_key> "say " - :fandom_GP_5_0: teamfancontent/season_5/5055770/emoticon0
-3573 (%uedf5): bind <your_key> "say " - :fandom_GP_5_1: teamfancontent/season_5/5055770/emoticon1
-3574 (%uedf6): bind <your_key> "say " - :fandom_GP_5_2: teamfancontent/season_5/5055770/emoticon2
-3575 (%uedf7): bind <your_key> "say " - :fandom_XG_5_0: teamfancontent/season_5/8261500/emoticon0
-3576 (%uedf8): bind <your_key> "say " - :fandom_XG_5_1: teamfancontent/season_5/8261500/emoticon1
-3577 (%uedf9): bind <your_key> "say " - :fandom_XG_5_3: teamfancontent/season_5/8261500/emoticon3
-3578 (%uedfa): bind <your_key> "say " - :fandom_LG_5_1: teamfancontent/season_5/8169775/emoticon1
-3579 (%uedfb): bind <your_key> "say " - :fandom_LG_5_2: teamfancontent/season_5/8169775/emoticon2
-3580 (%uedfc): bind <your_key> "say " - :fandom_LG_5_3: teamfancontent/season_5/8169775/emoticon3
-3581 (%uedfd): bind <your_key> "say " - :fandom_DEC_5_1: teamfancontent/season_5/8582076/emoticon1
-3582 (%uedfe): bind <your_key> "say " - :fandom_DEC_5_2: teamfancontent/season_5/8582076/emoticon2
-3583 (%uedff): bind <your_key> "say " - :fandom_TEM_5_1: teamfancontent/season_5/7119077/emoticon1
-3584 (%uee00): bind <your_key> "say " - :fandom_TEM_5_2: teamfancontent/season_5/7119077/emoticon2
-3585 (%uee01): bind <your_key> "say " - :fandom_TEM_5_3: teamfancontent/season_5/7119077/emoticon3
-3586 (%uee02): bind <your_key> "say " - :fandom_AG_5_0: teamfancontent/season_5/8261554/emoticon0
-3587 (%uee03): bind <your_key> "say " - :fandom_AG_5_4: teamfancontent/season_5/8261554/emoticon4
-3588 (%uee04): bind <your_key> "say " - :fandom_AG_5_7: teamfancontent/season_5/8261554/emoticon7
-3589 (%uee05): bind <your_key> "say " - :fandom_RSG_5_1: teamfancontent/season_5/8668460/emoticon1
-3590 (%uee06): bind <your_key> "say " - :fandom_RSG_5_2: teamfancontent/season_5/8668460/emoticon2
-3591 (%uee07): bind <your_key> "say " - :fandom_RSG_5_4: teamfancontent/season_5/8668460/emoticon4
-3592 (%uee08): bind <your_key> "say " - :fandom_RAV_5_0: teamfancontent/season_5/8686786/emoticon0
-3593 (%uee09): bind <your_key> "say " - :fandom_RAV_5_1: teamfancontent/season_5/8686786/emoticon1
-3594 (%uee0a): bind <your_key> "say " - :fandom_RAV_5_2: teamfancontent/season_5/8686786/emoticon2
-3595 (%uee0b): bind <your_key> "say " - :fandom_VG_5_0: teamfancontent/season_5/726228/emoticon0
-3596 (%uee0c): bind <your_key> "say " - :fandom_VG_5_1: teamfancontent/season_5/726228/emoticon1
-3597 (%uee0d): bind <your_key> "say " - :fandom_FUS_5_0: teamfancontent/season_5/8725475/emoticon0
-3598 (%uee0e): bind <your_key> "say " - :fandom_FUS_5_2: teamfancontent/season_5/8725475/emoticon2
-3599 (%uee0f): bind <your_key> "say " - :fandom_FUS_5_5: teamfancontent/season_5/8725475/emoticon5
-3600 (%uee10): bind <your_key> "say " - :fandom_NSR_5_0: teamfancontent/season_5/8616073/emoticon0
-3601 (%uee11): bind <your_key> "say " - :fandom_NSR_5_4: teamfancontent/season_5/8616073/emoticon4
-3602 (%uee12): bind <your_key> "say " - :fandom_NSR_5_5: teamfancontent/season_5/8616073/emoticon5
-3603 (%uee13): bind <your_key> "say " - :fandom_IG_5_0: teamfancontent/season_5/5/emoticon0
-3604 (%uee14): bind <your_key> "say " - :fandom_IG_5_1: teamfancontent/season_5/5/emoticon1
-3605 (%uee15): bind <your_key> "say " - :fandom_IG_5_2: teamfancontent/season_5/5/emoticon2
-3606 (%uee16): bind <your_key> "say " - :fandom_MAG_5_1: teamfancontent/season_5/8126892/emoticon1
-3607 (%uee17): bind <your_key> "say " - :fandom_MAG_5_2: teamfancontent/season_5/8126892/emoticon2
-3608 (%uee18): bind <your_key> "say " - :fandom_MAG_5_3: teamfancontent/season_5/8126892/emoticon3
-3609 (%uee19): bind <your_key> "say " - :fandom_SZ_5_0: teamfancontent/season_5/7356881/emoticon0
-3610 (%uee1a): bind <your_key> "say " - :fandom_SZ_5_1: teamfancontent/season_5/7356881/emoticon1
-3611 (%uee1b): bind <your_key> "say " - :fandom_SZ_5_2: teamfancontent/season_5/7356881/emoticon2
-3612 (%uee1c): bind <your_key> "say " - :fandom_CDEC_5_1: teamfancontent/season_5/1520578/emoticon1
-3613 (%uee1d): bind <your_key> "say " - :fandom_CDEC_5_2: teamfancontent/season_5/1520578/emoticon2
-3614 (%uee1e): bind <your_key> "say " - :fandom_CDEC_5_3: teamfancontent/season_5/1520578/emoticon3
-3615 (%uee1f): bind <your_key> "say " - :fandom_5RF_5_0: teamfancontent/season_5/8607159/emoticon0
-3616 (%uee20): bind <your_key> "say " - :fandom_5RF_5_1: teamfancontent/season_5/8607159/emoticon1
-3617 (%uee21): bind <your_key> "say " - :fandom_5RF_5_2: teamfancontent/season_5/8607159/emoticon2
-3618 (%uee22): bind <your_key> "say " - :fandom_ITB_5_0: teamfancontent/season_5/8390848/emoticon0
-3619 (%uee23): bind <your_key> "say " - :fandom_ITB_5_1: teamfancontent/season_5/8390848/emoticon1
-3620 (%uee24): bind <your_key> "say " - :fandom_ITB_5_2: teamfancontent/season_5/8390848/emoticon2
-3621 (%uee25): bind <your_key> "say " - :fandom_PLGD_5_1: teamfancontent/season_5/15/emoticon1
-3622 (%uee26): bind <your_key> "say " - :fandom_PLGD_5_5: teamfancontent/season_5/15/emoticon5
-3623 (%uee27): bind <your_key> "say " - :fandom_PLGD_5_7: teamfancontent/season_5/15/emoticon7
-3624 (%uee28): bind <your_key> "say " - :fandom_5MM_5_0: teamfancontent/season_5/8230115/emoticon0
-3625 (%uee29): bind <your_key> "say " - :fandom_5MM_5_2: teamfancontent/season_5/8230115/emoticon2
-3626 (%uee2a): bind <your_key> "say " - :fandom_5MM_5_3: teamfancontent/season_5/8230115/emoticon3
-3627 (%uee2b): bind <your_key> "say " - :fandom_alph_5_0: teamfancontent/season_5/8740972/emoticon0
-3628 (%uee2c): bind <your_key> "say " - :fandom_alph_5_1: teamfancontent/season_5/8740972/emoticon1
-3629 (%uee2d): bind <your_key> "say " - :fandom_alph_5_4: teamfancontent/season_5/8740972/emoticon4
-3630 (%uee2e): bind <your_key> "say " - :fandom_AST_5_0: teamfancontent/season_5/6209166/emoticon0
-3631 (%uee2f): bind <your_key> "say " - :fandom_AST_5_1: teamfancontent/season_5/6209166/emoticon1
-3632 (%uee30): bind <your_key> "say " - :fandom_AST_5_3: teamfancontent/season_5/6209166/emoticon3
-3633 (%uee31): bind <your_key> "say " - :fandom_ARI_5_0: teamfancontent/season_5/7453020/emoticon0
-3634 (%uee32): bind <your_key> "say " - :fandom_ARI_5_2: teamfancontent/season_5/7453020/emoticon2
-3635 (%uee33): bind <your_key> "say " - :fandom_BOOM_6_1: teamfancontent/season_6/7732977/emoticon1
-3636 (%uee34): bind <your_key> "say " - :fandom_BOOM_6_3: teamfancontent/season_6/7732977/emoticon3
-3637 (%uee35): bind <your_key> "say " - :fandom_BOOM_6_4: teamfancontent/season_6/7732977/emoticon4
-3638 (%uee36): bind <your_key> "say " - :fandom_PLGD_6_1: teamfancontent/season_6/15/emoticon1
-3639 (%uee37): bind <your_key> "say " - :fandom_PLGD_6_2: teamfancontent/season_6/15/emoticon2
-3640 (%uee38): bind <your_key> "say " - :fandom_PLGD_6_5: teamfancontent/season_6/15/emoticon5
-3641 (%uee39): bind <your_key> "say " - :fandom_EG_6_0: teamfancontent/season_6/39/emoticon0
-3642 (%uee3a): bind <your_key> "say " - :fandom_EG_6_1: teamfancontent/season_6/39/emoticon1
-3643 (%uee3b): bind <your_key> "say " - :fandom_EG_6_2: teamfancontent/season_6/39/emoticon2
-3644 (%uee3c): bind <your_key> "say " - :fandom_FNA_6_0: teamfancontent/season_6/350190/emoticon0
-3645 (%uee3d): bind <your_key> "say " - :fandom_FNA_6_2: teamfancontent/season_6/350190/emoticon2
-3646 (%uee3e): bind <your_key> "say " - :fandom_FNA_6_4: teamfancontent/season_6/350190/emoticon4
-3647 (%uee3f): bind <your_key> "say " - :fandom_AST_6_0: teamfancontent/season_6/6209166/emoticon0
-3648 (%uee40): bind <your_key> "say " - :fandom_AST_6_1: teamfancontent/season_6/6209166/emoticon1
-3649 (%uee41): bind <your_key> "say " - :fandom_AST_6_2: teamfancontent/season_6/6209166/emoticon2
-3650 (%uee42): bind <your_key> "say " - :fandom_OG_6_0: teamfancontent/season_6/2586976/emoticon0
-3651 (%uee43): bind <your_key> "say " - :fandom_OG_6_1: teamfancontent/season_6/2586976/emoticon1
-3652 (%uee44): bind <your_key> "say " - :fandom_OG_6_3: teamfancontent/season_6/2586976/emoticon3
-3653 (%uee45): bind <your_key> "say " - :fandom_GG_6_0: teamfancontent/season_6/8599101/emoticon0
-3654 (%uee46): bind <your_key> "say " - :fandom_GG_6_1: teamfancontent/season_6/8599101/emoticon1
-3655 (%uee47): bind <your_key> "say " - :fandom_GG_6_2: teamfancontent/season_6/8599101/emoticon2
-3656 (%uee48): bind <your_key> "say " - :fandom_TS_6_0: teamfancontent/season_6/7119388/emoticon0
-3657 (%uee49): bind <your_key> "say " - :fandom_TS_6_1: teamfancontent/season_6/7119388/emoticon1
-3658 (%uee4a): bind <your_key> "say " - :fandom_TS_6_2: teamfancontent/season_6/7119388/emoticon2
-3659 (%uee4b): bind <your_key> "say " - :fandom_BC_6_0: teamfancontent/season_6/8254400/emoticon0
-3660 (%uee4c): bind <your_key> "say " - :fandom_BC_6_1: teamfancontent/season_6/8254400/emoticon1
-3661 (%uee4d): bind <your_key> "say " - :fandom_BC_6_2: teamfancontent/season_6/8254400/emoticon2
-3662 (%uee4e): bind <your_key> "say " - :fandom_TUN_6_0: teamfancontent/season_6/8291895/emoticon0
-3663 (%uee4f): bind <your_key> "say " - :fandom_TUN_6_2: teamfancontent/season_6/8291895/emoticon2
-3664 (%uee50): bind <your_key> "say " - :fandom_TUN_6_9: teamfancontent/season_6/8291895/emoticon9
-3665 (%uee51): bind <your_key> "say " - :fandom_TSM_6_0: teamfancontent/season_6/8260983/emoticon0
-3666 (%uee52): bind <your_key> "say " - :fandom_TSM_6_1: teamfancontent/season_6/8260983/emoticon1
-3667 (%uee53): bind <your_key> "say " - :fandom_TSM_6_2: teamfancontent/season_6/8260983/emoticon2
-3668 (%uee54): bind <your_key> "say " - :fandom_SEC_6_0: teamfancontent/season_6/1838315/emoticon0
-3669 (%uee55): bind <your_key> "say " - :fandom_SEC_6_3: teamfancontent/season_6/1838315/emoticon3
-3670 (%uee56): bind <your_key> "say " - :fandom_SEC_6_4: teamfancontent/season_6/1838315/emoticon4
-3671 (%uee57): bind <your_key> "say " - :fandom_ENT_6_0: teamfancontent/season_6/8605863/emoticon0
-3672 (%uee58): bind <your_key> "say " - :fandom_ENT_6_2: teamfancontent/season_6/8605863/emoticon2
-3673 (%uee59): bind <your_key> "say " - :fandom_ENT_6_4: teamfancontent/season_6/8605863/emoticon4
-3674 (%uee5a): bind <your_key> "say " - :fandom_SQ_6_0: teamfancontent/season_6/7390454/emoticon0
-3675 (%uee5b): bind <your_key> "say " - :fandom_SQ_6_1: teamfancontent/season_6/7390454/emoticon1
-3676 (%uee5c): bind <your_key> "say " - :fandom_SQ_6_2: teamfancontent/season_6/7390454/emoticon2
-3677 (%uee5d): bind <your_key> "say " - :fandom_nou_6_0: teamfancontent/season_6/8728920/emoticon0
-3678 (%uee5e): bind <your_key> "say " - :fandom_nou_6_1: teamfancontent/season_6/8728920/emoticon1
-3679 (%uee5f): bind <your_key> "say " - :fandom_nou_6_3: teamfancontent/season_6/8728920/emoticon3
-3680 (%uee60): bind <your_key> "say " - :fandom_TLN_6_0: teamfancontent/season_6/8597976/emoticon0
-3681 (%uee61): bind <your_key> "say " - :fandom_TLN_6_2: teamfancontent/season_6/8597976/emoticon2
-3682 (%uee62): bind <your_key> "say " - :fandom_TLN_6_5: teamfancontent/season_6/8597976/emoticon5
-3683 (%uee63): bind <your_key> "say " - :fandom_WC_6_1: teamfancontent/season_6/8376426/emoticon1
-3684 (%uee64): bind <your_key> "say " - :fandom_WC_6_3: teamfancontent/season_6/8376426/emoticon3
-3685 (%uee65): bind <your_key> "say " - :fandom_WC_6_5: teamfancontent/season_6/8376426/emoticon5
-3686 (%uee66): bind <your_key> "say " - :fandom_NAVI_6_2: teamfancontent/season_6/36/emoticon2
-3687 (%uee67): bind <your_key> "say " - :fandom_NAVI_6_3: teamfancontent/season_6/36/emoticon3
-3688 (%uee68): bind <your_key> "say " - :fandom_NAVI_6_4: teamfancontent/season_6/36/emoticon4
-3689 (%uee69): bind <your_key> "say " - :fandom_VG_6_0: teamfancontent/season_6/726228/emoticon0
-3690 (%uee6a): bind <your_key> "say " - :fandom_VG_6_1: teamfancontent/season_6/726228/emoticon1
-3691 (%uee6b): bind <your_key> "say " - :fandom_VG_6_4: teamfancontent/season_6/726228/emoticon4
-3692 (%uee6c): bind <your_key> "say " - :fandom_VP_6_2: teamfancontent/season_6/8724984/emoticon2
-3693 (%uee6d): bind <your_key> "say " - :fandom_VP_6_3: teamfancontent/season_6/8724984/emoticon3
-3694 (%uee6e): bind <your_key> "say " - :fandom_VP_6_5: teamfancontent/season_6/8724984/emoticon5
-3695 (%uee6f): bind <your_key> "say " - :fandom_XG_6_0: teamfancontent/season_6/8261500/emoticon0
-3696 (%uee70): bind <your_key> "say " - :fandom_XG_6_1: teamfancontent/season_6/8261500/emoticon1
-3697 (%uee71): bind <your_key> "say " - :fandom_XG_6_4: teamfancontent/season_6/8261500/emoticon4
-3698 (%uee72): bind <your_key> "say " - :fandom_T1_6_2: teamfancontent/season_6/8214850/emoticon2
-3699 (%uee73): bind <your_key> "say " - :fandom_T1_6_3: teamfancontent/season_6/8214850/emoticon3
-3700 (%uee74): bind <your_key> "say " - :fandom_T1_6_4: teamfancontent/season_6/8214850/emoticon4
-3701 (%uee75): bind <your_key> "say " - :fandom_PLR_6_0: teamfancontent/season_6/8525778/emoticon0
-3702 (%uee76): bind <your_key> "say " - :fandom_PLR_6_2: teamfancontent/season_6/8525778/emoticon2
-3703 (%uee77): bind <your_key> "say " - :fandom_PLR_6_3: teamfancontent/season_6/8525778/emoticon3
-3704 (%uee78): bind <your_key> "say " - :fandom_BB_6_1: teamfancontent/season_6/8721219/emoticon1
-3705 (%uee79): bind <your_key> "say " - :fandom_BB_6_2: teamfancontent/season_6/8721219/emoticon2
-3706 (%uee7a): bind <your_key> "say " - :fandom_BB_6_3: teamfancontent/season_6/8721219/emoticon3
-3707 (%uee7b): bind <your_key> "say " - :fandom_INF_6_0: teamfancontent/season_6/2672298/emoticon0
-3708 (%uee7c): bind <your_key> "say " - :fandom_INF_6_1: teamfancontent/season_6/2672298/emoticon1
-3709 (%uee7d): bind <your_key> "say " - :fandom_INF_6_3: teamfancontent/season_6/2672298/emoticon3
-3710 (%uee7e): bind <your_key> "say " - :fandom_RNG_6_0: teamfancontent/season_6/6209804/emoticon0
-3711 (%uee7f): bind <your_key> "say " - :fandom_RNG_6_1: teamfancontent/season_6/6209804/emoticon1
-3712 (%uee80): bind <your_key> "say " - :fandom_RNG_6_2: teamfancontent/season_6/6209804/emoticon2
-3713 (%uee81): bind <your_key> "say " - :fandom_LIQ_6_0: teamfancontent/season_6/2163/emoticon0
-3714 (%uee82): bind <your_key> "say " - :fandom_LIQ_6_4: teamfancontent/season_6/2163/emoticon4
-3715 (%uee83): bind <your_key> "say " - :fandom_LIQ_6_6: teamfancontent/season_6/2163/emoticon6
-3716 (%uee84): bind <your_key> "say " - :fandom_HOK_6_0: teamfancontent/season_6/8131728/emoticon0
-3717 (%uee85): bind <your_key> "say " - :fandom_HOK_6_1: teamfancontent/season_6/8131728/emoticon1
-3718 (%uee86): bind <your_key> "say " - :fandom_HOK_6_2: teamfancontent/season_6/8131728/emoticon2
-3719 (%uee87): bind <your_key> "say " - :fandom_TEM_6_0: teamfancontent/season_6/7119077/emoticon0
-3720 (%uee88): bind <your_key> "say " - :fandom_TEM_6_1: teamfancontent/season_6/7119077/emoticon1
-3721 (%uee89): bind <your_key> "say " - :fandom_TEM_6_2: teamfancontent/season_6/7119077/emoticon2
-3722 (%uee8a): bind <your_key> "say " - :fandom_THU_6_0: teamfancontent/season_6/7391077/emoticon0
-3723 (%uee8b): bind <your_key> "say " - :fandom_THU_6_3: teamfancontent/season_6/7391077/emoticon3
-3724 (%uee8c): bind <your_key> "say " - :fandom_THU_6_6: teamfancontent/season_6/7391077/emoticon6
-3725 (%uee8d): bind <your_key> "say " - :fandom_GG_7_4: teamfancontent/season_7/8599101/emoticon4
-3726 (%uee8e): bind <your_key> "say " - :fandom_GG_7_2: teamfancontent/season_7/8599101/emoticon2
-3727 (%uee8f): bind <your_key> "say " - :fandom_GG_7_3: teamfancontent/season_7/8599101/emoticon3
-3728 (%uee90): bind <your_key> "say " - :fandom_EG_7_1: teamfancontent/season_7/8255756/emoticon1
-3729 (%uee91): bind <your_key> "say " - :fandom_EG_7_2: teamfancontent/season_7/8255756/emoticon2
-3730 (%uee92): bind <your_key> "say " - :fandom_EG_7_3: teamfancontent/season_7/8255756/emoticon3
-3731 (%uee93): bind <your_key> "say " - :fandom_LIQ_7_0: teamfancontent/season_7/2163/emoticon0
-3732 (%uee94): bind <your_key> "say " - :fandom_LIQ_7_3: teamfancontent/season_7/2163/emoticon3
-3733 (%uee95): bind <your_key> "say " - :fandom_LIQ_7_4: teamfancontent/season_7/2163/emoticon4
-3734 (%uee96): bind <your_key> "say " - :fandom_INF_7_0: teamfancontent/season_7/2672298/emoticon0
-3735 (%uee97): bind <your_key> "say " - :fandom_INF_7_1: teamfancontent/season_7/2672298/emoticon1
-3736 (%uee98): bind <your_key> "say " - :fandom_INF_7_2: teamfancontent/season_7/2672298/emoticon2
-3737 (%uee99): bind <your_key> "say " - :fandom_PLR_7_0: teamfancontent/season_7/8525778/emoticon0
-3738 (%uee9a): bind <your_key> "say " - :fandom_PLR_7_3: teamfancontent/season_7/8525778/emoticon3
-3739 (%uee9b): bind <your_key> "say " - :fandom_PLR_7_4: teamfancontent/season_7/8525778/emoticon4
-3740 (%uee9c): bind <your_key> "say " - :fandom_OG_7_0: teamfancontent/season_7/2586976/emoticon0
-3741 (%uee9d): bind <your_key> "say " - :fandom_OG_7_3: teamfancontent/season_7/2586976/emoticon3
-3742 (%uee9e): bind <your_key> "say " - :fandom_OG_7_4: teamfancontent/season_7/2586976/emoticon4
-3743 (%uee9f): bind <your_key> "say " - :fandom_SEC_7_0: teamfancontent/season_7/1838315/emoticon0
-3744 (%ueea0): bind <your_key> "say " - :fandom_SEC_7_1: teamfancontent/season_7/1838315/emoticon1
-3745 (%ueea1): bind <your_key> "say " - :fandom_SEC_7_3: teamfancontent/season_7/1838315/emoticon3
-3746 (%ueea2): bind <your_key> "say " - :fandom_TSM_7_0: teamfancontent/season_7/8260983/emoticon0
-3747 (%ueea3): bind <your_key> "say " - :fandom_TSM_7_1: teamfancontent/season_7/8260983/emoticon1
-3748 (%ueea4): bind <your_key> "say " - :fandom_TSM_7_3: teamfancontent/season_7/8260983/emoticon3
-3749 (%ueea5): bind <your_key> "say " - :fandom_ALL_7_0: teamfancontent/season_7/111474/emoticon0
-3750 (%ueea6): bind <your_key> "say " - :fandom_ALL_7_1: teamfancontent/season_7/111474/emoticon1
-3751 (%ueea7): bind <your_key> "say " - :fandom_ALL_7_3: teamfancontent/season_7/111474/emoticon3
-3752 (%ueea8): bind <your_key> "say " - :fandom_SR_7_0: teamfancontent/season_7/39/emoticon0
-3753 (%ueea9): bind <your_key> "say " - :fandom_SR_7_1: teamfancontent/season_7/39/emoticon1
-3754 (%ueeaa): bind <your_key> "say " - :fandom_SR_7_4: teamfancontent/season_7/39/emoticon4
-3755 (%ueeab): bind <your_key> "say " - :fandom_TC_7_0: teamfancontent/season_7/8205424/emoticon0
-3756 (%ueeac): bind <your_key> "say " - :fandom_TC_7_3: teamfancontent/season_7/8205424/emoticon3
-3757 (%ueead): bind <your_key> "say " - :fandom_TC_7_4: teamfancontent/season_7/8205424/emoticon4
-3758 (%ueeae): bind <your_key> "say " - :fandom_BC_7_0: teamfancontent/season_7/8254400/emoticon0
-3759 (%ueeaf): bind <your_key> "say " - :fandom_BC_7_1: teamfancontent/season_7/8254400/emoticon1
-3760 (%ueeb0): bind <your_key> "say " - :fandom_BC_7_3: teamfancontent/season_7/8254400/emoticon3
-3761 (%ueeb1): bind <your_key> "say " - :fandom_TBR_7_0: teamfancontent/season_7/8344760/emoticon0
-3762 (%ueeb2): bind <your_key> "say " - :fandom_TBR_7_2: teamfancontent/season_7/8344760/emoticon2
-3763 (%ueeb3): bind <your_key> "say " - :fandom_TBR_7_4: teamfancontent/season_7/8344760/emoticon4
-3764 (%ueeb4): bind <your_key> "say " - :fandom_NGX_7_0: teamfancontent/season_7/7554697/emoticon0
-3765 (%ueeb5): bind <your_key> "say " - :fandom_NGX_7_1: teamfancontent/season_7/7554697/emoticon1
-3766 (%ueeb6): bind <your_key> "say " - :fandom_NGX_7_2: teamfancontent/season_7/7554697/emoticon2
-3767 (%ueeb7): bind <your_key> "say " - :fandom_IVY_7_3: teamfancontent/season_7/8318683/emoticon3
-3768 (%ueeb8): bind <your_key> "say " - :fandom_IVY_7_4: teamfancontent/season_7/8318683/emoticon4
-3769 (%ueeb9): bind <your_key> "say " - :fandom_IVY_7_7: teamfancontent/season_7/8318683/emoticon7
-3770 (%ueeba): bind <your_key> "say " - :fandom_GS_7_1: teamfancontent/season_7/8169775/emoticon1
-3771 (%ueebb): bind <your_key> "say " - :fandom_GS_7_4: teamfancontent/season_7/8169775/emoticon4
-3772 (%ueebc): bind <your_key> "say " - :fandom_GS_7_6: teamfancontent/season_7/8169775/emoticon6
-3773 (%ueebd): bind <your_key> "say " - :fandom_B8_7_0: teamfancontent/season_7/8376426/emoticon0
-3774 (%ueebe): bind <your_key> "say " - :fandom_B8_7_1: teamfancontent/season_7/8376426/emoticon1
-3775 (%ueebf): bind <your_key> "say " - :fandom_B8_7_4: teamfancontent/season_7/8376426/emoticon4
-3776 (%ueec0): bind <your_key> "say " - :fandom_nou_7_1: teamfancontent/season_7/8728920/emoticon1
-3777 (%ueec1): bind <your_key> "say " - :fandom_nou_7_2: teamfancontent/season_7/8728920/emoticon2
-3778 (%ueec2): bind <your_key> "say " - :fandom_nou_7_3: teamfancontent/season_7/8728920/emoticon3
-3779 (%ueec3): bind <your_key> "say " - :fandom_ENT_7_0: teamfancontent/season_7/8605863/emoticon0
-3780 (%ueec4): bind <your_key> "say " - :fandom_ENT_7_2: teamfancontent/season_7/8605863/emoticon2
-3781 (%ueec5): bind <your_key> "say " - :fandom_ENT_7_3: teamfancontent/season_7/8605863/emoticon3
-3782 (%ueec6): bind <your_key> "say " - :fandom_FRTS_7_1: teamfancontent/season_7/8944221/emoticon1
-3783 (%ueec7): bind <your_key> "say " - :fandom_FRTS_7_3: teamfancontent/season_7/8944221/emoticon3
-3784 (%ueec8): bind <your_key> "say " - :fandom_FRTS_7_4: teamfancontent/season_7/8944221/emoticon4
-3785 (%ueec9): bind <your_key> "say " - :fandom_WC_7_1: teamfancontent/season_7/8606828/emoticon1
-3786 (%ueeca): bind <your_key> "say " - :fandom_WC_7_3: teamfancontent/season_7/8606828/emoticon3
-3787 (%ueecb): bind <your_key> "say " - :fandom_WC_7_5: teamfancontent/season_7/8606828/emoticon5
-3788 (%ueecc): bind <your_key> "say " - :fandom_FNA_7_3: teamfancontent/season_7/350190/emoticon3
-3789 (%ueecd): bind <your_key> "say " - :fandom_FNA_7_2: teamfancontent/season_7/350190/emoticon2
-3790 (%ueece): bind <your_key> "say " - :fandom_FNA_7_0: teamfancontent/season_7/350190/emoticon0
-3791 (%ueecf): bind <your_key> "say " - :fandom_TLN_7_0: teamfancontent/season_7/8597976/emoticon0
-3792 (%ueed0): bind <your_key> "say " - :fandom_TLN_7_3: teamfancontent/season_7/8597976/emoticon3
-3793 (%ueed1): bind <your_key> "say " - :fandom_TLN_7_4: teamfancontent/season_7/8597976/emoticon4
-3794 (%ueed2): bind <your_key> "say " - :fandom_ALA_7_0: teamfancontent/season_7/7119077/emoticon0
-3795 (%ueed3): bind <your_key> "say " - :fandom_ALA_7_1: teamfancontent/season_7/7119077/emoticon1
-3796 (%ueed4): bind <your_key> "say " - :fandom_ALA_7_2: teamfancontent/season_7/7119077/emoticon2
-3797 (%ueed5): bind <your_key> "say " - :fandom_NRU_7_0: teamfancontent/season_7/8118197/emoticon0
-3798 (%ueed6): bind <your_key> "say " - :fandom_NRU_7_1: teamfancontent/season_7/8118197/emoticon1
-3799 (%ueed7): bind <your_key> "say " - :fandom_NRU_7_3: teamfancontent/season_7/8118197/emoticon3
-3800 (%ueed8): bind <your_key> "say " - :fandom_BOOM_7_0: teamfancontent/season_7/7732977/emoticon0
-3801 (%ueed9): bind <your_key> "say " - :fandom_BOOM_7_1: teamfancontent/season_7/7732977/emoticon1
-3802 (%ueeda): bind <your_key> "say " - :fandom_BOOM_7_2: teamfancontent/season_7/7732977/emoticon2
-3803 (%ueedb): bind <your_key> "say " - :fandom_Dog_7_0: teamfancontent/season_7/8604954/emoticon0
-3804 (%ueedc): bind <your_key> "say " - :fandom_Dog_7_1: teamfancontent/season_7/8604954/emoticon1
-3805 (%ueedd): bind <your_key> "say " - :fandom_Dog_7_3: teamfancontent/season_7/8604954/emoticon3
-3806 (%ueede): bind <your_key> "say " - :fandom_Mon_7_0: teamfancontent/season_7/7300277/emoticon0
-3807 (%ueedf): bind <your_key> "say " - :fandom_Mon_7_2: teamfancontent/season_7/7300277/emoticon2
-3808 (%ueee0): bind <your_key> "say " - :fandom_Mon_7_4: teamfancontent/season_7/7300277/emoticon4
-3809 (%ueee1): bind <your_key> "say " - :fandom_TUN_7_0: teamfancontent/season_7/8291895/emoticon0
-3810 (%ueee2): bind <your_key> "say " - :fandom_TUN_7_2: teamfancontent/season_7/8291895/emoticon2
-3811 (%ueee3): bind <your_key> "say " - :fandom_TUN_7_7: teamfancontent/season_7/8291895/emoticon7
-3812 (%ueee4): bind <your_key> "say " - :fandom_THU_7_0: teamfancontent/season_7/7391077/emoticon0
-3813 (%ueee5): bind <your_key> "say " - :fandom_THU_7_1: teamfancontent/season_7/7391077/emoticon1
-3814 (%ueee6): bind <your_key> "say " - :fandom_THU_7_2: teamfancontent/season_7/7391077/emoticon2
-3815 (%ueee7): bind <your_key> "say " - :fandom_IE_7_0: teamfancontent/season_7/8375259/emoticon0
-3816 (%ueee8): bind <your_key> "say " - :fandom_IE_7_1: teamfancontent/season_7/8375259/emoticon1
-3817 (%ueee9): bind <your_key> "say " - :fandom_IE_7_2: teamfancontent/season_7/8375259/emoticon2
-3818 (%ueeea): bind <your_key> "say " - :fandom_BLR_7_0: teamfancontent/season_7/8668460/emoticon0
-3819 (%ueeeb): bind <your_key> "say " - :fandom_BLR_7_1: teamfancontent/season_7/8668460/emoticon1
-3820 (%ueeec): bind <your_key> "say " - :fandom_BLR_7_2: teamfancontent/season_7/8668460/emoticon2
-3821 (%ueeed): bind <your_key> "say " - :fandom_ITB_7_1: teamfancontent/season_7/8390848/emoticon1
-3822 (%ueeee): bind <your_key> "say " - :fandom_ITB_7_2: teamfancontent/season_7/8390848/emoticon2
-3823 (%ueeef): bind <your_key> "say " - :fandom_ITB_7_4: teamfancontent/season_7/8390848/emoticon4
-3824 (%ueef0): bind <your_key> "say " - :fandom_MK_7_0: teamfancontent/season_7/8740097/emoticon0
-3825 (%ueef1): bind <your_key> "say " - :fandom_MK_7_1: teamfancontent/season_7/8740097/emoticon1
-3826 (%ueef2): bind <your_key> "say " - :fandom_MK_7_2: teamfancontent/season_7/8740097/emoticon2
-3827 (%ueef3): bind <your_key> "say " - :fandom_Uku_7_0: teamfancontent/season_7/8131728/emoticon0
-3828 (%ueef4): bind <your_key> "say " - :fandom_Uku_7_1: teamfancontent/season_7/8131728/emoticon1
-3829 (%ueef5): bind <your_key> "say " - :fandom_Uku_7_4: teamfancontent/season_7/8131728/emoticon4
-3830 (%ueef6): bind <your_key> "say " - :fandom_NAVI_7_0: teamfancontent/season_7/36/emoticon0
-3831 (%ueef7): bind <your_key> "say " - :fandom_NAVI_7_1: teamfancontent/season_7/36/emoticon1
-3832 (%ueef8): bind <your_key> "say " - :fandom_NAVI_7_2: teamfancontent/season_7/36/emoticon2
-3833 (%ueef9): bind <your_key> "say " - :fandom_TS_7_0: teamfancontent/season_7/7119388/emoticon0
-3834 (%ueefa): bind <your_key> "say " - :fandom_TS_7_1: teamfancontent/season_7/7119388/emoticon1
-3835 (%ueefb): bind <your_key> "say " - :fandom_TS_7_2: teamfancontent/season_7/7119388/emoticon2
-3836 (%ueefc): bind <your_key> "say " - :fandom_HR_7_0: teamfancontent/season_7/7422789/emoticon0
-3837 (%ueefd): bind <your_key> "say " - :fandom_HR_7_3: teamfancontent/season_7/7422789/emoticon3
-3838 (%ueefe): bind <your_key> "say " - :fandom_HR_7_6: teamfancontent/season_7/7422789/emoticon6
-3839 (%ueeff): bind <your_key> "say " - :fandom_BBT_7_2: teamfancontent/season_7/8255888/emoticon2
-3840 (%uef00): bind <your_key> "say " - :fandom_BBT_7_4: teamfancontent/season_7/8255888/emoticon4
-3841 (%uef01): bind <your_key> "say " - :fandom_BBT_7_6: teamfancontent/season_7/8255888/emoticon6
-3842 (%uef02): bind <your_key> "say " - :fandom_MOV_7_0: teamfancontent/season_7/8376696/emoticon0
-3843 (%uef03): bind <your_key> "say " - :fandom_MOV_7_1: teamfancontent/season_7/8376696/emoticon1
-3844 (%uef04): bind <your_key> "say " - :fandom_MOV_7_2: teamfancontent/season_7/8376696/emoticon2
-3845 (%uef05): bind <your_key> "say " - :fandom_VP_7_0: teamfancontent/season_7/8724984/emoticon0
-3846 (%uef06): bind <your_key> "say " - :fandom_VP_7_1: teamfancontent/season_7/8724984/emoticon1
-3847 (%uef07): bind <your_key> "say " - :fandom_VP_7_2: teamfancontent/season_7/8724984/emoticon2
-3848 (%uef08): bind <your_key> "say " - :fandom_DS_7_0: teamfancontent/season_7/8944440/emoticon0
-3849 (%uef09): bind <your_key> "say " - :fandom_DS_7_1: teamfancontent/season_7/8944440/emoticon1
-3850 (%uef0a): bind <your_key> "say " - :fandom_DS_7_2: teamfancontent/season_7/8944440/emoticon2
-3851 (%uef0b): bind <your_key> "say " - :fandom_X3_7_0: teamfancontent/season_7/8421850/emoticon0
-3852 (%uef0c): bind <your_key> "say " - :fandom_X3_7_1: teamfancontent/season_7/8421850/emoticon1
-3853 (%uef0d): bind <your_key> "say " - :fandom_X3_7_2: teamfancontent/season_7/8421850/emoticon2
-3854 (%uef0e): bind <your_key> "say " - :fandom_HYD_7_0: teamfancontent/season_7/8588969/emoticon0
-3855 (%uef0f): bind <your_key> "say " - :fandom_HYD_7_2: teamfancontent/season_7/8588969/emoticon2
-3856 (%uef10): bind <your_key> "say " - :fandom_HYD_7_1: teamfancontent/season_7/8588969/emoticon1
-3857 (%uef11): bind <your_key> "say " - :fandom_EHOM_7_3: teamfancontent/season_7/4/emoticon3
-3858 (%uef12): bind <your_key> "say " - :fandom_EHOM_7_5: teamfancontent/season_7/4/emoticon5
-3859 (%uef13): bind <your_key> "say " - :fandom_EHOM_7_4: teamfancontent/season_7/4/emoticon4
-3860 (%uef14): bind <your_key> "say " - :fandom_PLGD_7_1: teamfancontent/season_7/15/emoticon1
-3861 (%uef15): bind <your_key> "say " - :fandom_PLGD_7_2: teamfancontent/season_7/15/emoticon2
-3862 (%uef16): bind <your_key> "say " - :fandom_PLGD_7_4: teamfancontent/season_7/15/emoticon4
-3863 (%uef17): bind <your_key> "say " - :fandom_AST_7_0: teamfancontent/season_7/6209166/emoticon0
-3864 (%uef18): bind <your_key> "say " - :fandom_AST_7_1: teamfancontent/season_7/6209166/emoticon1
-3865 (%uef19): bind <your_key> "say " - :fandom_AST_7_2: teamfancontent/season_7/6209166/emoticon2
-3866 (%uef1a): bind <your_key> "say " - :fandom_KS_7_0: teamfancontent/season_7/6209804/emoticon0
-3867 (%uef1b): bind <your_key> "say " - :fandom_KS_7_1: teamfancontent/season_7/6209804/emoticon1
-3868 (%uef1c): bind <your_key> "say " - :fandom_KS_7_2: teamfancontent/season_7/6209804/emoticon2
-3869 (%uef1d): bind <your_key> "say " - :fandom_ARI_7_1: teamfancontent/season_7/7453020/emoticon1
-3870 (%uef1e): bind <your_key> "say " - :fandom_ARI_7_2: teamfancontent/season_7/7453020/emoticon2
-3871 (%uef1f): bind <your_key> "say " - :fandom_ARI_7_3: teamfancontent/season_7/7453020/emoticon3
-3872 (%uef20): bind <your_key> "say " - :fandom_XG_7_0: teamfancontent/season_7/8261500/emoticon0
-3873 (%uef21): bind <your_key> "say " - :fandom_XG_7_1: teamfancontent/season_7/8261500/emoticon1
-3874 (%uef22): bind <your_key> "say " - :fandom_XG_7_2: teamfancontent/season_7/8261500/emoticon2
-3875 (%uef23): bind <your_key> "say " - :fandom_VG_7_0: teamfancontent/season_7/726228/emoticon0
-3876 (%uef24): bind <your_key> "say " - :fandom_VG_7_1: teamfancontent/season_7/726228/emoticon1
-3877 (%uef25): bind <your_key> "say " - :fandom_VG_7_2: teamfancontent/season_7/726228/emoticon2
-3878 (%uef26): bind <your_key> "say " - :fandom_BLD_7_0: teamfancontent/season_7/8214850/emoticon0
-3879 (%uef27): bind <your_key> "say " - :fandom_BLD_7_1: teamfancontent/season_7/8214850/emoticon1
-3880 (%uef28): bind <your_key> "say " - :fandom_BLD_7_2: teamfancontent/season_7/8214850/emoticon2
-3881 (%uef29): bind <your_key> "say " - :fandom_XCT_7_0: teamfancontent/season_7/8254145/emoticon0
-3882 (%uef2a): bind <your_key> "say " - :fandom_XCT_7_1: teamfancontent/season_7/8254145/emoticon1
-3883 (%uef2b): bind <your_key> "say " - :fandom_XCT_7_2: teamfancontent/season_7/8254145/emoticon2
-3884 (%uef2c): bind <your_key> "say " - :fandom_AG_7_0: teamfancontent/season_7/8261554/emoticon0
-3885 (%uef2d): bind <your_key> "say " - :fandom_AG_7_1: teamfancontent/season_7/8261554/emoticon1
-3886 (%uef2e): bind <your_key> "say " - :fandom_AG_7_2: teamfancontent/season_7/8261554/emoticon2
-3887 (%uef2f): bind <your_key> "say " - :fandom_Xerx_7_0: teamfancontent/season_7/8736661/emoticon0
-3888 (%uef30): bind <your_key> "say " - :fandom_Xerx_7_1: teamfancontent/season_7/8736661/emoticon1
-3889 (%uef31): bind <your_key> "say " - :fandom_Xerx_7_2: teamfancontent/season_7/8736661/emoticon2
-3890 (%uef32): bind <your_key> "say " - :fandom_SPWN_7_0: teamfancontent/season_7/8863825/emoticon0
-3891 (%uef33): bind <your_key> "say " - :fandom_SPWN_7_2: teamfancontent/season_7/8863825/emoticon2
-3892 (%uef34): bind <your_key> "say " - :fandom_SPWN_7_3: teamfancontent/season_7/8863825/emoticon3
-3893 (%uef35): bind <your_key> "say " - :fandom_UDV_7_0: teamfancontent/season_7/8572181/emoticon0
-3894 (%uef36): bind <your_key> "say " - :fandom_UDV_7_1: teamfancontent/season_7/8572181/emoticon1
-3895 (%uef37): bind <your_key> "say " - :fandom_UDV_7_4: teamfancontent/season_7/8572181/emoticon4
-3896 (%uef38): bind <your_key> "say " - :fandom_QHI_7_0: teamfancontent/season_7/8702318/emoticon0
-3897 (%uef39): bind <your_key> "say " - :fandom_QHI_7_1: teamfancontent/season_7/8702318/emoticon1
-3898 (%uef3a): bind <your_key> "say " - :fandom_QHI_7_2: teamfancontent/season_7/8702318/emoticon2
-3899 (%uef3b): bind <your_key> "say " - :fandom_WRE_7_0: teamfancontent/season_7/8733722/emoticon0
-3900 (%uef3c): bind <your_key> "say " - :fandom_WRE_7_1: teamfancontent/season_7/8733722/emoticon1
-3901 (%uef3d): bind <your_key> "say " - :fandom_WRE_7_2: teamfancontent/season_7/8733722/emoticon2
-3902 (%uef3e): bind <your_key> "say " - :fandom_CC_7_0: teamfancontent/season_7/8545488/emoticon0
-3903 (%uef3f): bind <your_key> "say " - :fandom_CC_7_3: teamfancontent/season_7/8545488/emoticon3
-3904 (%uef40): bind <your_key> "say " - :fandom_CC_7_4: teamfancontent/season_7/8545488/emoticon4
-3905 (%uef41): bind <your_key> "say " - :fandom_HF_7_0: teamfancontent/season_7/8724829/emoticon0
-3906 (%uef42): bind <your_key> "say " - :fandom_HF_7_1: teamfancontent/season_7/8724829/emoticon1
-3907 (%uef43): bind <your_key> "say " - :fandom_HF_7_5: teamfancontent/season_7/8724829/emoticon5
-3908 (%uef44): bind <your_key> "say " - :fandom_BLD_8_0: teamfancontent/season_8/8214850/emoticon0
-3909 (%uef45): bind <your_key> "say " - :fandom_BLD_8_1: teamfancontent/season_8/8214850/emoticon1
-3910 (%uef46): bind <your_key> "say " - :fandom_BLD_8_2: teamfancontent/season_8/8214850/emoticon2
-3911 (%uef47): bind <your_key> "say " - :fandom_AG_8_0: teamfancontent/season_8/8261554/emoticon0
-3912 (%uef48): bind <your_key> "say " - :fandom_AG_8_1: teamfancontent/season_8/8261554/emoticon1
-3913 (%uef49): bind <your_key> "say " - :fandom_AG_8_2: teamfancontent/season_8/8261554/emoticon2
-3914 (%uef4a): bind <your_key> "say " - :fandom_Mon_8_0: teamfancontent/season_8/7300277/emoticon0
-3915 (%uef4b): bind <your_key> "say " - :fandom_Mon_8_1: teamfancontent/season_8/7300277/emoticon1
-3916 (%uef4c): bind <your_key> "say " - :fandom_Mon_8_2: teamfancontent/season_8/7300277/emoticon2
-3917 (%uef4d): bind <your_key> "say " - :fandom_TSM_8_0: teamfancontent/season_8/8260983/emoticon0
-3918 (%uef4e): bind <your_key> "say " - :fandom_TSM_8_1: teamfancontent/season_8/8260983/emoticon1
-3919 (%uef4f): bind <your_key> "say " - :fandom_TSM_8_2: teamfancontent/season_8/8260983/emoticon2
-3920 (%uef50): bind <your_key> "say " - :fandom_nou_8_0: teamfancontent/season_8/8728920/emoticon0
-3921 (%uef51): bind <your_key> "say " - :fandom_nou_8_1: teamfancontent/season_8/8728920/emoticon1
-3922 (%uef52): bind <your_key> "say " - :fandom_nou_8_2: teamfancontent/season_8/8728920/emoticon2
+3398 (%ued46): bind <your_key> "say "
+3399 (%ued47): bind <your_key> "say "
+3400 (%ued48): bind <your_key> "say "
+3401 (%ued49): bind <your_key> "say "
+3402 (%ued4a): bind <your_key> "say "
+3403 (%ued4b): bind <your_key> "say "
+3404 (%ued4c): bind <your_key> "say "
+3405 (%ued4d): bind <your_key> "say "
+3406 (%ued4e): bind <your_key> "say "
+3407 (%ued4f): bind <your_key> "say "
+3408 (%ued50): bind <your_key> "say "
+3409 (%ued51): bind <your_key> "say "
+3410 (%ued52): bind <your_key> "say "
+3411 (%ued53): bind <your_key> "say "
+3412 (%ued54): bind <your_key> "say "
+3413 (%ued55): bind <your_key> "say "
+3414 (%ued56): bind <your_key> "say "
+3415 (%ued57): bind <your_key> "say "
+3416 (%ued58): bind <your_key> "say "
+3417 (%ued59): bind <your_key> "say "
+3418 (%ued5a): bind <your_key> "say "
+3419 (%ued5b): bind <your_key> "say "
+3420 (%ued5c): bind <your_key> "say "
+3421 (%ued5d): bind <your_key> "say "
+3422 (%ued5e): bind <your_key> "say "
+3423 (%ued5f): bind <your_key> "say "
+3424 (%ued60): bind <your_key> "say "
+3425 (%ued61): bind <your_key> "say "
+3426 (%ued62): bind <your_key> "say "
+3427 (%ued63): bind <your_key> "say "
+3428 (%ued64): bind <your_key> "say "
+3429 (%ued65): bind <your_key> "say "
+3430 (%ued66): bind <your_key> "say "
+3431 (%ued67): bind <your_key> "say "
+3432 (%ued68): bind <your_key> "say "
+3433 (%ued69): bind <your_key> "say "
+3434 (%ued6a): bind <your_key> "say "
+3435 (%ued6b): bind <your_key> "say "
+3436 (%ued6c): bind <your_key> "say "
+3437 (%ued6d): bind <your_key> "say "
+3438 (%ued6e): bind <your_key> "say "
+3439 (%ued6f): bind <your_key> "say "
+3440 (%ued70): bind <your_key> "say "
+3441 (%ued71): bind <your_key> "say "
+3442 (%ued72): bind <your_key> "say "
+3443 (%ued73): bind <your_key> "say "
+3444 (%ued74): bind <your_key> "say "
+3445 (%ued75): bind <your_key> "say "
+3446 (%ued76): bind <your_key> "say "
+3447 (%ued77): bind <your_key> "say "
+3448 (%ued78): bind <your_key> "say "
+3449 (%ued79): bind <your_key> "say "
+3450 (%ued7a): bind <your_key> "say "
+3451 (%ued7b): bind <your_key> "say "
+3452 (%ued7c): bind <your_key> "say "
+3453 (%ued7d): bind <your_key> "say "
+3454 (%ued7e): bind <your_key> "say "
+3455 (%ued7f): bind <your_key> "say "
+3456 (%ued80): bind <your_key> "say "
+3457 (%ued81): bind <your_key> "say "
+3458 (%ued82): bind <your_key> "say "
+3459 (%ued83): bind <your_key> "say "
+3460 (%ued84): bind <your_key> "say "
+3461 (%ued85): bind <your_key> "say "
+3462 (%ued86): bind <your_key> "say "
+3463 (%ued87): bind <your_key> "say "
+3464 (%ued88): bind <your_key> "say "
+3465 (%ued89): bind <your_key> "say "
+3466 (%ued8a): bind <your_key> "say "
+3467 (%ued8b): bind <your_key> "say "
+3468 (%ued8c): bind <your_key> "say "
+3469 (%ued8d): bind <your_key> "say "
+3470 (%ued8e): bind <your_key> "say "
+3471 (%ued8f): bind <your_key> "say "
+3472 (%ued90): bind <your_key> "say "
+3473 (%ued91): bind <your_key> "say "
+3474 (%ued92): bind <your_key> "say "
+3475 (%ued93): bind <your_key> "say "
+3476 (%ued94): bind <your_key> "say "
+3477 (%ued95): bind <your_key> "say "
+3478 (%ued96): bind <your_key> "say "
+3479 (%ued97): bind <your_key> "say "
+3480 (%ued98): bind <your_key> "say "
+3481 (%ued99): bind <your_key> "say "
+3482 (%ued9a): bind <your_key> "say "
+3483 (%ued9b): bind <your_key> "say "
+3484 (%ued9c): bind <your_key> "say "
+3485 (%ued9d): bind <your_key> "say "
+3486 (%ued9e): bind <your_key> "say "
+3487 (%ued9f): bind <your_key> "say "
+3488 (%ueda0): bind <your_key> "say "
+3489 (%ueda1): bind <your_key> "say "
+3490 (%ueda2): bind <your_key> "say "
+3491 (%ueda3): bind <your_key> "say "
+3492 (%ueda4): bind <your_key> "say "
+3493 (%ueda5): bind <your_key> "say "
+3494 (%ueda6): bind <your_key> "say "
+3495 (%ueda7): bind <your_key> "say "
+3496 (%ueda8): bind <your_key> "say "
+3497 (%ueda9): bind <your_key> "say "
+3498 (%uedaa): bind <your_key> "say "
+3499 (%uedab): bind <your_key> "say "
+3500 (%uedac): bind <your_key> "say "
+3501 (%uedad): bind <your_key> "say "
+3502 (%uedae): bind <your_key> "say "
+3503 (%uedaf): bind <your_key> "say "
+3504 (%uedb0): bind <your_key> "say "
+3505 (%uedb1): bind <your_key> "say "
+3506 (%uedb2): bind <your_key> "say "
+3507 (%uedb3): bind <your_key> "say "
+3508 (%uedb4): bind <your_key> "say "
+3509 (%uedb5): bind <your_key> "say "
+3510 (%uedb6): bind <your_key> "say "
+3511 (%uedb7): bind <your_key> "say "
+3512 (%uedb8): bind <your_key> "say "
+3513 (%uedb9): bind <your_key> "say "
+3514 (%uedba): bind <your_key> "say "
+3515 (%uedbb): bind <your_key> "say "
+3516 (%uedbc): bind <your_key> "say "
+3517 (%uedbd): bind <your_key> "say "
+3518 (%uedbe): bind <your_key> "say "
+3519 (%uedbf): bind <your_key> "say "
+3520 (%uedc0): bind <your_key> "say "
+3521 (%uedc1): bind <your_key> "say "
+3522 (%uedc2): bind <your_key> "say "
+3523 (%uedc3): bind <your_key> "say "
+3524 (%uedc4): bind <your_key> "say "
+3525 (%uedc5): bind <your_key> "say "
+3526 (%uedc6): bind <your_key> "say "
+3527 (%uedc7): bind <your_key> "say "
+3528 (%uedc8): bind <your_key> "say "
+3529 (%uedc9): bind <your_key> "say "
+3530 (%uedca): bind <your_key> "say "
+3531 (%uedcb): bind <your_key> "say "
+3532 (%uedcc): bind <your_key> "say "
+3533 (%uedcd): bind <your_key> "say "
+3534 (%uedce): bind <your_key> "say "
+3535 (%uedcf): bind <your_key> "say "
+3536 (%uedd0): bind <your_key> "say "
+3537 (%uedd1): bind <your_key> "say "
+3538 (%uedd2): bind <your_key> "say "
+3539 (%uedd3): bind <your_key> "say "
+3540 (%uedd4): bind <your_key> "say "
+3541 (%uedd5): bind <your_key> "say "
+3542 (%uedd6): bind <your_key> "say "
+3543 (%uedd7): bind <your_key> "say "
+3544 (%uedd8): bind <your_key> "say "
+3545 (%uedd9): bind <your_key> "say "
+3546 (%uedda): bind <your_key> "say "
+3547 (%ueddb): bind <your_key> "say "
+3548 (%ueddc): bind <your_key> "say "
+3549 (%ueddd): bind <your_key> "say "
+3550 (%uedde): bind <your_key> "say "
+3551 (%ueddf): bind <your_key> "say "
+3552 (%uede0): bind <your_key> "say "
+3553 (%uede1): bind <your_key> "say "
+3554 (%uede2): bind <your_key> "say "
+3555 (%uede3): bind <your_key> "say "
+3556 (%uede4): bind <your_key> "say "
+3557 (%uede5): bind <your_key> "say "
+3558 (%uede6): bind <your_key> "say "
+3559 (%uede7): bind <your_key> "say "
+3560 (%uede8): bind <your_key> "say "
+3561 (%uede9): bind <your_key> "say "
+3562 (%uedea): bind <your_key> "say "
+3563 (%uedeb): bind <your_key> "say "
+3564 (%uedec): bind <your_key> "say "
+3565 (%ueded): bind <your_key> "say "
+3566 (%uedee): bind <your_key> "say "
+3567 (%uedef): bind <your_key> "say "
+3568 (%uedf0): bind <your_key> "say "
+3569 (%uedf1): bind <your_key> "say "
+3570 (%uedf2): bind <your_key> "say "
+3571 (%uedf3): bind <your_key> "say "
+3572 (%uedf4): bind <your_key> "say "
+3573 (%uedf5): bind <your_key> "say "
+3574 (%uedf6): bind <your_key> "say "
+3575 (%uedf7): bind <your_key> "say "
+3576 (%uedf8): bind <your_key> "say "
+3577 (%uedf9): bind <your_key> "say "
+3578 (%uedfa): bind <your_key> "say "
+3579 (%uedfb): bind <your_key> "say "
+3580 (%uedfc): bind <your_key> "say "
+3581 (%uedfd): bind <your_key> "say "
+3582 (%uedfe): bind <your_key> "say "
+3583 (%uedff): bind <your_key> "say "
+3584 (%uee00): bind <your_key> "say "
+3585 (%uee01): bind <your_key> "say "
+3586 (%uee02): bind <your_key> "say "
+3587 (%uee03): bind <your_key> "say "
+3588 (%uee04): bind <your_key> "say "
+3589 (%uee05): bind <your_key> "say "
+3590 (%uee06): bind <your_key> "say "
+3591 (%uee07): bind <your_key> "say "
+3592 (%uee08): bind <your_key> "say "
+3593 (%uee09): bind <your_key> "say "
+3594 (%uee0a): bind <your_key> "say "
+3595 (%uee0b): bind <your_key> "say "
+3596 (%uee0c): bind <your_key> "say "
+3597 (%uee0d): bind <your_key> "say "
+3598 (%uee0e): bind <your_key> "say "
+3599 (%uee0f): bind <your_key> "say "
+3600 (%uee10): bind <your_key> "say "
+3601 (%uee11): bind <your_key> "say "
+3602 (%uee12): bind <your_key> "say "
+3603 (%uee13): bind <your_key> "say "
+3604 (%uee14): bind <your_key> "say "
+3605 (%uee15): bind <your_key> "say "
+3606 (%uee16): bind <your_key> "say "
+3607 (%uee17): bind <your_key> "say "
+3608 (%uee18): bind <your_key> "say "
+3609 (%uee19): bind <your_key> "say "
+3610 (%uee1a): bind <your_key> "say "
+3611 (%uee1b): bind <your_key> "say "
+3612 (%uee1c): bind <your_key> "say "
+3613 (%uee1d): bind <your_key> "say "
+3614 (%uee1e): bind <your_key> "say "
+3615 (%uee1f): bind <your_key> "say "
+3616 (%uee20): bind <your_key> "say "
+3617 (%uee21): bind <your_key> "say "
+3618 (%uee22): bind <your_key> "say "
+3619 (%uee23): bind <your_key> "say "
+3620 (%uee24): bind <your_key> "say "
+3621 (%uee25): bind <your_key> "say "
+3622 (%uee26): bind <your_key> "say "
+3623 (%uee27): bind <your_key> "say "
+3624 (%uee28): bind <your_key> "say "
+3625 (%uee29): bind <your_key> "say "
+3626 (%uee2a): bind <your_key> "say "
+3627 (%uee2b): bind <your_key> "say "
+3628 (%uee2c): bind <your_key> "say "
+3629 (%uee2d): bind <your_key> "say "
+3630 (%uee2e): bind <your_key> "say "
+3631 (%uee2f): bind <your_key> "say "
+3632 (%uee30): bind <your_key> "say "
+3633 (%uee31): bind <your_key> "say "
+3634 (%uee32): bind <your_key> "say "
+3635 (%uee33): bind <your_key> "say "
+3636 (%uee34): bind <your_key> "say "
+3637 (%uee35): bind <your_key> "say "
+3638 (%uee36): bind <your_key> "say "
+3639 (%uee37): bind <your_key> "say "
+3640 (%uee38): bind <your_key> "say "
+3641 (%uee39): bind <your_key> "say "
+3642 (%uee3a): bind <your_key> "say "
+3643 (%uee3b): bind <your_key> "say "
+3644 (%uee3c): bind <your_key> "say "
+3645 (%uee3d): bind <your_key> "say "
+3646 (%uee3e): bind <your_key> "say "
+3647 (%uee3f): bind <your_key> "say "
+3648 (%uee40): bind <your_key> "say "
+3649 (%uee41): bind <your_key> "say "
+3650 (%uee42): bind <your_key> "say "
+3651 (%uee43): bind <your_key> "say "
+3652 (%uee44): bind <your_key> "say "
+3653 (%uee45): bind <your_key> "say "
+3654 (%uee46): bind <your_key> "say "
+3655 (%uee47): bind <your_key> "say "
+3656 (%uee48): bind <your_key> "say "
+3657 (%uee49): bind <your_key> "say "
+3658 (%uee4a): bind <your_key> "say "
+3659 (%uee4b): bind <your_key> "say "
+3660 (%uee4c): bind <your_key> "say "
+3661 (%uee4d): bind <your_key> "say "
+3662 (%uee4e): bind <your_key> "say "
+3663 (%uee4f): bind <your_key> "say "
+3664 (%uee50): bind <your_key> "say "
+3665 (%uee51): bind <your_key> "say "
+3666 (%uee52): bind <your_key> "say "
+3667 (%uee53): bind <your_key> "say "
+3668 (%uee54): bind <your_key> "say "
+3669 (%uee55): bind <your_key> "say "
+3670 (%uee56): bind <your_key> "say "
+3671 (%uee57): bind <your_key> "say "
+3672 (%uee58): bind <your_key> "say "
+3673 (%uee59): bind <your_key> "say "
+3674 (%uee5a): bind <your_key> "say "
+3675 (%uee5b): bind <your_key> "say "
+3676 (%uee5c): bind <your_key> "say "
+3677 (%uee5d): bind <your_key> "say "
+3678 (%uee5e): bind <your_key> "say "
+3679 (%uee5f): bind <your_key> "say "
+3680 (%uee60): bind <your_key> "say "
+3681 (%uee61): bind <your_key> "say "
+3682 (%uee62): bind <your_key> "say "
+3683 (%uee63): bind <your_key> "say "
+3684 (%uee64): bind <your_key> "say "
+3685 (%uee65): bind <your_key> "say "
+3686 (%uee66): bind <your_key> "say "
+3687 (%uee67): bind <your_key> "say "
+3688 (%uee68): bind <your_key> "say "
+3689 (%uee69): bind <your_key> "say "
+3690 (%uee6a): bind <your_key> "say "
+3691 (%uee6b): bind <your_key> "say "
+3692 (%uee6c): bind <your_key> "say "
+3693 (%uee6d): bind <your_key> "say "
+3694 (%uee6e): bind <your_key> "say "
+3695 (%uee6f): bind <your_key> "say "
+3696 (%uee70): bind <your_key> "say "
+3697 (%uee71): bind <your_key> "say "
+3698 (%uee72): bind <your_key> "say "
+3699 (%uee73): bind <your_key> "say "
+3700 (%uee74): bind <your_key> "say "
+3701 (%uee75): bind <your_key> "say "
+3702 (%uee76): bind <your_key> "say "
+3703 (%uee77): bind <your_key> "say "
+3704 (%uee78): bind <your_key> "say "
+3705 (%uee79): bind <your_key> "say "
+3706 (%uee7a): bind <your_key> "say "
+3707 (%uee7b): bind <your_key> "say "
+3708 (%uee7c): bind <your_key> "say "
+3709 (%uee7d): bind <your_key> "say "
+3710 (%uee7e): bind <your_key> "say "
+3711 (%uee7f): bind <your_key> "say "
+3712 (%uee80): bind <your_key> "say "
+3713 (%uee81): bind <your_key> "say "
+3714 (%uee82): bind <your_key> "say "
+3715 (%uee83): bind <your_key> "say "
+3716 (%uee84): bind <your_key> "say "
+3717 (%uee85): bind <your_key> "say "
+3718 (%uee86): bind <your_key> "say "
+3719 (%uee87): bind <your_key> "say "
+3720 (%uee88): bind <your_key> "say "
+3721 (%uee89): bind <your_key> "say "
+3722 (%uee8a): bind <your_key> "say "
+3723 (%uee8b): bind <your_key> "say "
+3724 (%uee8c): bind <your_key> "say "
+3725 (%uee8d): bind <your_key> "say "
+3726 (%uee8e): bind <your_key> "say "
+3727 (%uee8f): bind <your_key> "say "
+3728 (%uee90): bind <your_key> "say "
+3729 (%uee91): bind <your_key> "say "
+3730 (%uee92): bind <your_key> "say "
+3731 (%uee93): bind <your_key> "say "
+3732 (%uee94): bind <your_key> "say "
+3733 (%uee95): bind <your_key> "say "
+3734 (%uee96): bind <your_key> "say "
+3735 (%uee97): bind <your_key> "say "
+3736 (%uee98): bind <your_key> "say "
+3737 (%uee99): bind <your_key> "say "
+3738 (%uee9a): bind <your_key> "say "
+3739 (%uee9b): bind <your_key> "say "
+3740 (%uee9c): bind <your_key> "say "
+3741 (%uee9d): bind <your_key> "say "
+3742 (%uee9e): bind <your_key> "say "
+3743 (%uee9f): bind <your_key> "say "
+3744 (%ueea0): bind <your_key> "say "
+3745 (%ueea1): bind <your_key> "say "
+3746 (%ueea2): bind <your_key> "say "
+3747 (%ueea3): bind <your_key> "say "
+3748 (%ueea4): bind <your_key> "say "
+3749 (%ueea5): bind <your_key> "say "
+3750 (%ueea6): bind <your_key> "say "
+3751 (%ueea7): bind <your_key> "say "
+3752 (%ueea8): bind <your_key> "say "
+3753 (%ueea9): bind <your_key> "say "
+3754 (%ueeaa): bind <your_key> "say "
+3755 (%ueeab): bind <your_key> "say "
+3756 (%ueeac): bind <your_key> "say "
+3757 (%ueead): bind <your_key> "say "
+3758 (%ueeae): bind <your_key> "say "
+3759 (%ueeaf): bind <your_key> "say "
+3760 (%ueeb0): bind <your_key> "say "
+3761 (%ueeb1): bind <your_key> "say "
+3762 (%ueeb2): bind <your_key> "say "
+3763 (%ueeb3): bind <your_key> "say "
+3764 (%ueeb4): bind <your_key> "say "
+3765 (%ueeb5): bind <your_key> "say "
+3766 (%ueeb6): bind <your_key> "say "
+3767 (%ueeb7): bind <your_key> "say "
+3768 (%ueeb8): bind <your_key> "say "
+3769 (%ueeb9): bind <your_key> "say "
+3770 (%ueeba): bind <your_key> "say "
+3771 (%ueebb): bind <your_key> "say "
+3772 (%ueebc): bind <your_key> "say "
+3773 (%ueebd): bind <your_key> "say "
+3774 (%ueebe): bind <your_key> "say "
+3775 (%ueebf): bind <your_key> "say "
+3776 (%ueec0): bind <your_key> "say "
+3777 (%ueec1): bind <your_key> "say "
+3778 (%ueec2): bind <your_key> "say "
+3779 (%ueec3): bind <your_key> "say "
+3780 (%ueec4): bind <your_key> "say "
+3781 (%ueec5): bind <your_key> "say "
+3782 (%ueec6): bind <your_key> "say "
+3783 (%ueec7): bind <your_key> "say "
+3784 (%ueec8): bind <your_key> "say "
+3785 (%ueec9): bind <your_key> "say "
+3786 (%ueeca): bind <your_key> "say "
+3787 (%ueecb): bind <your_key> "say "
+3788 (%ueecc): bind <your_key> "say "
+3789 (%ueecd): bind <your_key> "say "
+3790 (%ueece): bind <your_key> "say "
+3791 (%ueecf): bind <your_key> "say "
+3792 (%ueed0): bind <your_key> "say "
+3793 (%ueed1): bind <your_key> "say "
+3794 (%ueed2): bind <your_key> "say "
+3795 (%ueed3): bind <your_key> "say "
+3796 (%ueed4): bind <your_key> "say "
+3797 (%ueed5): bind <your_key> "say "
+3798 (%ueed6): bind <your_key> "say "
+3799 (%ueed7): bind <your_key> "say "
+3800 (%ueed8): bind <your_key> "say "
+3801 (%ueed9): bind <your_key> "say "
+3802 (%ueeda): bind <your_key> "say "
+3803 (%ueedb): bind <your_key> "say "
+3804 (%ueedc): bind <your_key> "say "
+3805 (%ueedd): bind <your_key> "say "
+3806 (%ueede): bind <your_key> "say "
+3807 (%ueedf): bind <your_key> "say "
+3808 (%ueee0): bind <your_key> "say "
+3809 (%ueee1): bind <your_key> "say "
+3810 (%ueee2): bind <your_key> "say "
+3811 (%ueee3): bind <your_key> "say "
+3812 (%ueee4): bind <your_key> "say "
+3813 (%ueee5): bind <your_key> "say "
+3814 (%ueee6): bind <your_key> "say "
+3815 (%ueee7): bind <your_key> "say "
+3816 (%ueee8): bind <your_key> "say "
+3817 (%ueee9): bind <your_key> "say "
+3818 (%ueeea): bind <your_key> "say "
+3819 (%ueeeb): bind <your_key> "say "
+3820 (%ueeec): bind <your_key> "say "
+3821 (%ueeed): bind <your_key> "say "
+3822 (%ueeee): bind <your_key> "say "
+3823 (%ueeef): bind <your_key> "say "
+3824 (%ueef0): bind <your_key> "say "
+3825 (%ueef1): bind <your_key> "say "
+3826 (%ueef2): bind <your_key> "say "
+3827 (%ueef3): bind <your_key> "say "
+3828 (%ueef4): bind <your_key> "say "
+3829 (%ueef5): bind <your_key> "say "
+3830 (%ueef6): bind <your_key> "say "
+3831 (%ueef7): bind <your_key> "say "
+3832 (%ueef8): bind <your_key> "say "
+3833 (%ueef9): bind <your_key> "say "
+3834 (%ueefa): bind <your_key> "say "
+3835 (%ueefb): bind <your_key> "say "
+3836 (%ueefc): bind <your_key> "say "
+3837 (%ueefd): bind <your_key> "say "
+3838 (%ueefe): bind <your_key> "say "
+3839 (%ueeff): bind <your_key> "say "
+3840 (%uef00): bind <your_key> "say "
+3841 (%uef01): bind <your_key> "say "
+3842 (%uef02): bind <your_key> "say "
+3843 (%uef03): bind <your_key> "say "
+3844 (%uef04): bind <your_key> "say "
+3845 (%uef05): bind <your_key> "say "
+3846 (%uef06): bind <your_key> "say "
+3847 (%uef07): bind <your_key> "say "
+3848 (%uef08): bind <your_key> "say "
+3849 (%uef09): bind <your_key> "say "
+3850 (%uef0a): bind <your_key> "say "
+3851 (%uef0b): bind <your_key> "say "
+3852 (%uef0c): bind <your_key> "say "
+3853 (%uef0d): bind <your_key> "say "
+3854 (%uef0e): bind <your_key> "say "
+3855 (%uef0f): bind <your_key> "say "
+3856 (%uef10): bind <your_key> "say "
+3857 (%uef11): bind <your_key> "say "
+3858 (%uef12): bind <your_key> "say "
+3859 (%uef13): bind <your_key> "say "
+3860 (%uef14): bind <your_key> "say "
+3861 (%uef15): bind <your_key> "say "
+3862 (%uef16): bind <your_key> "say "
+3863 (%uef17): bind <your_key> "say "
+3864 (%uef18): bind <your_key> "say "
+3865 (%uef19): bind <your_key> "say "
+3866 (%uef1a): bind <your_key> "say "
+3867 (%uef1b): bind <your_key> "say "
+3868 (%uef1c): bind <your_key> "say "
+3869 (%uef1d): bind <your_key> "say "
+3870 (%uef1e): bind <your_key> "say "
+3871 (%uef1f): bind <your_key> "say "
+3872 (%uef20): bind <your_key> "say "
+3873 (%uef21): bind <your_key> "say "
+3874 (%uef22): bind <your_key> "say "
+3875 (%uef23): bind <your_key> "say "
+3876 (%uef24): bind <your_key> "say "
+3877 (%uef25): bind <your_key> "say "
+3878 (%uef26): bind <your_key> "say "
+3879 (%uef27): bind <your_key> "say "
+3880 (%uef28): bind <your_key> "say "
+3881 (%uef29): bind <your_key> "say "
+3882 (%uef2a): bind <your_key> "say "
+3883 (%uef2b): bind <your_key> "say "
+3884 (%uef2c): bind <your_key> "say "
+3885 (%uef2d): bind <your_key> "say "
+3886 (%uef2e): bind <your_key> "say "
+3887 (%uef2f): bind <your_key> "say "
+3888 (%uef30): bind <your_key> "say "
+3889 (%uef31): bind <your_key> "say "
+3890 (%uef32): bind <your_key> "say "
+3891 (%uef33): bind <your_key> "say "
+3892 (%uef34): bind <your_key> "say "
+3893 (%uef35): bind <your_key> "say "
+3894 (%uef36): bind <your_key> "say "
+3895 (%uef37): bind <your_key> "say "
+3896 (%uef38): bind <your_key> "say "
+3897 (%uef39): bind <your_key> "say "
+3898 (%uef3a): bind <your_key> "say "
+3899 (%uef3b): bind <your_key> "say "
+3900 (%uef3c): bind <your_key> "say "
+3901 (%uef3d): bind <your_key> "say "
+3902 (%uef3e): bind <your_key> "say "
+3903 (%uef3f): bind <your_key> "say "
+3904 (%uef40): bind <your_key> "say "
+3905 (%uef41): bind <your_key> "say "
+3906 (%uef42): bind <your_key> "say "
+3907 (%uef43): bind <your_key> "say "
+3908 (%uef44): bind <your_key> "say "
+3909 (%uef45): bind <your_key> "say "
+3910 (%uef46): bind <your_key> "say "
+3911 (%uef47): bind <your_key> "say "
+3912 (%uef48): bind <your_key> "say "
+3913 (%uef49): bind <your_key> "say "
+3914 (%uef4a): bind <your_key> "say "
+3915 (%uef4b): bind <your_key> "say "
+3916 (%uef4c): bind <your_key> "say "
+3917 (%uef4d): bind <your_key> "say "
+3918 (%uef4e): bind <your_key> "say "
+3919 (%uef4f): bind <your_key> "say "
+3920 (%uef50): bind <your_key> "say "
+3921 (%uef51): bind <your_key> "say "
+3922 (%uef52): bind <your_key> "say "
 3923 (%uef53): bind <your_key> "say "
 3924 (%uef54): bind <your_key> "say "
 3925 (%uef55): bind <your_key> "say "
-3926 (%uef56): bind <your_key> "say " - :fandom_ENT_8_0: teamfancontent/season_8/8605863/emoticon0
-3927 (%uef57): bind <your_key> "say " - :fandom_ENT_8_1: teamfancontent/season_8/8605863/emoticon1
-3928 (%uef58): bind <your_key> "say " - :fandom_ENT_8_2: teamfancontent/season_8/8605863/emoticon2
-3929 (%uef59): bind <your_key> "say " - :fandom_FRTS_8_0: teamfancontent/season_8/8944221/emoticon0
-3930 (%uef5a): bind <your_key> "say " - :fandom_FRTS_8_1: teamfancontent/season_8/8944221/emoticon1
-3931 (%uef5b): bind <your_key> "say " - :fandom_FRTS_8_2: teamfancontent/season_8/8944221/emoticon2
-3932 (%uef5c): bind <your_key> "say " - :fandom_OG_8_0: teamfancontent/season_8/2586976/emoticon0
-3933 (%uef5d): bind <your_key> "say " - :fandom_OG_8_1: teamfancontent/season_8/2586976/emoticon1
-3934 (%uef5e): bind <your_key> "say " - :fandom_OG_8_2: teamfancontent/season_8/2586976/emoticon2
-3935 (%uef5f): bind <your_key> "say " - :fandom_SR_8_3: teamfancontent/season_8/39/emoticon3
-3936 (%uef60): bind <your_key> "say " - :fandom_SR_8_5: teamfancontent/season_8/39/emoticon5
-3937 (%uef61): bind <your_key> "say " - :fandom_SR_8_6: teamfancontent/season_8/39/emoticon6
-3938 (%uef62): bind <your_key> "say " - :fandom_NGX_8_0: teamfancontent/season_8/7554697/emoticon0
-3939 (%uef63): bind <your_key> "say " - :fandom_NGX_8_1: teamfancontent/season_8/7554697/emoticon1
-3940 (%uef64): bind <your_key> "say " - :fandom_NGX_8_2: teamfancontent/season_8/7554697/emoticon2
-3941 (%uef65): bind <your_key> "say " - :fandom_LIQ_8_3: teamfancontent/season_8/2163/emoticon3
-3942 (%uef66): bind <your_key> "say " - :fandom_LIQ_8_4: teamfancontent/season_8/2163/emoticon4
-3943 (%uef67): bind <your_key> "say " - :fandom_LIQ_8_6: teamfancontent/season_8/2163/emoticon6
-3944 (%uef68): bind <your_key> "say " - :fandom_Ybb_8_0: teamfancontent/season_8/8574561/emoticon0
-3945 (%uef69): bind <your_key> "say " - :fandom_Ybb_8_1: teamfancontent/season_8/8574561/emoticon1
-3946 (%uef6a): bind <your_key> "say " - :fandom_Ybb_8_2: teamfancontent/season_8/8574561/emoticon2
-3947 (%uef6b): bind <your_key> "say " - :fandom_OT_8_0: teamfancontent/season_8/8894818/emoticon0
-3948 (%uef6c): bind <your_key> "say " - :fandom_OT_8_1: teamfancontent/season_8/8894818/emoticon1
-3949 (%uef6d): bind <your_key> "say " - :fandom_OT_8_2: teamfancontent/season_8/8894818/emoticon2
-3950 (%uef6e): bind <your_key> "say " - :fandom_BC_8_3: teamfancontent/season_8/8254400/emoticon3
-3951 (%uef6f): bind <your_key> "say " - :fandom_BC_8_4: teamfancontent/season_8/8254400/emoticon4
-3952 (%uef70): bind <your_key> "say " - :fandom_BC_8_5: teamfancontent/season_8/8254400/emoticon5
-3953 (%uef71): bind <your_key> "say " - :fandom_BBT_8_0: teamfancontent/season_8/8255888/emoticon0
-3954 (%uef72): bind <your_key> "say " - :fandom_BBT_8_1: teamfancontent/season_8/8255888/emoticon1
-3955 (%uef73): bind <your_key> "say " - :fandom_BBT_8_9: teamfancontent/season_8/8255888/emoticon9
-3956 (%uef74): bind <your_key> "say " - :fandom_ALL_8_0: teamfancontent/season_8/111474/emoticon0
-3957 (%uef75): bind <your_key> "say " - :fandom_ALL_8_1: teamfancontent/season_8/111474/emoticon1
-3958 (%uef76): bind <your_key> "say " - :fandom_ALL_8_2: teamfancontent/season_8/111474/emoticon2
-3959 (%uef77): bind <your_key> "say " - :fandom_TS_8_2: teamfancontent/season_8/7119388/emoticon2
-3960 (%uef78): bind <your_key> "say " - :fandom_TS_8_4: teamfancontent/season_8/7119388/emoticon4
-3961 (%uef79): bind <your_key> "say " - :fandom_TS_8_5: teamfancontent/season_8/7119388/emoticon5
-3962 (%uef7a): bind <your_key> "say " - :fandom_CC_8_0: teamfancontent/season_8/8545488/emoticon0
-3963 (%uef7b): bind <your_key> "say " - :fandom_CC_8_1: teamfancontent/season_8/8545488/emoticon1
-3964 (%uef7c): bind <your_key> "say " - :fandom_CC_8_2: teamfancontent/season_8/8545488/emoticon2
-3965 (%uef7d): bind <your_key> "say " - :fandom_MOV_8_0: teamfancontent/season_8/8376696/emoticon0
-3966 (%uef7e): bind <your_key> "say " - :fandom_MOV_8_1: teamfancontent/season_8/8376696/emoticon1
-3967 (%uef7f): bind <your_key> "say " - :fandom_MOV_8_2: teamfancontent/season_8/8376696/emoticon2
-3968 (%uef80): bind <your_key> "say " - :fandom_NRU_8_1: teamfancontent/season_8/8118197/emoticon1
-3969 (%uef81): bind <your_key> "say " - :fandom_NRU_8_3: teamfancontent/season_8/8118197/emoticon3
-3970 (%uef82): bind <your_key> "say " - :fandom_NRU_8_4: teamfancontent/season_8/8118197/emoticon4
-3971 (%uef83): bind <your_key> "say " - :fandom_GG_8_0: teamfancontent/season_8/8599101/emoticon0
-3972 (%uef84): bind <your_key> "say " - :fandom_GG_8_1: teamfancontent/season_8/8599101/emoticon1
-3973 (%uef85): bind <your_key> "say " - :fandom_GG_8_2: teamfancontent/season_8/8599101/emoticon2
-3974 (%uef86): bind <your_key> "say " - :fandom_HYD_8_0: teamfancontent/season_8/8588969/emoticon0
-3975 (%uef87): bind <your_key> "say " - :fandom_HYD_8_2: teamfancontent/season_8/8588969/emoticon2
-3976 (%uef88): bind <your_key> "say " - :fandom_HYD_8_4: teamfancontent/season_8/8588969/emoticon4
-3977 (%uef89): bind <your_key> "say " - :fandom_ALA_8_0: teamfancontent/season_8/7119077/emoticon0
-3978 (%uef8a): bind <your_key> "say " - :fandom_ALA_8_1: teamfancontent/season_8/7119077/emoticon1
-3979 (%uef8b): bind <your_key> "say " - :fandom_ALA_8_2: teamfancontent/season_8/7119077/emoticon2
-3980 (%uef8c): bind <your_key> "say " - :fandom_BOOM_8_3: teamfancontent/season_8/7732977/emoticon3
-3981 (%uef8d): bind <your_key> "say " - :fandom_BOOM_8_6: teamfancontent/season_8/7732977/emoticon6
-3982 (%uef8e): bind <your_key> "say " - :fandom_BOOM_8_7: teamfancontent/season_8/7732977/emoticon7
-3983 (%uef8f): bind <your_key> "say " - :fandom_MK_8_0: teamfancontent/season_8/8740097/emoticon0
-3984 (%uef90): bind <your_key> "say " - :fandom_MK_8_1: teamfancontent/season_8/8740097/emoticon1
-3985 (%uef91): bind <your_key> "say " - :fandom_MK_8_2: teamfancontent/season_8/8740097/emoticon2
-3986 (%uef92): bind <your_key> "say " - :fandom_IG_8_1: teamfancontent/season_8/5/emoticon1
-3987 (%uef93): bind <your_key> "say " - :fandom_IG_8_2: teamfancontent/season_8/5/emoticon2
-3988 (%uef94): bind <your_key> "say " - :fandom_IG_8_3: teamfancontent/season_8/5/emoticon3
-3989 (%uef95): bind <your_key> "say " - :fandom_BLR_8_4: teamfancontent/season_8/8668460/emoticon4
-3990 (%uef96): bind <your_key> "say " - :fandom_BLR_8_5: teamfancontent/season_8/8668460/emoticon5
-3991 (%uef97): bind <your_key> "say " - :fandom_BLR_8_7: teamfancontent/season_8/8668460/emoticon7
-3992 (%uef98): bind <your_key> "say " - :fandom_XG_8_1: teamfancontent/season_8/8261500/emoticon1
-3993 (%uef99): bind <your_key> "say " - :fandom_XG_8_2: teamfancontent/season_8/8261500/emoticon2
-3994 (%uef9a): bind <your_key> "say " - :fandom_XG_8_6: teamfancontent/season_8/8261500/emoticon6
-3995 (%uef9b): bind <your_key> "say " - :fandom_VG_8_0: teamfancontent/season_8/726228/emoticon0
-3996 (%uef9c): bind <your_key> "say " - :fandom_VG_8_1: teamfancontent/season_8/726228/emoticon1
-3997 (%uef9d): bind <your_key> "say " - :fandom_VG_8_2: teamfancontent/season_8/726228/emoticon2
-3998 (%uef9e): bind <your_key> "say " - :fandom_Xerx_8_0: teamfancontent/season_8/8736661/emoticon0
-3999 (%uef9f): bind <your_key> "say " - :fandom_Xerx_8_2: teamfancontent/season_8/8736661/emoticon2
-4000 (%uefa0): bind <your_key> "say " - :fandom_Xerx_8_1: teamfancontent/season_8/8736661/emoticon1
-4001 (%uefa1): bind <your_key> "say " - :fandom_ANT_8_1: teamfancontent/season_8/8230115/emoticon1
-4002 (%uefa2): bind <your_key> "say " - :fandom_ANT_8_4: teamfancontent/season_8/8230115/emoticon4
-4003 (%uefa3): bind <your_key> "say " - :fandom_ANT_8_5: teamfancontent/season_8/8230115/emoticon5
-4004 (%uefa4): bind <your_key> "say " - :fandom_WRE_8_0: teamfancontent/season_8/8733722/emoticon0
-4005 (%uefa5): bind <your_key> "say " - :fandom_WRE_8_1: teamfancontent/season_8/8733722/emoticon1
-4006 (%uefa6): bind <your_key> "say " - :fandom_WRE_8_2: teamfancontent/season_8/8733722/emoticon2
-4007 (%uefa7): bind <your_key> "say " - :fandom_HR_8_0: teamfancontent/season_8/7422789/emoticon0
-4008 (%uefa8): bind <your_key> "say " - :fandom_HR_8_1: teamfancontent/season_8/7422789/emoticon1
-4009 (%uefa9): bind <your_key> "say " - :fandom_HR_8_2: teamfancontent/season_8/7422789/emoticon2
-4010 (%uefaa): bind <your_key> "say " - :fandom_MAG_8_0: teamfancontent/season_8/8944302/emoticon0
-4011 (%uefab): bind <your_key> "say " - :fandom_MAG_8_2: teamfancontent/season_8/8944302/emoticon2
-4012 (%uefac): bind <your_key> "say " - :fandom_MAG_8_6: teamfancontent/season_8/8944302/emoticon6
-4013 (%uefad): bind <your_key> "say " - :fandom_ATT_8_0: teamfancontent/season_8/8687717/emoticon0
-4014 (%uefae): bind <your_key> "say " - :fandom_ATT_8_1: teamfancontent/season_8/8687717/emoticon1
-4015 (%uefaf): bind <your_key> "say " - :fandom_ATT_8_2: teamfancontent/season_8/8687717/emoticon2
-4016 (%uefb0): bind <your_key> "say " - :fandom_IVY_8_0: teamfancontent/season_8/8318683/emoticon0
-4017 (%uefb1): bind <your_key> "say " - :fandom_IVY_8_1: teamfancontent/season_8/8318683/emoticon1
-4018 (%uefb2): bind <your_key> "say " - :fandom_IVY_8_2: teamfancontent/season_8/8318683/emoticon2
-4019 (%uefb3): bind <your_key> "say " - :fandom_WC_8_0: teamfancontent/season_8/8606828/emoticon0
-4020 (%uefb4): bind <your_key> "say " - :fandom_WC_8_1: teamfancontent/season_8/8606828/emoticon1
-4021 (%uefb5): bind <your_key> "say " - :fandom_WC_8_2: teamfancontent/season_8/8606828/emoticon2
-4022 (%uefb6): bind <your_key> "say " - :fandom_Dog_8_0: teamfancontent/season_8/8604954/emoticon0
-4023 (%uefb7): bind <your_key> "say " - :fandom_Dog_8_1: teamfancontent/season_8/8604954/emoticon1
-4024 (%uefb8): bind <your_key> "say " - :fandom_Dog_8_3: teamfancontent/season_8/8604954/emoticon3
-4025 (%uefb9): bind <your_key> "say " - :fandom_SEC_8_0: teamfancontent/season_8/1838315/emoticon0
-4026 (%uefba): bind <your_key> "say " - :fandom_SEC_8_1: teamfancontent/season_8/1838315/emoticon1
-4027 (%uefbb): bind <your_key> "say " - :fandom_SEC_8_3: teamfancontent/season_8/1838315/emoticon3
-4028 (%uefbc): bind <your_key> "say " - :fandom_QHI_8_0: teamfancontent/season_8/8702318/emoticon0
-4029 (%uefbd): bind <your_key> "say " - :fandom_QHI_8_1: teamfancontent/season_8/8702318/emoticon1
-4030 (%uefbe): bind <your_key> "say " - :fandom_QHI_8_2: teamfancontent/season_8/8702318/emoticon2
-4031 (%uefbf): bind <your_key> "say " - :fandom_GS_8_0: teamfancontent/season_8/8169775/emoticon0
-4032 (%uefc0): bind <your_key> "say " - :fandom_GS_8_1: teamfancontent/season_8/8169775/emoticon1
-4033 (%uefc1): bind <your_key> "say " - :fandom_GS_8_2: teamfancontent/season_8/8169775/emoticon2
-4034 (%uefc2): bind <your_key> "say " - :fandom_BLRG_8_0: teamfancontent/season_8/8856662/emoticon0
-4035 (%uefc3): bind <your_key> "say " - :fandom_BLRG_8_1: teamfancontent/season_8/8856662/emoticon1
-4036 (%uefc4): bind <your_key> "say " - :fandom_BLRG_8_2: teamfancontent/season_8/8856662/emoticon2
-4037 (%uefc5): bind <your_key> "say " - :fandom_SMG_8_0: teamfancontent/season_8/8244493/emoticon0
-4038 (%uefc6): bind <your_key> "say " - :fandom_SMG_8_2: teamfancontent/season_8/8244493/emoticon2
-4039 (%uefc7): bind <your_key> "say " - :fandom_SMG_8_3: teamfancontent/season_8/8244493/emoticon3
-4040 (%uefc8): bind <your_key> "say " - :fandom_NEM_8_0: teamfancontent/season_8/5014799/emoticon0
-4041 (%uefc9): bind <your_key> "say " - :fandom_NEM_8_1: teamfancontent/season_8/5014799/emoticon1
-4042 (%uefca): bind <your_key> "say " - :fandom_NEM_8_2: teamfancontent/season_8/5014799/emoticon2
-4043 (%uefcb): bind <your_key> "say " - :fandom_VKS_8_0: teamfancontent/season_8/1061269/emoticon0
-4044 (%uefcc): bind <your_key> "say " - :fandom_VKS_8_1: teamfancontent/season_8/1061269/emoticon1
-4045 (%uefcd): bind <your_key> "say " - :fandom_VKS_8_2: teamfancontent/season_8/1061269/emoticon2
-4046 (%uefce): bind <your_key> "say " - :fandom_FELT_8_0: teamfancontent/season_8/8261882/emoticon0
-4047 (%uefcf): bind <your_key> "say " - :fandom_FELT_8_1: teamfancontent/season_8/8261882/emoticon1
-4048 (%uefd0): bind <your_key> "say " - :fandom_FELT_8_2: teamfancontent/season_8/8261882/emoticon2
-4049 (%uefd1): bind <your_key> "say " - :fandom_D2H_8_0: teamfancontent/season_8/8597391/emoticon0
-4050 (%uefd2): bind <your_key> "say " - :fandom_D2H_8_1: teamfancontent/season_8/8597391/emoticon1
-4051 (%uefd3): bind <your_key> "say " - :fandom_D2H_8_2: teamfancontent/season_8/8597391/emoticon2
-4052 (%uefd4): bind <your_key> "say " - :fandom_DS_8_0: teamfancontent/season_8/8944440/emoticon0
-4053 (%uefd5): bind <your_key> "say " - :fandom_DS_8_1: teamfancontent/season_8/8944440/emoticon1
-4054 (%uefd6): bind <your_key> "say " - :fandom_DS_8_2: teamfancontent/season_8/8944440/emoticon2
-4055 (%uefd7): bind <your_key> "say " - :fandom_VP_8_0: teamfancontent/season_8/8724984/emoticon0
-4056 (%uefd8): bind <your_key> "say " - :fandom_VP_8_2: teamfancontent/season_8/8724984/emoticon2
-4057 (%uefd9): bind <your_key> "say " - :fandom_VP_8_4: teamfancontent/season_8/8724984/emoticon4
-4058 (%uefda): bind <your_key> "say " - :fandom_SPWN_8_0: teamfancontent/season_8/8863825/emoticon0
-4059 (%uefdb): bind <your_key> "say " - :fandom_SPWN_8_1: teamfancontent/season_8/8863825/emoticon1
-4060 (%uefdc): bind <your_key> "say " - :fandom_SPWN_8_2: teamfancontent/season_8/8863825/emoticon2
-4061 (%uefdd): bind <your_key> "say " - :fandom_PLR_8_0: teamfancontent/season_8/8525778/emoticon0
-4062 (%uefde): bind <your_key> "say " - :fandom_PLR_8_2: teamfancontent/season_8/8525778/emoticon2
-4063 (%uefdf): bind <your_key> "say " - :fandom_PLR_8_5: teamfancontent/season_8/8525778/emoticon5
-4064 (%uefe0): bind <your_key> "say " - :fandom_TLN_8_0: teamfancontent/season_8/8597976/emoticon0
-4065 (%uefe1): bind <your_key> "say " - :fandom_TLN_8_3: teamfancontent/season_8/8597976/emoticon3
-4066 (%uefe2): bind <your_key> "say " - :fandom_TLN_8_4: teamfancontent/season_8/8597976/emoticon4
-4067 (%uefe3): bind <your_key> "say " - :fandom_CDUB_8_0: teamfancontent/season_8/8686313/emoticon0
-4068 (%uefe4): bind <your_key> "say " - :fandom_CDUB_8_1: teamfancontent/season_8/8686313/emoticon1
-4069 (%uefe5): bind <your_key> "say " - :fandom_CDUB_8_2: teamfancontent/season_8/8686313/emoticon2
-4070 (%uefe6): bind <your_key> "say " - :fandom_5RF_8_0: teamfancontent/season_8/8607159/emoticon0
-4071 (%uefe7): bind <your_key> "say " - :fandom_5RF_8_4: teamfancontent/season_8/8607159/emoticon4
-4072 (%uefe8): bind <your_key> "say " - :fandom_5RF_8_5: teamfancontent/season_8/8607159/emoticon5
-4073 (%uefe9): bind <your_key> "say " - :fandom_ITB_8_0: teamfancontent/season_8/8390848/emoticon0
-4074 (%uefea): bind <your_key> "say " - :fandom_ITB_8_1: teamfancontent/season_8/8390848/emoticon1
-4075 (%uefeb): bind <your_key> "say " - :fandom_ITB_8_3: teamfancontent/season_8/8390848/emoticon3
-4076 (%uefec): bind <your_key> "say " - :fandom_OVS_8_1: teamfancontent/season_8/7390454/emoticon1
-4077 (%uefed): bind <your_key> "say " - :fandom_OVS_8_3: teamfancontent/season_8/7390454/emoticon3
-4078 (%uefee): bind <your_key> "say " - :fandom_OVS_8_4: teamfancontent/season_8/7390454/emoticon4
-4079 (%uefef): bind <your_key> "say " - :fandom_TC_8_0: teamfancontent/season_8/8205424/emoticon0
-4080 (%ueff0): bind <your_key> "say " - :fandom_TC_8_1: teamfancontent/season_8/8205424/emoticon1
-4081 (%ueff1): bind <your_key> "say " - :fandom_TC_8_2: teamfancontent/season_8/8205424/emoticon2
-4082 (%ueff2): bind <your_key> "say " - :fandom_XCT_8_0: teamfancontent/season_8/8254145/emoticon0
-4083 (%ueff3): bind <your_key> "say " - :fandom_XCT_8_1: teamfancontent/season_8/8254145/emoticon1
-4084 (%ueff4): bind <your_key> "say " - :fandom_XCT_8_2: teamfancontent/season_8/8254145/emoticon2
-4085 (%ueff5): bind <your_key> "say " - :fandom_TUN_8_0: teamfancontent/season_8/8291895/emoticon0
-4086 (%ueff6): bind <your_key> "say " - :fandom_TUN_8_1: teamfancontent/season_8/8291895/emoticon1
-4087 (%ueff7): bind <your_key> "say " - :fandom_TUN_8_2: teamfancontent/season_8/8291895/emoticon2
-4088 (%ueff8): bind <your_key> "say " - :fandom_INF_8_0: teamfancontent/season_8/2672298/emoticon0
-4089 (%ueff9): bind <your_key> "say " - :fandom_INF_8_1: teamfancontent/season_8/2672298/emoticon1
-4090 (%ueffa): bind <your_key> "say " - :fandom_INF_8_2: teamfancontent/season_8/2672298/emoticon2
-4091 (%ueffb): bind <your_key> "say " - :fandom_RAV_8_0: teamfancontent/season_8/8686786/emoticon0
-4092 (%ueffc): bind <your_key> "say " - :fandom_RAV_8_1: teamfancontent/season_8/8686786/emoticon1
-4093 (%ueffd): bind <your_key> "say " - :fandom_RAV_8_2: teamfancontent/season_8/8686786/emoticon2
-4094 (%ueffe): bind <your_key> "say " - :fandom_EG_8_0: teamfancontent/season_8/8255756/emoticon0
-4095 (%uefff): bind <your_key> "say " - :fandom_EG_8_1: teamfancontent/season_8/8255756/emoticon1
-4096 (%uf000): bind <your_key> "say " - :fandom_EG_8_2: teamfancontent/season_8/8255756/emoticon2
-4097 (%uf001): bind <your_key> "say " - :fandom_NS_8_0: teamfancontent/season_8/8616073/emoticon0
-4098 (%uf002): bind <your_key> "say " - :fandom_NS_8_3: teamfancontent/season_8/8616073/emoticon3
-4099 (%uf003): bind <your_key> "say " - :fandom_NS_8_5: teamfancontent/season_8/8616073/emoticon5
-4100 (%uf004): bind <your_key> "say " - :fandom_NAVI_8_0: teamfancontent/season_8/36/emoticon0
-4101 (%uf005): bind <your_key> "say " - :fandom_NAVI_8_1: teamfancontent/season_8/36/emoticon1
-4102 (%uf006): bind <your_key> "say " - :fandom_NAVI_8_2: teamfancontent/season_8/36/emoticon2
-4103 (%uf007): bind <your_key> "say " - :fandom_B8_8_0: teamfancontent/season_8/8376426/emoticon0
-4104 (%uf008): bind <your_key> "say " - :fandom_B8_8_1: teamfancontent/season_8/8376426/emoticon1
-4105 (%uf009): bind <your_key> "say " - :fandom_B8_8_2: teamfancontent/season_8/8376426/emoticon2
-4106 (%uf00a): bind <your_key> "say " - :fandom_NVjr_8_0: teamfancontent/season_8/9017006/emoticon0
-4107 (%uf00b): bind <your_key> "say " - :fandom_NVjr_8_1: teamfancontent/season_8/9017006/emoticon1
-4108 (%uf00c): bind <your_key> "say " - :fandom_NVjr_8_2: teamfancontent/season_8/9017006/emoticon2
-4109 (%uf00d): bind <your_key> "say " - :fandom_THU_8_0: teamfancontent/season_8/7391077/emoticon0
-4110 (%uf00e): bind <your_key> "say " - :fandom_THU_8_1: teamfancontent/season_8/7391077/emoticon1
-4111 (%uf00f): bind <your_key> "say " - :fandom_THU_8_2: teamfancontent/season_8/7391077/emoticon2
-4112 (%uf010): bind <your_key> "say " - :fandom_TB_8_0: teamfancontent/season_8/7584152/emoticon0
-4113 (%uf011): bind <your_key> "say " - :fandom_TB_8_1: teamfancontent/season_8/7584152/emoticon1
-4114 (%uf012): bind <your_key> "say " - :fandom_TB_8_2: teamfancontent/season_8/7584152/emoticon2
-4115 (%uf013): bind <your_key> "say " - :fandom_SKG_8_0: teamfancontent/season_8/7626304/emoticon0
-4116 (%uf014): bind <your_key> "say " - :fandom_SKG_8_1: teamfancontent/season_8/7626304/emoticon1
-4117 (%uf015): bind <your_key> "say " - :fandom_SKG_8_2: teamfancontent/season_8/7626304/emoticon2
-4118 (%uf016): bind <your_key> "say " - :fandom_OLG_8_0: teamfancontent/season_8/8944337/emoticon0
-4119 (%uf017): bind <your_key> "say " - :fandom_OLG_8_1: teamfancontent/season_8/8944337/emoticon1
-4120 (%uf018): bind <your_key> "say " - :fandom_OLG_8_2: teamfancontent/season_8/8944337/emoticon2
+3926 (%uef56): bind <your_key> "say "
+3927 (%uef57): bind <your_key> "say "
+3928 (%uef58): bind <your_key> "say "
+3929 (%uef59): bind <your_key> "say "
+3930 (%uef5a): bind <your_key> "say "
+3931 (%uef5b): bind <your_key> "say "
+3932 (%uef5c): bind <your_key> "say "
+3933 (%uef5d): bind <your_key> "say "
+3934 (%uef5e): bind <your_key> "say "
+3935 (%uef5f): bind <your_key> "say "
+3936 (%uef60): bind <your_key> "say "
+3937 (%uef61): bind <your_key> "say "
+3938 (%uef62): bind <your_key> "say "
+3939 (%uef63): bind <your_key> "say "
+3940 (%uef64): bind <your_key> "say "
+3941 (%uef65): bind <your_key> "say "
+3942 (%uef66): bind <your_key> "say "
+3943 (%uef67): bind <your_key> "say "
+3944 (%uef68): bind <your_key> "say "
+3945 (%uef69): bind <your_key> "say "
+3946 (%uef6a): bind <your_key> "say "
+3947 (%uef6b): bind <your_key> "say "
+3948 (%uef6c): bind <your_key> "say "
+3949 (%uef6d): bind <your_key> "say "
+3950 (%uef6e): bind <your_key> "say "
+3951 (%uef6f): bind <your_key> "say "
+3952 (%uef70): bind <your_key> "say "
+3953 (%uef71): bind <your_key> "say "
+3954 (%uef72): bind <your_key> "say "
+3955 (%uef73): bind <your_key> "say "
+3956 (%uef74): bind <your_key> "say "
+3957 (%uef75): bind <your_key> "say "
+3958 (%uef76): bind <your_key> "say "
+3959 (%uef77): bind <your_key> "say "
+3960 (%uef78): bind <your_key> "say "
+3961 (%uef79): bind <your_key> "say "
+3962 (%uef7a): bind <your_key> "say "
+3963 (%uef7b): bind <your_key> "say "
+3964 (%uef7c): bind <your_key> "say "
+3965 (%uef7d): bind <your_key> "say "
+3966 (%uef7e): bind <your_key> "say "
+3967 (%uef7f): bind <your_key> "say "
+3968 (%uef80): bind <your_key> "say "
+3969 (%uef81): bind <your_key> "say "
+3970 (%uef82): bind <your_key> "say "
+3971 (%uef83): bind <your_key> "say "
+3972 (%uef84): bind <your_key> "say "
+3973 (%uef85): bind <your_key> "say "
+3974 (%uef86): bind <your_key> "say "
+3975 (%uef87): bind <your_key> "say "
+3976 (%uef88): bind <your_key> "say "
+3977 (%uef89): bind <your_key> "say "
+3978 (%uef8a): bind <your_key> "say "
+3979 (%uef8b): bind <your_key> "say "
+3980 (%uef8c): bind <your_key> "say "
+3981 (%uef8d): bind <your_key> "say "
+3982 (%uef8e): bind <your_key> "say "
+3983 (%uef8f): bind <your_key> "say "
+3984 (%uef90): bind <your_key> "say "
+3985 (%uef91): bind <your_key> "say "
+3986 (%uef92): bind <your_key> "say "
+3987 (%uef93): bind <your_key> "say "
+3988 (%uef94): bind <your_key> "say "
+3989 (%uef95): bind <your_key> "say "
+3990 (%uef96): bind <your_key> "say "
+3991 (%uef97): bind <your_key> "say "
+3992 (%uef98): bind <your_key> "say "
+3993 (%uef99): bind <your_key> "say "
+3994 (%uef9a): bind <your_key> "say "
+3995 (%uef9b): bind <your_key> "say "
+3996 (%uef9c): bind <your_key> "say "
+3997 (%uef9d): bind <your_key> "say "
+3998 (%uef9e): bind <your_key> "say "
+3999 (%uef9f): bind <your_key> "say "
+4000 (%uefa0): bind <your_key> "say "
+4001 (%uefa1): bind <your_key> "say "
+4002 (%uefa2): bind <your_key> "say "
+4003 (%uefa3): bind <your_key> "say "
+4004 (%uefa4): bind <your_key> "say "
+4005 (%uefa5): bind <your_key> "say "
+4006 (%uefa6): bind <your_key> "say "
+4007 (%uefa7): bind <your_key> "say "
+4008 (%uefa8): bind <your_key> "say "
+4009 (%uefa9): bind <your_key> "say "
+4010 (%uefaa): bind <your_key> "say "
+4011 (%uefab): bind <your_key> "say "
+4012 (%uefac): bind <your_key> "say "
+4013 (%uefad): bind <your_key> "say "
+4014 (%uefae): bind <your_key> "say "
+4015 (%uefaf): bind <your_key> "say "
+4016 (%uefb0): bind <your_key> "say "
+4017 (%uefb1): bind <your_key> "say "
+4018 (%uefb2): bind <your_key> "say "
+4019 (%uefb3): bind <your_key> "say "
+4020 (%uefb4): bind <your_key> "say "
+4021 (%uefb5): bind <your_key> "say "
+4022 (%uefb6): bind <your_key> "say "
+4023 (%uefb7): bind <your_key> "say "
+4024 (%uefb8): bind <your_key> "say "
+4025 (%uefb9): bind <your_key> "say "
+4026 (%uefba): bind <your_key> "say "
+4027 (%uefbb): bind <your_key> "say "
+4028 (%uefbc): bind <your_key> "say "
+4029 (%uefbd): bind <your_key> "say "
+4030 (%uefbe): bind <your_key> "say "
+4031 (%uefbf): bind <your_key> "say "
+4032 (%uefc0): bind <your_key> "say "
+4033 (%uefc1): bind <your_key> "say "
+4034 (%uefc2): bind <your_key> "say "
+4035 (%uefc3): bind <your_key> "say "
+4036 (%uefc4): bind <your_key> "say "
+4037 (%uefc5): bind <your_key> "say "
+4038 (%uefc6): bind <your_key> "say "
+4039 (%uefc7): bind <your_key> "say "
+4040 (%uefc8): bind <your_key> "say "
+4041 (%uefc9): bind <your_key> "say "
+4042 (%uefca): bind <your_key> "say "
+4043 (%uefcb): bind <your_key> "say "
+4044 (%uefcc): bind <your_key> "say "
+4045 (%uefcd): bind <your_key> "say "
+4046 (%uefce): bind <your_key> "say "
+4047 (%uefcf): bind <your_key> "say "
+4048 (%uefd0): bind <your_key> "say "
+4049 (%uefd1): bind <your_key> "say "
+4050 (%uefd2): bind <your_key> "say "
+4051 (%uefd3): bind <your_key> "say "
+4052 (%uefd4): bind <your_key> "say "
+4053 (%uefd5): bind <your_key> "say "
+4054 (%uefd6): bind <your_key> "say "
+4055 (%uefd7): bind <your_key> "say "
+4056 (%uefd8): bind <your_key> "say "
+4057 (%uefd9): bind <your_key> "say "
+4058 (%uefda): bind <your_key> "say "
+4059 (%uefdb): bind <your_key> "say "
+4060 (%uefdc): bind <your_key> "say "
+4061 (%uefdd): bind <your_key> "say "
+4062 (%uefde): bind <your_key> "say "
+4063 (%uefdf): bind <your_key> "say "
+4064 (%uefe0): bind <your_key> "say "
+4065 (%uefe1): bind <your_key> "say "
+4066 (%uefe2): bind <your_key> "say "
+4067 (%uefe3): bind <your_key> "say "
+4068 (%uefe4): bind <your_key> "say "
+4069 (%uefe5): bind <your_key> "say "
+4070 (%uefe6): bind <your_key> "say "
+4071 (%uefe7): bind <your_key> "say "
+4072 (%uefe8): bind <your_key> "say "
+4073 (%uefe9): bind <your_key> "say "
+4074 (%uefea): bind <your_key> "say "
+4075 (%uefeb): bind <your_key> "say "
+4076 (%uefec): bind <your_key> "say "
+4077 (%uefed): bind <your_key> "say "
+4078 (%uefee): bind <your_key> "say "
+4079 (%uefef): bind <your_key> "say "
+4080 (%ueff0): bind <your_key> "say "
+4081 (%ueff1): bind <your_key> "say "
+4082 (%ueff2): bind <your_key> "say "
+4083 (%ueff3): bind <your_key> "say "
+4084 (%ueff4): bind <your_key> "say "
+4085 (%ueff5): bind <your_key> "say "
+4086 (%ueff6): bind <your_key> "say "
+4087 (%ueff7): bind <your_key> "say "
+4088 (%ueff8): bind <your_key> "say "
+4089 (%ueff9): bind <your_key> "say "
+4090 (%ueffa): bind <your_key> "say "
+4091 (%ueffb): bind <your_key> "say "
+4092 (%ueffc): bind <your_key> "say "
+4093 (%ueffd): bind <your_key> "say "
+4094 (%ueffe): bind <your_key> "say "
+4095 (%uefff): bind <your_key> "say "
+4096 (%uf000): bind <your_key> "say "
+4097 (%uf001): bind <your_key> "say "
+4098 (%uf002): bind <your_key> "say "
+4099 (%uf003): bind <your_key> "say "
+4100 (%uf004): bind <your_key> "say "
+4101 (%uf005): bind <your_key> "say "
+4102 (%uf006): bind <your_key> "say "
+4103 (%uf007): bind <your_key> "say "
+4104 (%uf008): bind <your_key> "say "
+4105 (%uf009): bind <your_key> "say "
+4106 (%uf00a): bind <your_key> "say "
+4107 (%uf00b): bind <your_key> "say "
+4108 (%uf00c): bind <your_key> "say "
+4109 (%uf00d): bind <your_key> "say "
+4110 (%uf00e): bind <your_key> "say "
+4111 (%uf00f): bind <your_key> "say "
+4112 (%uf010): bind <your_key> "say "
+4113 (%uf011): bind <your_key> "say "
+4114 (%uf012): bind <your_key> "say "
+4115 (%uf013): bind <your_key> "say "
+4116 (%uf014): bind <your_key> "say "
+4117 (%uf015): bind <your_key> "say "
+4118 (%uf016): bind <your_key> "say "
+4119 (%uf017): bind <your_key> "say "
+4120 (%uf018): bind <your_key> "say "
 4121 (%uf019): bind <your_key> "say "
 4122 (%uf01a): bind <your_key> "say "
 4123 (%uf01b): bind <your_key> "say "
