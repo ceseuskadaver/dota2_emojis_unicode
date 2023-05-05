@@ -1,308 +1,308 @@
-1 (%ue001): bind <your_key> "say "
-2 (%ue002): bind <your_key> "say "
-3 (%ue003): bind <your_key> "say "
-4 (%ue004): bind <your_key> "say "
-5 (%ue005): bind <your_key> "say "
-6 (%ue006): bind <your_key> "say "
-7 (%ue007): bind <your_key> "say "
-8 (%ue008): bind <your_key> "say "
-9 (%ue009): bind <your_key> "say "
-10 (%ue00a): bind <your_key> "say "
-11 (%ue00b): bind <your_key> "say "
-12 (%ue00c): bind <your_key> "say "
-13 (%ue00d): bind <your_key> "say "
-14 (%ue00e): bind <your_key> "say "
-15 (%ue00f): bind <your_key> "say "
-16 (%ue010): bind <your_key> "say "
-17 (%ue011): bind <your_key> "say "
-18 (%ue012): bind <your_key> "say "
-19 (%ue013): bind <your_key> "say "
-20 (%ue014): bind <your_key> "say "
-21 (%ue015): bind <your_key> "say "
-22 (%ue016): bind <your_key> "say "
-23 (%ue017): bind <your_key> "say "
-24 (%ue018): bind <your_key> "say "
-25 (%ue019): bind <your_key> "say "
-26 (%ue01a): bind <your_key> "say "
-27 (%ue01b): bind <your_key> "say "
-28 (%ue01c): bind <your_key> "say "
-29 (%ue01d): bind <your_key> "say "
-30 (%ue01e): bind <your_key> "say "
-31 (%ue01f): bind <your_key> "say "
-32 (%ue020): bind <your_key> "say "
-33 (%ue021): bind <your_key> "say "
-34 (%ue022): bind <your_key> "say "
-35 (%ue023): bind <your_key> "say "
-36 (%ue024): bind <your_key> "say "
-37 (%ue025): bind <your_key> "say "
-38 (%ue026): bind <your_key> "say "
-39 (%ue027): bind <your_key> "say "
-40 (%ue028): bind <your_key> "say "
-41 (%ue029): bind <your_key> "say "
-42 (%ue02a): bind <your_key> "say "
-43 (%ue02b): bind <your_key> "say "
-44 (%ue02c): bind <your_key> "say "
-45 (%ue02d): bind <your_key> "say "
-46 (%ue02e): bind <your_key> "say "
-47 (%ue02f): bind <your_key> "say "
-48 (%ue030): bind <your_key> "say "
-49 (%ue031): bind <your_key> "say "
-50 (%ue032): bind <your_key> "say "
-51 (%ue033): bind <your_key> "say "
-52 (%ue034): bind <your_key> "say "
-53 (%ue035): bind <your_key> "say "
-54 (%ue036): bind <your_key> "say "
-55 (%ue037): bind <your_key> "say "
-56 (%ue038): bind <your_key> "say "
-57 (%ue039): bind <your_key> "say "
-58 (%ue03a): bind <your_key> "say "
-59 (%ue03b): bind <your_key> "say "
-60 (%ue03c): bind <your_key> "say "
-61 (%ue03d): bind <your_key> "say "
-62 (%ue03e): bind <your_key> "say "
-63 (%ue03f): bind <your_key> "say "
-64 (%ue040): bind <your_key> "say "
-65 (%ue041): bind <your_key> "say "
-66 (%ue042): bind <your_key> "say "
-67 (%ue043): bind <your_key> "say "
-68 (%ue044): bind <your_key> "say "
-69 (%ue045): bind <your_key> "say "
-70 (%ue046): bind <your_key> "say "
-71 (%ue047): bind <your_key> "say "
-72 (%ue048): bind <your_key> "say "
-73 (%ue049): bind <your_key> "say "
-74 (%ue04a): bind <your_key> "say "
-75 (%ue04b): bind <your_key> "say "
-76 (%ue04c): bind <your_key> "say "
-77 (%ue04d): bind <your_key> "say "
-78 (%ue04e): bind <your_key> "say "
-79 (%ue04f): bind <your_key> "say "
-80 (%ue050): bind <your_key> "say "
-81 (%ue051): bind <your_key> "say "
-82 (%ue052): bind <your_key> "say "
-83 (%ue053): bind <your_key> "say "
-84 (%ue054): bind <your_key> "say "
-85 (%ue055): bind <your_key> "say "
-86 (%ue056): bind <your_key> "say "
-87 (%ue057): bind <your_key> "say "
-88 (%ue058): bind <your_key> "say "
-89 (%ue059): bind <your_key> "say "
-90 (%ue05a): bind <your_key> "say "
-91 (%ue05b): bind <your_key> "say "
-92 (%ue05c): bind <your_key> "say "
-93 (%ue05d): bind <your_key> "say "
-94 (%ue05e): bind <your_key> "say "
-95 (%ue05f): bind <your_key> "say "
-96 (%ue060): bind <your_key> "say "
-97 (%ue061): bind <your_key> "say "
-98 (%ue062): bind <your_key> "say "
-99 (%ue063): bind <your_key> "say "
-100 (%ue064): bind <your_key> "say "
-101 (%ue065): bind <your_key> "say "
-102 (%ue066): bind <your_key> "say "
-103 (%ue067): bind <your_key> "say "
-104 (%ue068): bind <your_key> "say "
-105 (%ue069): bind <your_key> "say "
-106 (%ue06a): bind <your_key> "say "
-107 (%ue06b): bind <your_key> "say "
-108 (%ue06c): bind <your_key> "say "
-109 (%ue06d): bind <your_key> "say "
-110 (%ue06e): bind <your_key> "say "
-111 (%ue06f): bind <your_key> "say "
-112 (%ue070): bind <your_key> "say "
-113 (%ue071): bind <your_key> "say "
-114 (%ue072): bind <your_key> "say "
-115 (%ue073): bind <your_key> "say "
-116 (%ue074): bind <your_key> "say "
-117 (%ue075): bind <your_key> "say "
-118 (%ue076): bind <your_key> "say "
-119 (%ue077): bind <your_key> "say "
-120 (%ue078): bind <your_key> "say "
-121 (%ue079): bind <your_key> "say "
-122 (%ue07a): bind <your_key> "say "
-123 (%ue07b): bind <your_key> "say "
-124 (%ue07c): bind <your_key> "say "
-125 (%ue07d): bind <your_key> "say "
-126 (%ue07e): bind <your_key> "say "
-127 (%ue07f): bind <your_key> "say "
-128 (%ue080): bind <your_key> "say "
-129 (%ue081): bind <your_key> "say "
-130 (%ue082): bind <your_key> "say "
-131 (%ue083): bind <your_key> "say "
-132 (%ue084): bind <your_key> "say "
-133 (%ue085): bind <your_key> "say "
-134 (%ue086): bind <your_key> "say "
-135 (%ue087): bind <your_key> "say "
-136 (%ue088): bind <your_key> "say "
-137 (%ue089): bind <your_key> "say "
-138 (%ue08a): bind <your_key> "say "
-139 (%ue08b): bind <your_key> "say "
-140 (%ue08c): bind <your_key> "say "
-141 (%ue08d): bind <your_key> "say "
-142 (%ue08e): bind <your_key> "say "
-143 (%ue08f): bind <your_key> "say "
-144 (%ue090): bind <your_key> "say "
-145 (%ue091): bind <your_key> "say "
-146 (%ue092): bind <your_key> "say "
-147 (%ue093): bind <your_key> "say "
-148 (%ue094): bind <your_key> "say "
-149 (%ue095): bind <your_key> "say "
-150 (%ue096): bind <your_key> "say "
-151 (%ue097): bind <your_key> "say "
-152 (%ue098): bind <your_key> "say "
-153 (%ue099): bind <your_key> "say "
-154 (%ue09a): bind <your_key> "say "
-155 (%ue09b): bind <your_key> "say "
-156 (%ue09c): bind <your_key> "say "
-157 (%ue09d): bind <your_key> "say "
-158 (%ue09e): bind <your_key> "say "
-159 (%ue09f): bind <your_key> "say "
-160 (%ue0a0): bind <your_key> "say "
-161 (%ue0a1): bind <your_key> "say "
-162 (%ue0a2): bind <your_key> "say "
-163 (%ue0a3): bind <your_key> "say "
-164 (%ue0a4): bind <your_key> "say "
-165 (%ue0a5): bind <your_key> "say "
-166 (%ue0a6): bind <your_key> "say "
-167 (%ue0a7): bind <your_key> "say "
-168 (%ue0a8): bind <your_key> "say "
-169 (%ue0a9): bind <your_key> "say "
-170 (%ue0aa): bind <your_key> "say "
-171 (%ue0ab): bind <your_key> "say "
-172 (%ue0ac): bind <your_key> "say "
-173 (%ue0ad): bind <your_key> "say "
-174 (%ue0ae): bind <your_key> "say "
-175 (%ue0af): bind <your_key> "say "
-176 (%ue0b0): bind <your_key> "say "
-177 (%ue0b1): bind <your_key> "say "
-178 (%ue0b2): bind <your_key> "say "
-179 (%ue0b3): bind <your_key> "say "
-180 (%ue0b4): bind <your_key> "say "
-181 (%ue0b5): bind <your_key> "say "
-182 (%ue0b6): bind <your_key> "say "
-183 (%ue0b7): bind <your_key> "say "
-184 (%ue0b8): bind <your_key> "say "
-185 (%ue0b9): bind <your_key> "say "
-186 (%ue0ba): bind <your_key> "say "
-187 (%ue0bb): bind <your_key> "say "
-188 (%ue0bc): bind <your_key> "say "
-189 (%ue0bd): bind <your_key> "say "
-190 (%ue0be): bind <your_key> "say "
-191 (%ue0bf): bind <your_key> "say "
-192 (%ue0c0): bind <your_key> "say "
-193 (%ue0c1): bind <your_key> "say "
-194 (%ue0c2): bind <your_key> "say "
-195 (%ue0c3): bind <your_key> "say "
-196 (%ue0c4): bind <your_key> "say "
+1 (%ue001): bind <your_key> "say " - :wink:
+2 (%ue002): bind <your_key> "say " - :blush:
+3 (%ue003): bind <your_key> "say " - :cheeky:
+4 (%ue004): bind <your_key> "say " - :cool:
+5 (%ue005): bind <your_key> "say " - :crazy:
+6 (%ue006): bind <your_key> "say " - :cry:
+7 (%ue007): bind <your_key> "say " - :disapprove:
+8 (%ue008): bind <your_key> "say " - :doubledamage:
+9 (%ue009): bind <your_key> "say " - :facepalm:
+10 (%ue00a): bind <your_key> "say " - :happytears:
+11 (%ue00b): bind <your_key> "say " - :haste:
+12 (%ue00c): bind <your_key> "say " - :hex:
+13 (%ue00d): bind <your_key> "say " - :highfive:
+14 (%ue00e): bind <your_key> "say " - :huh:
+15 (%ue00f): bind <your_key> "say " - :hush:
+16 (%ue010): bind <your_key> "say " - :illusion:
+17 (%ue011): bind <your_key> "say " - :invisibility:
+18 (%ue012): bind <your_key> "say " - :laugh:
+19 (%ue013): bind <your_key> "say " - :rage:
+20 (%ue014): bind <your_key> "say " - :regeneration:
+21 (%ue015): bind <your_key> "say " - :sad:
+22 (%ue016): bind <your_key> "say " - :sick:
+23 (%ue017): bind <your_key> "say " - :sleeping:
+24 (%ue018): bind <your_key> "say " - :smile:
+25 (%ue019): bind <your_key> "say " - :surprise:
+26 (%ue01a): bind <your_key> "say " - :aaaah:
+27 (%ue01b): bind <your_key> "say " - :burn:
+28 (%ue01c): bind <your_key> "say " - :hide:
+29 (%ue01d): bind <your_key> "say " - :iceburn:
+30 (%ue01e): bind <your_key> "say " - :tears:
+31 (%ue01f): bind <your_key> "say " - :techies:
+32 (%ue020): bind <your_key> "say " - :fail:
+33 (%ue021): bind <your_key> "say " - :goodjob:
+34 (%ue022): bind <your_key> "say " - :headshot:
+35 (%ue023): bind <your_key> "say " - :heart:
+36 (%ue024): bind <your_key> "say " - :horse:
+37 (%ue025): bind <your_key> "say " - :grave:
+38 (%ue026): bind <your_key> "say " - :ti4copper:
+39 (%ue027): bind <your_key> "say " - :ti4bronze:
+40 (%ue028): bind <your_key> "say " - :ti4silver:
+41 (%ue029): bind <your_key> "say " - :ti4gold:
+42 (%ue02a): bind <your_key> "say " - :ti4platinum:
+43 (%ue02b): bind <your_key> "say " - :ti4diamond:
+44 (%ue02c): bind <your_key> "say " - :dac15_blush:
+45 (%ue02d): bind <your_key> "say " - :dac15_surprise:
+46 (%ue02e): bind <your_key> "say " - :dac15_cool:
+47 (%ue02f): bind <your_key> "say " - :dac15_duel:
+48 (%ue030): bind <your_key> "say " - :dac15_frog:
+49 (%ue031): bind <your_key> "say " - :dac15_face:
+50 (%ue032): bind <your_key> "say " - :dac15_nosewipe:
+51 (%ue033): bind <your_key> "say " - :dac15_stab:
+52 (%ue034): bind <your_key> "say " - :dac15_transform:
+53 (%ue035): bind <your_key> "say " - :pup:
+54 (%ue036): bind <your_key> "say " - :bts_bristle:
+55 (%ue037): bind <your_key> "say " - :bts_godz:
+56 (%ue038): bind <your_key> "say " - :bts_lina:
+57 (%ue039): bind <your_key> "say " - :bts_merlini:
+58 (%ue03a): bind <your_key> "say " - :bts_rosh:
+59 (%ue03b): bind <your_key> "say " - :cocky:
+60 (%ue03c): bind <your_key> "say " - :devil:
+61 (%ue03d): bind <your_key> "say " - :happy:
+62 (%ue03e): bind <your_key> "say " - :thinking:
+63 (%ue03f): bind <your_key> "say " - :tp:
+64 (%ue040): bind <your_key> "say " - :salty:
+65 (%ue041): bind <your_key> "say " - :angel:
+66 (%ue042): bind <your_key> "say " - :blink:
+67 (%ue043): bind <your_key> "say " - :snot:
+68 (%ue044): bind <your_key> "say " - :stunned:
+69 (%ue045): bind <your_key> "say " - :disappear:
+70 (%ue046): bind <your_key> "say " - :fire:
+71 (%ue047): bind <your_key> "say " - :bountyrune:
+72 (%ue048): bind <your_key> "say " - :troll:
+73 (%ue049): bind <your_key> "say " - :gross:
+74 (%ue04a): bind <your_key> "say " - :ggdire:
+75 (%ue04b): bind <your_key> "say " - :ggradiant:
+76 (%ue04c): bind <your_key> "say " - :yolo:
+77 (%ue04d): bind <your_key> "say " - :throwgame:
+78 (%ue04e): bind <your_key> "say " - :aegis2015:
+79 (%ue04f): bind <your_key> "say " - :eyeroll:
+80 (%ue050): bind <your_key> "say " - :charm_blush:
+81 (%ue051): bind <your_key> "say " - :charm_cheeky:
+82 (%ue052): bind <your_key> "say " - :charm_cool:
+83 (%ue053): bind <your_key> "say " - :charm_crazy:
+84 (%ue054): bind <your_key> "say " - :charm_cry:
+85 (%ue055): bind <your_key> "say " - :charm_disapprove:
+86 (%ue056): bind <your_key> "say " - :charm_facepalm:
+87 (%ue057): bind <your_key> "say " - :charm_happytears:
+88 (%ue058): bind <your_key> "say " - :charm_highfive:
+89 (%ue059): bind <your_key> "say " - :charm_huh:
+90 (%ue05a): bind <your_key> "say " - :charm_hush:
+91 (%ue05b): bind <your_key> "say " - :charm_laugh:
+92 (%ue05c): bind <your_key> "say " - :charm_rage:
+93 (%ue05d): bind <your_key> "say " - :charm_sad:
+94 (%ue05e): bind <your_key> "say " - :charm_sick:
+95 (%ue05f): bind <your_key> "say " - :charm_sleeping:
+96 (%ue060): bind <your_key> "say " - :charm_surprise:
+97 (%ue061): bind <your_key> "say " - :charm_wink:
+98 (%ue062): bind <your_key> "say " - :charm_smile:
+99 (%ue063): bind <your_key> "say " - :charm_onlooker:
+100 (%ue064): bind <your_key> "say " - :eaglesong_2015:
+101 (%ue065): bind <your_key> "say " - :wrath:
+102 (%ue066): bind <your_key> "say " - :snowman:
+103 (%ue067): bind <your_key> "say " - :healed:
+104 (%ue068): bind <your_key> "say " - :drunk:
+105 (%ue069): bind <your_key> "say " - :trophy_2016:
+106 (%ue06a): bind <your_key> "say " - :pa_kiss:
+107 (%ue06b): bind <your_key> "say " - :arcane_rune:
+108 (%ue06c): bind <your_key> "say " - :fuming:
+109 (%ue06d): bind <your_key> "say " - :axe_laugh:
+110 (%ue06e): bind <your_key> "say " - :dizzy:
+111 (%ue06f): bind <your_key> "say " - :zipper:
+112 (%ue070): bind <your_key> "say " - :blush_smile:
+113 (%ue071): bind <your_key> "say " - :nervous:
+114 (%ue072): bind <your_key> "say " - :surprise_blush:
+115 (%ue073): bind <your_key> "say " - :luna_love:
+116 (%ue074): bind <your_key> "say " - :dead_eyes:
+117 (%ue075): bind <your_key> "say " - :giff:
+118 (%ue076): bind <your_key> "say " - :thumbs_up:
+119 (%ue077): bind <your_key> "say " - :thumbs_down:
+120 (%ue078): bind <your_key> "say " - :money:
+121 (%ue079): bind <your_key> "say " - :unicorn:
+122 (%ue07a): bind <your_key> "say " - :naga_song:
+123 (%ue07b): bind <your_key> "say " - :poop:
+124 (%ue07c): bind <your_key> "say " - :aegis_2016:
+125 (%ue07d): bind <your_key> "say " - :tear:
+126 (%ue07e): bind <your_key> "say " - :reaver_2016:
+127 (%ue07f): bind <your_key> "say " - :bc_100:
+128 (%ue080): bind <your_key> "say " - :bc_fire:
+129 (%ue081): bind <your_key> "say " - :bc_ok:
+130 (%ue082): bind <your_key> "say " - :bc_check:
+131 (%ue083): bind <your_key> "say " - :bc_eyes:
+132 (%ue084): bind <your_key> "say " - :bc_frog:
+133 (%ue085): bind <your_key> "say " - :bc_flex:
+134 (%ue086): bind <your_key> "say " - :cocky_ti6_charm:
+135 (%ue087): bind <your_key> "say " - :devil_ti6_charm:
+136 (%ue088): bind <your_key> "say " - :happy_ti6_charm:
+137 (%ue089): bind <your_key> "say " - :thinking_ti6_charm:
+138 (%ue08a): bind <your_key> "say " - :tp_ti6_charm:
+139 (%ue08b): bind <your_key> "say " - :angel_ti6_charm:
+140 (%ue08c): bind <your_key> "say " - :hex_ti6_charm:
+141 (%ue08d): bind <your_key> "say " - :snot_ti6_charm:
+142 (%ue08e): bind <your_key> "say " - :stunned_ti6_charm:
+143 (%ue08f): bind <your_key> "say " - :disappear_ti6_charm:
+144 (%ue090): bind <your_key> "say " - :fire_ti6_charm:
+145 (%ue091): bind <your_key> "say " - :gross_ti6_charm:
+146 (%ue092): bind <your_key> "say " - :yolo_ti6_charm:
+147 (%ue093): bind <your_key> "say " - :throwgame_ti6_charm:
+148 (%ue094): bind <your_key> "say " - :eyeroll_ti6_charm:
+149 (%ue095): bind <your_key> "say " - :lifestealer_ti6_charm:
+150 (%ue096): bind <your_key> "say " - :heal_ti6_charm:
+151 (%ue097): bind <your_key> "say " - :drunk_ti6_charm:
+152 (%ue098): bind <your_key> "say " - :salty_ti6_charm:
+153 (%ue099): bind <your_key> "say " - :chicken_ti6_charm:
+154 (%ue09a): bind <your_key> "say " - :legion_commander_t16_charm:
+155 (%ue09b): bind <your_key> "say " - :underlord_ti6_charm:
+156 (%ue09c): bind <your_key> "say " - :monkey_king_ti6_charm:
+157 (%ue09d): bind <your_key> "say " - :fall_2016_trophy:
+158 (%ue09e): bind <your_key> "say " - :jugg:
+159 (%ue09f): bind <your_key> "say " - :no:
+160 (%ue0a0): bind <your_key> "say " - :recharge:
+161 (%ue0a1): bind <your_key> "say " - :dunno:
+162 (%ue0a2): bind <your_key> "say " - :exclamation:
+163 (%ue0a3): bind <your_key> "say " - :venom:
+164 (%ue0a4): bind <your_key> "say " - :brood_love:
+165 (%ue0a5): bind <your_key> "say " - :darkmoon_chicken:
+166 (%ue0a6): bind <your_key> "say " - :bladeform_legacy:
+167 (%ue0a7): bind <your_key> "say " - :grimace:
+168 (%ue0a8): bind <your_key> "say " - :aegis_2017:
+169 (%ue0a9): bind <your_key> "say " - :gem:
+170 (%ue0aa): bind <your_key> "say " - :plant:
+171 (%ue0ab): bind <your_key> "say " - :relieved:
+172 (%ue0ac): bind <your_key> "say " - :foggy:
+173 (%ue0ad): bind <your_key> "say " - :eh:
+174 (%ue0ae): bind <your_key> "say " - :flex:
+175 (%ue0af): bind <your_key> "say " - :gg:
+176 (%ue0b0): bind <your_key> "say " - :donkey:
+177 (%ue0b1): bind <your_key> "say " - :kiss2:
+178 (%ue0b2): bind <your_key> "say " - :observer_ward:
+179 (%ue0b3): bind <your_key> "say " - :lick:
+180 (%ue0b4): bind <your_key> "say " - :laugh2:
+181 (%ue0b5): bind <your_key> "say " - :sentry_ward:
+182 (%ue0b6): bind <your_key> "say " - :whew:
+183 (%ue0b7): bind <your_key> "say " - :gyro:
+184 (%ue0b8): bind <your_key> "say " - :nerd:
+185 (%ue0b9): bind <your_key> "say " - :confounded:
+186 (%ue0ba): bind <your_key> "say " - :joke:
+187 (%ue0bb): bind <your_key> "say " - :siltbreaker:
+188 (%ue0bc): bind <your_key> "say " - :mischief:
+189 (%ue0bd): bind <your_key> "say " - :heykid:
+190 (%ue0be): bind <your_key> "say " - :huff:
+191 (%ue0bf): bind <your_key> "say " - :beg:
+192 (%ue0c0): bind <your_key> "say " - :kisskiss:
+193 (%ue0c1): bind <your_key> "say " - :snort:
+194 (%ue0c2): bind <your_key> "say " - :sweat:
+195 (%ue0c3): bind <your_key> "say " - :chuckle:
+196 (%ue0c4): bind <your_key> "say " - :stars:
 197 (%ue0c5): bind <your_key> "say "
-198 (%ue0c6): bind <your_key> "say "
-199 (%ue0c7): bind <your_key> "say "
-200 (%ue0c8): bind <your_key> "say "
-201 (%ue0c9): bind <your_key> "say "
-202 (%ue0ca): bind <your_key> "say "
-203 (%ue0cb): bind <your_key> "say "
-204 (%ue0cc): bind <your_key> "say "
-205 (%ue0cd): bind <your_key> "say "
-206 (%ue0ce): bind <your_key> "say "
-207 (%ue0cf): bind <your_key> "say "
-208 (%ue0d0): bind <your_key> "say "
-209 (%ue0d1): bind <your_key> "say "
-210 (%ue0d2): bind <your_key> "say "
-211 (%ue0d3): bind <your_key> "say "
-212 (%ue0d4): bind <your_key> "say "
-213 (%ue0d5): bind <your_key> "say "
-214 (%ue0d6): bind <your_key> "say "
-215 (%ue0d7): bind <your_key> "say "
-216 (%ue0d8): bind <your_key> "say "
-217 (%ue0d9): bind <your_key> "say "
-218 (%ue0da): bind <your_key> "say "
-219 (%ue0db): bind <your_key> "say "
-220 (%ue0dc): bind <your_key> "say "
-221 (%ue0dd): bind <your_key> "say "
-222 (%ue0de): bind <your_key> "say "
-223 (%ue0df): bind <your_key> "say "
-224 (%ue0e0): bind <your_key> "say "
-225 (%ue0e1): bind <your_key> "say "
-226 (%ue0e2): bind <your_key> "say "
-227 (%ue0e3): bind <your_key> "say "
-228 (%ue0e4): bind <your_key> "say "
-229 (%ue0e5): bind <your_key> "say "
-230 (%ue0e6): bind <your_key> "say "
-231 (%ue0e7): bind <your_key> "say "
-232 (%ue0e8): bind <your_key> "say "
-233 (%ue0e9): bind <your_key> "say "
-234 (%ue0ea): bind <your_key> "say "
-235 (%ue0eb): bind <your_key> "say "
-236 (%ue0ec): bind <your_key> "say "
-237 (%ue0ed): bind <your_key> "say "
-238 (%ue0ee): bind <your_key> "say "
-239 (%ue0ef): bind <your_key> "say "
-240 (%ue0f0): bind <your_key> "say "
-241 (%ue0f1): bind <your_key> "say "
-242 (%ue0f2): bind <your_key> "say "
-243 (%ue0f3): bind <your_key> "say "
-244 (%ue0f4): bind <your_key> "say "
-245 (%ue0f5): bind <your_key> "say "
-246 (%ue0f6): bind <your_key> "say "
-247 (%ue0f7): bind <your_key> "say "
-248 (%ue0f8): bind <your_key> "say "
-249 (%ue0f9): bind <your_key> "say "
-250 (%ue0fa): bind <your_key> "say "
-251 (%ue0fb): bind <your_key> "say "
-252 (%ue0fc): bind <your_key> "say "
-253 (%ue0fd): bind <your_key> "say "
-254 (%ue0fe): bind <your_key> "say "
-255 (%ue0ff): bind <your_key> "say "
-256 (%ue100): bind <your_key> "say "
-257 (%ue101): bind <your_key> "say "
-258 (%ue102): bind <your_key> "say "
-259 (%ue103): bind <your_key> "say "
-260 (%ue104): bind <your_key> "say "
-261 (%ue105): bind <your_key> "say "
-262 (%ue106): bind <your_key> "say "
-263 (%ue107): bind <your_key> "say "
-264 (%ue108): bind <your_key> "say "
-265 (%ue109): bind <your_key> "say "
-266 (%ue10a): bind <your_key> "say "
-267 (%ue10b): bind <your_key> "say "
-268 (%ue10c): bind <your_key> "say "
-269 (%ue10d): bind <your_key> "say "
+198 (%ue0c6): bind <your_key> "say " - :sleep:
+199 (%ue0c7): bind <your_key> "say " - :bawl:
+200 (%ue0c8): bind <your_key> "say " - :siltbreaker2:
+201 (%ue0c9): bind <your_key> "say " - :brow:
+202 (%ue0ca): bind <your_key> "say " - :dealwithit:
+203 (%ue0cb): bind <your_key> "say " - :four:
+204 (%ue0cc): bind <your_key> "say " - :ggzeus:
+205 (%ue0cd): bind <your_key> "say " - :hahano:
+206 (%ue0ce): bind <your_key> "say " - :nuh_uh:
+207 (%ue0cf): bind <your_key> "say " - :snicker:
+208 (%ue0d0): bind <your_key> "say " - :welluhh:
+209 (%ue0d1): bind <your_key> "say " - :wplina:
+210 (%ue0d2): bind <your_key> "say " - :pudgesteal:
+211 (%ue0d3): bind <your_key> "say " - :pudgestop:
+212 (%ue0d4): bind <your_key> "say " - :aegis_2018:
+213 (%ue0d5): bind <your_key> "say " - :under_win:
+214 (%ue0d6): bind <your_key> "say " - :under_champ:
+215 (%ue0d7): bind <your_key> "say " - :under_king:
+216 (%ue0d8): bind <your_key> "say " - :frostivus_2018:
+217 (%ue0d9): bind <your_key> "say " - :magus_cypher:
+218 (%ue0da): bind <your_key> "say " - :aegis_2019:
+219 (%ue0db): bind <your_key> "say " - :morokai_woof:
+220 (%ue0dc): bind <your_key> "say " - :cny_rat:
+221 (%ue0dd): bind <your_key> "say " - :doot:
+222 (%ue0de): bind <your_key> "say " - :eyebrows:
+223 (%ue0df): bind <your_key> "say " - :glare:
+224 (%ue0e0): bind <your_key> "say " - :grindteeth:
+225 (%ue0e1): bind <your_key> "say " - :midas:
+226 (%ue0e2): bind <your_key> "say " - :puckchamp:
+227 (%ue0e3): bind <your_key> "say " - :skynervous:
+228 (%ue0e4): bind <your_key> "say " - :tide_drink:
+229 (%ue0e5): bind <your_key> "say " - :oracleburn:
+230 (%ue0e6): bind <your_key> "say " - :mortimer_tongue:
+231 (%ue0e7): bind <your_key> "say " - :iostress:
+232 (%ue0e8): bind <your_key> "say " - :leisure_lion:
+233 (%ue0e9): bind <your_key> "say " - :creepdance:
+234 (%ue0ea): bind <your_key> "say " - :cm_wig:
+235 (%ue0eb): bind <your_key> "say " - :techywheeze:
+236 (%ue0ec): bind <your_key> "say " - :icefrog_giggle:
+237 (%ue0ed): bind <your_key> "say " - :high_five:
+238 (%ue0ee): bind <your_key> "say " - :guildbanner:
+239 (%ue0ef): bind <your_key> "say " - :dazzle_shrug:
+240 (%ue0f0): bind <your_key> "say " - :aegis_2020:
+241 (%ue0f1): bind <your_key> "say " - :scepter:
+242 (%ue0f2): bind <your_key> "say " - :big_brain:
+243 (%ue0f3): bind <your_key> "say " - :chew:
+244 (%ue0f4): bind <your_key> "say " - :creep_complain:
+245 (%ue0f5): bind <your_key> "say " - :doom_rip:
+246 (%ue0f6): bind <your_key> "say " - :giff_diretide:
+247 (%ue0f7): bind <your_key> "say " - :in_the_bag:
+248 (%ue0f8): bind <your_key> "say " - :lucky_cat:
+249 (%ue0f9): bind <your_key> "say " - :pugna_sip:
+250 (%ue0fa): bind <your_key> "say " - :unlucky_cat:
+251 (%ue0fb): bind <your_key> "say " - :pump_mad:
+252 (%ue0fc): bind <your_key> "say " - :pump_sad:
+253 (%ue0fd): bind <your_key> "say " - :pump_glad:
+254 (%ue0fe): bind <your_key> "say " - :omgomni:
+255 (%ue0ff): bind <your_key> "say " - :diredance:
+256 (%ue100): bind <your_key> "say " - :swiz:
+257 (%ue101): bind <your_key> "say " - :wiz_wow:
+258 (%ue102): bind <your_key> "say " - :wiz_bringit:
+259 (%ue103): bind <your_key> "say " - :wiz_glhf:
+260 (%ue104): bind <your_key> "say " - :wiz_help:
+261 (%ue105): bind <your_key> "say " - :wiz_wat:
+262 (%ue106): bind <your_key> "say " - :water_rune:
+263 (%ue107): bind <your_key> "say " - :mango:
+264 (%ue108): bind <your_key> "say " - :earth_perfect:
+265 (%ue109): bind <your_key> "say " - :earth_grin:
+266 (%ue10a): bind <your_key> "say " - :abaddon_depressed:
+267 (%ue10b): bind <your_key> "say " - :bkb:
+268 (%ue10c): bind <your_key> "say " - :bloodthirsty:
+269 (%ue10d): bind <your_key> "say " - :dagon:
 270 (%ue10e): bind <your_key> "say " - :davion_sexy:
-271 (%ue10f): bind <your_key> "say "
-272 (%ue110): bind <your_key> "say "
-273 (%ue111): bind <your_key> "say "
-274 (%ue112): bind <your_key> "say "
-275 (%ue113): bind <your_key> "say "
-276 (%ue114): bind <your_key> "say "
-277 (%ue115): bind <your_key> "say "
-278 (%ue116): bind <your_key> "say "
-279 (%ue117): bind <your_key> "say "
-280 (%ue118): bind <your_key> "say "
-281 (%ue119): bind <your_key> "say "
-282 (%ue11a): bind <your_key> "say "
-283 (%ue11b): bind <your_key> "say "
-284 (%ue11c): bind <your_key> "say "
+271 (%ue10f): bind <your_key> "say " - :ember_angry:
+272 (%ue110): bind <your_key> "say " - :ember_shakefist:
+273 (%ue111): bind <your_key> "say " - :euls:
+274 (%ue112): bind <your_key> "say " - :fasta:
+275 (%ue113): bind <your_key> "say " - :hoodwink_sad:
+276 (%ue114): bind <your_key> "say " - :hookless:
+277 (%ue115): bind <your_key> "say " - :invoker_dry:
+278 (%ue116): bind <your_key> "say " - :luna_rage:
+279 (%ue117): bind <your_key> "say " - :manta:
+280 (%ue118): bind <your_key> "say " - :marci_whistle:
+281 (%ue119): bind <your_key> "say " - :mirana_drink:
+282 (%ue11a): bind <your_key> "say " - :profit:
+283 (%ue11b): bind <your_key> "say " - :radiance:
+284 (%ue11c): bind <your_key> "say " - :rapier:
 285 (%ue11d): bind <your_key> "say "
-286 (%ue11e): bind <your_key> "say "
-287 (%ue11f): bind <your_key> "say "
-288 (%ue120): bind <your_key> "say "
-289 (%ue121): bind <your_key> "say "
-290 (%ue122): bind <your_key> "say "
+286 (%ue11e): bind <your_key> "say " - :shadowdemon_sus:
+287 (%ue11f): bind <your_key> "say " - :slardar_sleepy:
+288 (%ue120): bind <your_key> "say " - :spin:
+289 (%ue121): bind <your_key> "say " - :spotted:
+290 (%ue122): bind <your_key> "say " - :storm_clap:
 291 (%ue123): bind <your_key> "say "
-292 (%ue124): bind <your_key> "say "
-293 (%ue125): bind <your_key> "say "
+292 (%ue124): bind <your_key> "say " - :tango:
+293 (%ue125): bind <your_key> "say " - :tb_laugh:
 294 (%ue126): bind <your_key> "say "
 295 (%ue127): bind <your_key> "say "
-296 (%ue128): bind <your_key> "say "
-297 (%ue129): bind <your_key> "say "
-298 (%ue12a): bind <your_key> "say "
-299 (%ue12b): bind <your_key> "say "
-300 (%ue12c): bind <your_key> "say "
-301 (%ue12d): bind <your_key> "say "
-302 (%ue12e): bind <your_key> "say "
-303 (%ue12f): bind <your_key> "say "
+296 (%ue128): bind <your_key> "say " - :whoahahah:
+297 (%ue129): bind <your_key> "say " - :ti10_compendium:
+298 (%ue12a): bind <your_key> "say " - :aghawooga:
+299 (%ue12b): bind <your_key> "say " - :awwghanim:
+300 (%ue12c): bind <your_key> "say " - :fraghanim:
+301 (%ue12d): bind <your_key> "say " - :poghanim:
+302 (%ue12e): bind <your_key> "say " - :smughanim:
+303 (%ue12f): bind <your_key> "say " - :swaghanim:
 304 (%ue130): bind <your_key> "say "
-305 (%ue131): bind <your_key> "say "
+305 (%ue131): bind <your_key> "say " - :come_here:
 306 (%ue132): bind <your_key> "say "
 307 (%ue133): bind <your_key> "say "
 308 (%ue134): bind <your_key> "say "
@@ -312,36 +312,36 @@
 312 (%ue138): bind <your_key> "say "
 313 (%ue139): bind <your_key> "say "
 314 (%ue13a): bind <your_key> "say "
-315 (%ue13b): bind <your_key> "say "
-316 (%ue13c): bind <your_key> "say "
+315 (%ue13b): bind <your_key> "say " - :giggle:
+316 (%ue13c): bind <your_key> "say " - :hot_cocoa:
 317 (%ue13d): bind <your_key> "say "
-318 (%ue13e): bind <your_key> "say "
-319 (%ue13f): bind <your_key> "say "
+318 (%ue13e): bind <your_key> "say " - :marci_omnom:
+319 (%ue13f): bind <your_key> "say " - :not_like_this:
 320 (%ue140): bind <your_key> "say "
-321 (%ue141): bind <your_key> "say "
+321 (%ue141): bind <your_key> "say " - :smoked_ya:
 322 (%ue142): bind <your_key> "say "
-323 (%ue143): bind <your_key> "say "
-324 (%ue144): bind <your_key> "say "
-325 (%ue145): bind <your_key> "say "
-326 (%ue146): bind <your_key> "say "
-327 (%ue147): bind <your_key> "say "
-328 (%ue148): bind <your_key> "say "
-329 (%ue149): bind <your_key> "say "
-330 (%ue14a): bind <your_key> "say "
-331 (%ue14b): bind <your_key> "say "
-332 (%ue14c): bind <your_key> "say "
-333 (%ue14d): bind <your_key> "say "
-334 (%ue14e): bind <your_key> "say "
-335 (%ue14f): bind <your_key> "say "
-336 (%ue150): bind <your_key> "say "
-337 (%ue151): bind <your_key> "say "
-338 (%ue152): bind <your_key> "say "
-339 (%ue153): bind <your_key> "say "
+323 (%ue143): bind <your_key> "say " - :power_runes:
+324 (%ue144): bind <your_key> "say " - :bucket:
+325 (%ue145): bind <your_key> "say " - :itsatrap:
+326 (%ue146): bind <your_key> "say " - :itsfromprimal:
+327 (%ue147): bind <your_key> "say " - :flamescepter:
+328 (%ue148): bind <your_key> "say " - :apexmage:
+329 (%ue149): bind <your_key> "say " - :sagan_sad:
+330 (%ue14a): bind <your_key> "say " - :flaming_mad:
+331 (%ue14b): bind <your_key> "say " - :shut_up:
+332 (%ue14c): bind <your_key> "say " - :wait_for_it:
+333 (%ue14d): bind <your_key> "say " - :surprised_meepo:
+334 (%ue14e): bind <your_key> "say " - :stupid_bruiser:
+335 (%ue14f): bind <your_key> "say " - :snowballing:
+336 (%ue150): bind <your_key> "say " - :smugstroke:
+337 (%ue151): bind <your_key> "say " - :shivers:
+338 (%ue152): bind <your_key> "say " - :hungry_hellbear:
+339 (%ue153): bind <your_key> "say " - :furious:
 340 (%ue154): bind <your_key> "say " - :eyebrow:
-341 (%ue155): bind <your_key> "say "
-342 (%ue156): bind <your_key> "say "
-343 (%ue157): bind <your_key> "say "
-344 (%ue158): bind <your_key> "say "
+341 (%ue155): bind <your_key> "say " - :closecall:
+342 (%ue156): bind <your_key> "say " - :aegis_2022:
+343 (%ue157): bind <your_key> "say " - :shield_rune:
+344 (%ue158): bind <your_key> "say " - :xp_rune:
 345 (%ue159): bind <your_key> "say "
 346 (%ue15a): bind <your_key> "say "
 347 (%ue15b): bind <your_key> "say "
